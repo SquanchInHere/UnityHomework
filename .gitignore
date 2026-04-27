@@ -40,3 +40,6 @@
 # Diagnostics
 **/sysinfo.txt
 **/*.stacktrace
+
+Basketball/Assets/MarpaStudio/HDRP/ArenaHDRP.unitypackage
+Basketball/Assets/MarpaStudio/URP/ArenaURP.unitypackage
