@@ -1,0 +1,45 @@
+# Unity generated folders anywhere in repository
+**/[Ll]ibrary/
+**/[Tt]emp/
+**/[Oo]bj/
+**/[Bb]uild/
+**/[Bb]uilds/
+**/[Ll]ogs/
+**/[Mm]emoryCaptures/
+**/[Rr]ecordings/
+**/[Uu]ser[Ss]ettings/
+
+# IDE
+**/.vs/
+**/.vscode/
+**/.idea/
+**/.consulo/
+
+# Auto-generated project files
+**/*.csproj
+**/*.unityproj
+**/*.sln
+**/*.suo
+**/*.tmp
+**/*.user
+**/*.userprefs
+**/*.pidb
+**/*.booproj
+**/*.svd
+**/*.pdb
+**/*.mdb
+**/*.opendb
+**/*.VC.db
+**/*.DotSettings.user
+
+# OS junk
+**/.DS_Store
+**/Thumbs.db
+**/Desktop.ini
+
+# Diagnostics
+**/sysinfo.txt
+**/*.stacktrace
+
+Basketball/Assets/MarpaStudio/HDRP/ArenaHDRP.unitypackage
+Basketball/Assets/MarpaStudio/URP/ArenaURP.unitypackage
