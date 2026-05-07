@@ -10,6 +10,8 @@ TagManager:
   - Shield
   - Sword
   - CoinsText
+  - Arrow
+  - Bow
   layers:
   - Default
   - TransparentFX
