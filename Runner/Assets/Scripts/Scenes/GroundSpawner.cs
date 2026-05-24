@@ -1,5 +1,4 @@
 using System.Collections.Generic;
-using Unity.VisualScripting;
 using UnityEngine;
 
 public class GroundSpawner : MonoBehaviour
@@ -82,8 +81,6 @@ public class GroundSpawner : MonoBehaviour
 
     private void SpawnCoins(Transform road, float x, float z)
     {
-        
-
             Instantiate(
                 _coinPrefab,
                 new Vector3(x, 1f, road.position.z + z),
