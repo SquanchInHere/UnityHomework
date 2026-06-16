@@ -556,7 +556,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: aff445447beacfb439b45bda275fc1ec, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Spel
-  _fireBallPrefab: {fileID: 123147861704658804, guid: 1f708bb6dee5cc449ab05072b2ed65f8, type: 3}
+  _fireBallPrefab: {fileID: 79799947992997723, guid: ced1a30b99af08b47927958088854f66, type: 3}
   _spawnPoint: {fileID: 2117529577}
   _fireBallSpeed: 20
   _fireBallKey: 101
