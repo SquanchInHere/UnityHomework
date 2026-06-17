@@ -14,6 +14,9 @@ public class BuildSlot : MonoBehaviour
     [SerializeField] private Color validColor = new(0.4f, 1f, 0.4f, 0.6f);
     [SerializeField] private Color invalidColor = new(1f, 0.4f, 0.4f, 0.6f);
 
+    [Header("Unit Path")]
+    [SerializeField] private Path unitPath;
+
     public bool IsOccupied { get; private set; }
     public GameObject CurrentBuilding { get; private set; }
     public BuildingData CurrentData { get; private set; }
@@ -76,6 +79,23 @@ public class BuildSlot : MonoBehaviour
             building = CurrentBuilding.AddComponent<Building>();
 
         building.Init(this);
+
+        Debug.Log($"{name}: Placed item {data.displayName}.");
+
+        SpawnUnit unitSpawner = CurrentBuilding.GetComponent<SpawnUnit>();
+
+        if (unitSpawner != null)
+        {
+            if (unitPath != null)
+            {
+                unitSpawner.SetPath(unitPath);
+                Debug.Log($"{name}: Path passed to UnitProducer on {data.displayName}.");
+            }
+            else
+            {
+                Debug.LogWarning($"{name}: UnitProducer found on {data.displayName}, but unitPath is missing.");
+            }
+        }
 
         Debug.Log($"{name}: Placed item {data.displayName}.");
 

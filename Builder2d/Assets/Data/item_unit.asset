@@ -16,7 +16,7 @@ MonoBehaviour:
   displayName: 
   icon: {fileID: 3774013527948614892, guid: db95dda3c5700c849a2c4b56a613ae26, type: 3}
   worldSprite: {fileID: 0}
-  worldPrefab: {fileID: 1317706353269254643, guid: 8375c12813b2b0b488912931585479bc, type: 3}
+  worldPrefab: {fileID: 2396764227906482792, guid: be3f8c3f3111989439fed42c1c59e942, type: 3}
   category: units
   costs:
   - type: 0
@@ -25,4 +25,4 @@ MonoBehaviour:
     amount: 10
   - type: 4
     amount: 5
-  refundFraction: 0.5
+  refundFraction: 0
