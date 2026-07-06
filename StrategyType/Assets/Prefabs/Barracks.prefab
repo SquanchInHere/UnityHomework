@@ -125,6 +125,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1ac46742d9e45b74aabca031a4a5658c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Building
-  _unitPrefab: {fileID: 4821325554349222049, guid: e11a5ad28b7cb6840a8054b60987a065, type: 3}
   _spawnPoint: {fileID: 0}
   _spawnCount: 3
+  _data: {fileID: 11400000, guid: 8e5c2dd99ac7c164fb20a9f52364cbec, type: 2}

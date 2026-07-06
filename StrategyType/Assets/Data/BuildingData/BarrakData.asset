@@ -16,19 +16,11 @@ MonoBehaviour:
   DisplayName: Barrak
   Type: 2
   Icon: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
-  Prefab: {fileID: 6419427278575980030, guid: f0ce50adcfdab4742b53e8ad89d32ca1, type: 3}
+  Prefab: {fileID: 3925958617208305487, guid: f80768433a9846f4183b662ae858fabd, type: 3}
   MaxHealth: 300
   Armor: 0
   CanFight: 0
   Damage: 7.5
-  BuildTime: 1
-  BuildCost:
-  - Type: 1
-    Amount: 150
-  - Type: 3
-    Amount: 150
-  - Type: 2
-    Amount: 150
   CanStoreResources: 0
   StorageCapacity: 12000
   CanProduceUnits: 1

@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: WoodData
   m_EditorClassIdentifier: Assembly-CSharp::BuildingData
   Id: 
-  DisplayName: Gold Mine
+  DisplayName: Wood
   Type: 6
   Icon: {fileID: 10901, guid: 0000000000000000f000000000000000, type: 0}
   Prefab: {fileID: 649236379138339666, guid: aa3db91efc0f31843ae8218194998a09, type: 3}
@@ -21,12 +21,6 @@ MonoBehaviour:
   Armor: 0
   CanFight: 0
   Damage: 7.5
-  BuildTime: 1
-  BuildCost:
-  - Type: 1
-    Amount: 100
-  - Type: 2
-    Amount: 30
   CanStoreResources: 0
   StorageCapacity: 100
   CanProduceUnits: 0

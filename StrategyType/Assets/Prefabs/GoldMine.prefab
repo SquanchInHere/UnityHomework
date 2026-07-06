@@ -125,4 +125,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 200684cbe0d098143843058f5d51e140, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ResourcePoint
+  _data: {fileID: 11400000, guid: 870e8fe256bce2d49904949082445b10, type: 2}
   _maxResources: 100

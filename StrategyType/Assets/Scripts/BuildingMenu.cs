@@ -7,21 +7,17 @@ public class BuildingMenu : MonoBehaviour
     [SerializeField] private BuildingPlacer _buildingPlacer;
 
     [Header("Building Recipes")]
-    [SerializeField] private BuildingProductionRecipe _barracksRecipe;
-    [SerializeField] private BuildingProductionRecipe _houseRecipe;
+    [SerializeField] private BuildingProductionRecipe[] _recipes;
 
-    [Header("UI Buttons")]
-    [SerializeField] private Button _barracksButton;
-    [SerializeField] private Button _houseButton;
+    [Header("Generated Menu")]
+    [SerializeField] private Transform _buttonsRoot;
+    [SerializeField] private Button _buttonPrefab;
+
     [SerializeField] private Button _cancelButton;
 
     private void Awake()
     {
-        if (_barracksButton != null)
-            _barracksButton.onClick.AddListener(StartBarracksPlacement);
-
-        if (_houseButton != null)
-            _houseButton.onClick.AddListener(StartHousePlacement);
+        GenerateMenu();
 
         if (_cancelButton != null)
             _cancelButton.onClick.AddListener(CancelPlacement);
@@ -29,24 +25,80 @@ public class BuildingMenu : MonoBehaviour
 
     private void OnDestroy()
     {
-        if (_barracksButton != null)
-            _barracksButton.onClick.RemoveListener(StartBarracksPlacement);
-
-        if (_houseButton != null)
-            _houseButton.onClick.RemoveListener(StartHousePlacement);
-
         if (_cancelButton != null)
             _cancelButton.onClick.RemoveListener(CancelPlacement);
     }
 
-    private void StartBarracksPlacement()
+    private void GenerateMenu()
     {
-        StartPlacement(_barracksRecipe);
+        if (_buttonsRoot == null)
+        {
+            Debug.LogWarning("Buttons root is missing.");
+            return;
+        }
+
+        if (_buttonPrefab == null)
+        {
+            Debug.LogWarning("Button prefab is missing.");
+            return;
+        }
+
+        ClearMenu();
+
+        if (_recipes == null || _recipes.Length == 0)
+        {
+            Debug.LogWarning("Building recipes are empty.");
+            return;
+        }
+
+        foreach (var recipe in _recipes)
+        {
+            if (recipe == null)
+                continue;
+
+            if (recipe.Building == null)
+            {
+                Debug.LogWarning("Building recipe has no BuildingData.");
+                continue;
+            }
+
+            CreateButton(recipe);
+        }
     }
 
-    private void StartHousePlacement()
+    private void CreateButton(BuildingProductionRecipe recipe)
     {
-        StartPlacement(_houseRecipe);
+        var button = Instantiate(_buttonPrefab, _buttonsRoot);
+        button.gameObject.SetActive(true);
+
+        SetButtonText(button, GetRecipeName(recipe));
+
+        button.onClick.AddListener(() =>
+        {
+            StartPlacement(recipe);
+        });
+    }
+
+    private string GetRecipeName(BuildingProductionRecipe recipe)
+    {
+        if (recipe == null || recipe.Building == null)
+            return "Unknown";
+
+        if (!string.IsNullOrWhiteSpace(recipe.Building.DisplayName))
+            return recipe.Building.DisplayName;
+
+        if (!string.IsNullOrWhiteSpace(recipe.Building.Id))
+            return recipe.Building.Id;
+
+        return recipe.Building.Type.ToString();
+    }
+
+    private void SetButtonText(Button button, string text)
+    {
+        var label = button.GetComponentInChildren<Text>();
+
+        if (label != null)
+            label.text = text;
     }
 
     private void StartPlacement(BuildingProductionRecipe recipe)
@@ -70,5 +122,11 @@ public class BuildingMenu : MonoBehaviour
     {
         if (_buildingPlacer != null)
             _buildingPlacer.CancelCurrentPlacement();
+    }
+
+    private void ClearMenu()
+    {
+        for (var i = _buttonsRoot.childCount - 1; i >= 0; i--)
+            Destroy(_buttonsRoot.GetChild(i).gameObject);
     }
 }

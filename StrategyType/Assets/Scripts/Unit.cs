@@ -263,6 +263,7 @@ public class Unit : MonoBehaviour
         foreach (var b in buildings)
         {
             if (!b.isActiveAndEnabled) continue;
+            if (b.Data == null || !b.Data.CanStoreResources) continue;
 
             var dist = Vector3.Distance(transform.position, b.transform.position);
             if (dist < nearestDist)

@@ -54,7 +54,12 @@ public class SelectionSystem : MonoBehaviour
             if (building != null)
             {
                 ClearSelection();
-                building.SpawnUnits();
+
+                if (building.Data != null)
+                    Debug.Log($"Selected building: {building.Data.DisplayName}");
+                else
+                    Debug.Log("Selected building.");
+
                 return;
             }
 
