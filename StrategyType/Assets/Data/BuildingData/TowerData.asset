@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aeac98743f513c143ab089991e5d7a62, type: 3}
+  m_Name: TowerData
+  m_EditorClassIdentifier: Assembly-CSharp::BuildingData
+  Id: 
+  DisplayName: 
+  Type: 4
+  Icon: {fileID: 0}
+  Prefab: {fileID: 0}
+  MaxHealth: 300
+  Armor: 0
+  CanFight: 1
+  Damage: 7.5
+  BuildTime: 1
+  BuildCost:
+  - Type: 1
+    Amount: 25
+  - Type: 2
+    Amount: 15
+  CanStoreResources: 0
+  StorageCapacity: 100
+  CanProduceUnits: 0
+  ProducedUnits: []
+  BuildingCount: 0

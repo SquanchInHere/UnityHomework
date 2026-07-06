@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aeac98743f513c143ab089991e5d7a62, type: 3}
+  m_Name: StorageData
+  m_EditorClassIdentifier: Assembly-CSharp::BuildingData
+  Id: 
+  DisplayName: 
+  Type: 0
+  Icon: {fileID: 0}
+  Prefab: {fileID: 0}
+  MaxHealth: 300
+  Armor: 0
+  CanFight: 0
+  Damage: 7.5
+  BuildTime: 1
+  BuildCost:
+  - Type: 1
+    Amount: 74
+  - Type: 2
+    Amount: 65
+  - Type: 3
+    Amount: 150
+  CanStoreResources: 1
+  StorageCapacity: 1000
+  CanProduceUnits: 0
+  ProducedUnits: []
+  BuildingCount: 10
