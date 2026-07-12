@@ -148,7 +148,7 @@ public class GameManager : MonoBehaviour
     {
         if (gameOver) return;
 
-        Vector3 nextPosition = (Vector3)currentPiece.transform.position + Vector3.up;
+        Vector2 nextPosition = (Vector2)currentPiece.transform.position + Vector2.up;
 
         if (!currentPiece.CanFitAtPosition(nextPosition))
         {

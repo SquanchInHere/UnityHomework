@@ -19,7 +19,7 @@ public class Tetromino : MonoBehaviour
         new Vector2(2, 0),
         Vector2.up,
         Vector2.down,
-        new Vector2(0, -2),
+        //new Vector2(0, -2),
     };
 
     public void Initialize(int index, Vector2 spawnPos, GridManager gm, Sprite sprite)
