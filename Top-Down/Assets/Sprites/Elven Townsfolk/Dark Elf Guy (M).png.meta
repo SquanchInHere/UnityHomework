@@ -1,0 +1,4823 @@
+fileFormatVersion: 2
+guid: ddb9869d6d770514193e5b0548fb6728
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7952197869144117147
+    second: Dark Elf Guy (M)_0
+  - first:
+      213: 7944370374042680208
+    second: Dark Elf Guy (M)_1
+  - first:
+      213: 5560668771862685046
+    second: Dark Elf Guy (M)_2
+  - first:
+      213: 787529669765144859
+    second: Dark Elf Guy (M)_3
+  - first:
+      213: 3678845750084454611
+    second: Dark Elf Guy (M)_4
+  - first:
+      213: -899540947588752888
+    second: Dark Elf Guy (M)_5
+  - first:
+      213: -6418236157175679545
+    second: Dark Elf Guy (M)_6
+  - first:
+      213: -4355415338149095202
+    second: Dark Elf Guy (M)_7
+  - first:
+      213: -2270489396795572381
+    second: Dark Elf Guy (M)_8
+  - first:
+      213: 8325790051837585019
+    second: Dark Elf Guy (M)_9
+  - first:
+      213: -5448024310095738726
+    second: Dark Elf Guy (M)_10
+  - first:
+      213: 2029089624598219147
+    second: Dark Elf Guy (M)_11
+  - first:
+      213: -1423561292062523543
+    second: Dark Elf Guy (M)_12
+  - first:
+      213: 2118878332433129321
+    second: Dark Elf Guy (M)_13
+  - first:
+      213: 7800276168516163941
+    second: Dark Elf Guy (M)_14
+  - first:
+      213: 9193272576478320430
+    second: Dark Elf Guy (M)_15
+  - first:
+      213: -1577080480441588146
+    second: Dark Elf Guy (M)_16
+  - first:
+      213: -1512121288390011116
+    second: Dark Elf Guy (M)_17
+  - first:
+      213: 4558645534458038548
+    second: Dark Elf Guy (M)_18
+  - first:
+      213: 3133956578604566906
+    second: Dark Elf Guy (M)_19
+  - first:
+      213: -5441290438578932359
+    second: Dark Elf Guy (M)_20
+  - first:
+      213: -8298346042046767871
+    second: Dark Elf Guy (M)_21
+  - first:
+      213: 3754254381271006737
+    second: Dark Elf Guy (M)_22
+  - first:
+      213: 4750564749863779264
+    second: Dark Elf Guy (M)_23
+  - first:
+      213: 6687760776531851494
+    second: Dark Elf Guy (M)_24
+  - first:
+      213: -6208744338136755756
+    second: Dark Elf Guy (M)_25
+  - first:
+      213: 7721150790999572323
+    second: Dark Elf Guy (M)_26
+  - first:
+      213: -2993416586968037933
+    second: Dark Elf Guy (M)_27
+  - first:
+      213: -4807022169762598079
+    second: Dark Elf Guy (M)_28
+  - first:
+      213: 7928168387161006628
+    second: Dark Elf Guy (M)_29
+  - first:
+      213: 1842762630463420475
+    second: Dark Elf Guy (M)_30
+  - first:
+      213: -8901945587986724345
+    second: Dark Elf Guy (M)_31
+  - first:
+      213: 7110081824113167176
+    second: Dark Elf Guy (M)_32
+  - first:
+      213: 4290921784704811451
+    second: Dark Elf Guy (M)_33
+  - first:
+      213: 2870188093507902592
+    second: Dark Elf Guy (M)_34
+  - first:
+      213: -1357659719917780311
+    second: Dark Elf Guy (M)_35
+  - first:
+      213: 4255040462693825548
+    second: Dark Elf Guy (M)_36
+  - first:
+      213: 2296242975832293462
+    second: Dark Elf Guy (M)_37
+  - first:
+      213: -5719772774660628722
+    second: Dark Elf Guy (M)_38
+  - first:
+      213: -1130215020061181202
+    second: Dark Elf Guy (M)_39
+  - first:
+      213: 5252457548899995432
+    second: Dark Elf Guy (M)_40
+  - first:
+      213: -8017849372022183985
+    second: Dark Elf Guy (M)_41
+  - first:
+      213: -5740987773176926201
+    second: Dark Elf Guy (M)_42
+  - first:
+      213: 8261133382350078601
+    second: Dark Elf Guy (M)_43
+  - first:
+      213: 7796277760538606741
+    second: Dark Elf Guy (M)_44
+  - first:
+      213: 7776723350032754309
+    second: Dark Elf Guy (M)_45
+  - first:
+      213: 776226434566302306
+    second: Dark Elf Guy (M)_46
+  - first:
+      213: -7977850785315613154
+    second: Dark Elf Guy (M)_47
+  - first:
+      213: 8308694666490102257
+    second: Dark Elf Guy (M)_48
+  - first:
+      213: 1636938132340458615
+    second: Dark Elf Guy (M)_49
+  - first:
+      213: 6689398962106025009
+    second: Dark Elf Guy (M)_50
+  - first:
+      213: 9098618744507434658
+    second: Dark Elf Guy (M)_51
+  - first:
+      213: 1335837169374601341
+    second: Dark Elf Guy (M)_52
+  - first:
+      213: -6434255780419573766
+    second: Dark Elf Guy (M)_53
+  - first:
+      213: -7403589022579751889
+    second: Dark Elf Guy (M)_54
+  - first:
+      213: -1195584774357765475
+    second: Dark Elf Guy (M)_55
+  - first:
+      213: 2810522391601016390
+    second: Dark Elf Guy (M)_56
+  - first:
+      213: 3224060656885430735
+    second: Dark Elf Guy (M)_57
+  - first:
+      213: -3010864617231641523
+    second: Dark Elf Guy (M)_58
+  - first:
+      213: 4575043007152098405
+    second: Dark Elf Guy (M)_59
+  - first:
+      213: -2080256005803535538
+    second: Dark Elf Guy (M)_60
+  - first:
+      213: -1784737667705810304
+    second: Dark Elf Guy (M)_61
+  - first:
+      213: -8986135392860597070
+    second: Dark Elf Guy (M)_62
+  - first:
+      213: -1175959848008400317
+    second: Dark Elf Guy (M)_63
+  - first:
+      213: -7071559152007275712
+    second: Dark Elf Guy (M)_64
+  - first:
+      213: -4663367629578613592
+    second: Dark Elf Guy (M)_65
+  - first:
+      213: 4760817357426312835
+    second: Dark Elf Guy (M)_66
+  - first:
+      213: 1991020813235024912
+    second: Dark Elf Guy (M)_67
+  - first:
+      213: -5240308094047872021
+    second: Dark Elf Guy (M)_68
+  - first:
+      213: -4929406742006798813
+    second: Dark Elf Guy (M)_69
+  - first:
+      213: 7208437915341882064
+    second: Dark Elf Guy (M)_70
+  - first:
+      213: -9214129240282531054
+    second: Dark Elf Guy (M)_71
+  - first:
+      213: -5134303121132182238
+    second: Dark Elf Guy (M)_72
+  - first:
+      213: 8202176190164414007
+    second: Dark Elf Guy (M)_73
+  - first:
+      213: -5488053978225419363
+    second: Dark Elf Guy (M)_74
+  - first:
+      213: 5352151237901636936
+    second: Dark Elf Guy (M)_75
+  - first:
+      213: -51279334298676794
+    second: Dark Elf Guy (M)_76
+  - first:
+      213: -8348841217239934805
+    second: Dark Elf Guy (M)_77
+  - first:
+      213: -1303387461791514471
+    second: Dark Elf Guy (M)_78
+  - first:
+      213: -6238865402911066703
+    second: Dark Elf Guy (M)_79
+  - first:
+      213: -2876240585746194042
+    second: Dark Elf Guy (M)_80
+  - first:
+      213: -3464344453117408277
+    second: Dark Elf Guy (M)_81
+  - first:
+      213: 8724652805653706786
+    second: Dark Elf Guy (M)_82
+  - first:
+      213: -551363092637304995
+    second: Dark Elf Guy (M)_83
+  - first:
+      213: -5439520444113954438
+    second: Dark Elf Guy (M)_84
+  - first:
+      213: -2592071617834158112
+    second: Dark Elf Guy (M)_85
+  - first:
+      213: 2249969894187729401
+    second: Dark Elf Guy (M)_86
+  - first:
+      213: -2655915875964277752
+    second: Dark Elf Guy (M)_87
+  - first:
+      213: 960993296301912151
+    second: Dark Elf Guy (M)_88
+  - first:
+      213: -1571622477487241436
+    second: Dark Elf Guy (M)_89
+  - first:
+      213: 6838174534272508022
+    second: Dark Elf Guy (M)_90
+  - first:
+      213: -8307757560108384036
+    second: Dark Elf Guy (M)_91
+  - first:
+      213: 4487362521594938055
+    second: Dark Elf Guy (M)_92
+  - first:
+      213: -5571557069138810441
+    second: Dark Elf Guy (M)_93
+  - first:
+      213: 8221100656180146124
+    second: Dark Elf Guy (M)_94
+  - first:
+      213: 4637967735751753367
+    second: Dark Elf Guy (M)_95
+  - first:
+      213: 8910910927687400139
+    second: Dark Elf Guy (M)_96
+  - first:
+      213: 6117322249030936071
+    second: Dark Elf Guy (M)_97
+  - first:
+      213: 8243665088756848831
+    second: Dark Elf Guy (M)_98
+  - first:
+      213: 4851697663672921124
+    second: Dark Elf Guy (M)_99
+  - first:
+      213: 1800443792183525077
+    second: Dark Elf Guy (M)_100
+  - first:
+      213: 2248790209619650246
+    second: Dark Elf Guy (M)_101
+  - first:
+      213: 2251258624969103942
+    second: Dark Elf Guy (M)_102
+  - first:
+      213: 2275562222415632575
+    second: Dark Elf Guy (M)_103
+  - first:
+      213: -8860986320407723899
+    second: Dark Elf Guy (M)_104
+  - first:
+      213: 7461394794745348795
+    second: Dark Elf Guy (M)_105
+  - first:
+      213: -3963998235464946014
+    second: Dark Elf Guy (M)_106
+  - first:
+      213: 7041343451972342584
+    second: Dark Elf Guy (M)_107
+  - first:
+      213: 5157893813669057519
+    second: Dark Elf Guy (M)_108
+  - first:
+      213: 853761779046538150
+    second: Dark Elf Guy (M)_109
+  - first:
+      213: -2553222450310956946
+    second: Dark Elf Guy (M)_110
+  - first:
+      213: -6008057606237386767
+    second: Dark Elf Guy (M)_111
+  - first:
+      213: -6101426405999906848
+    second: Dark Elf Guy (M)_112
+  - first:
+      213: -4958114892300511374
+    second: Dark Elf Guy (M)_113
+  - first:
+      213: 386917912772183681
+    second: Dark Elf Guy (M)_114
+  - first:
+      213: 8188694220839754056
+    second: Dark Elf Guy (M)_115
+  - first:
+      213: -1472769545173149267
+    second: Dark Elf Guy (M)_116
+  - first:
+      213: -7403223681667455132
+    second: Dark Elf Guy (M)_117
+  - first:
+      213: -2537481175335147385
+    second: Dark Elf Guy (M)_118
+  - first:
+      213: 6401552688314812192
+    second: Dark Elf Guy (M)_119
+  - first:
+      213: -2264818694647998880
+    second: Dark Elf Guy (M)_120
+  - first:
+      213: -2346347314007362453
+    second: Dark Elf Guy (M)_121
+  - first:
+      213: 1492333702663278935
+    second: Dark Elf Guy (M)_122
+  - first:
+      213: -4356848811869655
+    second: Dark Elf Guy (M)_123
+  - first:
+      213: 8461835691838387654
+    second: Dark Elf Guy (M)_124
+  - first:
+      213: 9192649605699484595
+    second: Dark Elf Guy (M)_125
+  - first:
+      213: 3883697272659890881
+    second: Dark Elf Guy (M)_126
+  - first:
+      213: 479987074281472523
+    second: Dark Elf Guy (M)_127
+  - first:
+      213: -5479431258933357641
+    second: Dark Elf Guy (M)_128
+  - first:
+      213: 8858858472109469415
+    second: Dark Elf Guy (M)_129
+  - first:
+      213: -3712472476284639277
+    second: Dark Elf Guy (M)_130
+  - first:
+      213: -981025026533003623
+    second: Dark Elf Guy (M)_131
+  - first:
+      213: 8473331883149000208
+    second: Dark Elf Guy (M)_132
+  - first:
+      213: 7987331120202096503
+    second: Dark Elf Guy (M)_133
+  - first:
+      213: 6666692256221987425
+    second: Dark Elf Guy (M)_134
+  - first:
+      213: 4852116248216970887
+    second: Dark Elf Guy (M)_135
+  - first:
+      213: -997925536720140681
+    second: Dark Elf Guy (M)_136
+  - first:
+      213: 6922233209231642194
+    second: Dark Elf Guy (M)_137
+  - first:
+      213: -1662260157892791515
+    second: Dark Elf Guy (M)_138
+  - first:
+      213: -4174518381088948435
+    second: Dark Elf Guy (M)_139
+  - first:
+      213: -5831408875161317774
+    second: Dark Elf Guy (M)_140
+  - first:
+      213: 8136684967033875800
+    second: Dark Elf Guy (M)_141
+  - first:
+      213: 2210591931427415913
+    second: Dark Elf Guy (M)_142
+  - first:
+      213: 661663242064992347
+    second: Dark Elf Guy (M)_143
+  - first:
+      213: 2084360778098883248
+    second: Dark Elf Guy (M)_144
+  - first:
+      213: 5335085261816059134
+    second: Dark Elf Guy (M)_145
+  - first:
+      213: 6424452828289892142
+    second: Dark Elf Guy (M)_146
+  - first:
+      213: 2233565893747223680
+    second: Dark Elf Guy (M)_147
+  - first:
+      213: -6990071120869004142
+    second: Dark Elf Guy (M)_148
+  - first:
+      213: 6104753342662507150
+    second: Dark Elf Guy (M)_149
+  - first:
+      213: 3648150417085731743
+    second: Dark Elf Guy (M)_150
+  - first:
+      213: 1054562640333061003
+    second: Dark Elf Guy (M)_151
+  - first:
+      213: 7136929797558087959
+    second: Dark Elf Guy (M)_152
+  - first:
+      213: -7984819233608800047
+    second: Dark Elf Guy (M)_153
+  - first:
+      213: -2195558181603423183
+    second: Dark Elf Guy (M)_154
+  - first:
+      213: 4513891471331251045
+    second: Dark Elf Guy (M)_155
+  - first:
+      213: -394554030167423751
+    second: Dark Elf Guy (M)_156
+  - first:
+      213: 3251200717214539838
+    second: Dark Elf Guy (M)_157
+  - first:
+      213: 4661574439695999843
+    second: Dark Elf Guy (M)_158
+  - first:
+      213: 5908044953776571810
+    second: Dark Elf Guy (M)_159
+  - first:
+      213: -7668682144108696398
+    second: Dark Elf Guy (M)_160
+  - first:
+      213: 8136841172162962939
+    second: Dark Elf Guy (M)_161
+  - first:
+      213: 106559505322624776
+    second: Dark Elf Guy (M)_162
+  - first:
+      213: 6220593734320235322
+    second: Dark Elf Guy (M)_163
+  - first:
+      213: 6674262317206617248
+    second: Dark Elf Guy (M)_164
+  - first:
+      213: -462740722490301849
+    second: Dark Elf Guy (M)_165
+  - first:
+      213: 2534815174963838484
+    second: Dark Elf Guy (M)_166
+  - first:
+      213: -2313566151843580908
+    second: Dark Elf Guy (M)_167
+  - first:
+      213: -5640609143826015055
+    second: Dark Elf Guy (M)_168
+  - first:
+      213: 4610055850524490383
+    second: Dark Elf Guy (M)_169
+  - first:
+      213: 9069495256230582092
+    second: Dark Elf Guy (M)_170
+  - first:
+      213: 562842319653283628
+    second: Dark Elf Guy (M)_171
+  - first:
+      213: 9135879854248976367
+    second: Dark Elf Guy (M)_172
+  - first:
+      213: -337231316530319043
+    second: Dark Elf Guy (M)_173
+  - first:
+      213: -6141939349064583076
+    second: Dark Elf Guy (M)_174
+  - first:
+      213: 8319536405675795718
+    second: Dark Elf Guy (M)_175
+  - first:
+      213: -6579692731491067858
+    second: Dark Elf Guy (M)_176
+  - first:
+      213: 2990152095089630993
+    second: Dark Elf Guy (M)_177
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1281
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f04f554d1eb5e60800000000000000
+      internalID: 7952197869144117147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1281
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b73fc93c2104e60800000000000000
+      internalID: 7944370374042680208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1281
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675ab7c49c67b2d40800000000000000
+      internalID: 5560668771862685046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1281
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11ae68ef0eddea00800000000000000
+      internalID: 787529669765144859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_4
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1281
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d84d35e7b2ed0330800000000000000
+      internalID: 3678845750084454611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_5
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1281
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80add0e26403483f0800000000000000
+      internalID: -899540947588752888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_6
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1281
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c5b9f66838dde6a0800000000000000
+      internalID: -6418236157175679545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_7
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1217
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed8d55073d47e83c0800000000000000
+      internalID: -4355415338149095202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_8
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1217
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f75b55ce99d70e0800000000000000
+      internalID: -2270489396795572381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_9
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1217
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b76a242b0f52b8370800000000000000
+      internalID: 8325790051837585019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_10
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1217
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a980d0d31cab464b0800000000000000
+      internalID: -5448024310095738726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_11
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1217
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b898b935346c82c10800000000000000
+      internalID: 2029089624598219147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_12
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1217
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ffd961c8e7e3ce0800000000000000
+      internalID: -1423561292062523543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_13
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1217
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96fd2f6fd94c76d10800000000000000
+      internalID: 2118878332433129321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1153
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 569d95ef8d5204c60800000000000000
+      internalID: 7800276168516163941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1153
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27945443b0159f70800000000000000
+      internalID: 9193272576478320430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_16
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1153
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46a315a8a51d1ae0800000000000000
+      internalID: -1577080480441588146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_17
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1153
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417153423bdd30be0800000000000000
+      internalID: -1512121288390011116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_18
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1153
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419ca4af5ff834f30800000000000000
+      internalID: 4558645534458038548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_19
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1153
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79493167ec0e7b20800000000000000
+      internalID: 3133956578604566906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_20
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1153
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 975f5c0ec27ac74b0800000000000000
+      internalID: -5441290438578932359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_21
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1089
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d9884cd3a56dc80800000000000000
+      internalID: -8298346042046767871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_22
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1089
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ebc18087ac91430800000000000000
+      internalID: 3754254381271006737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_23
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1089
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb7f1e68756de140800000000000000
+      internalID: 4750564749863779264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_24
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1089
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8b8f33ef2bfcc50800000000000000
+      internalID: 6687760776531851494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_25
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1089
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d114287beb16d9a0800000000000000
+      internalID: -6208744338136755756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_26
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1089
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f71ca6cb9072b60800000000000000
+      internalID: 7721150790999572323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_27
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1089
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d50205597f3576d0800000000000000
+      internalID: -2993416586968037933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1025
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1437fd72ec60a4db0800000000000000
+      internalID: -4807022169762598079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_29
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1023
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 422a6349423860e60800000000000000
+      internalID: 7928168387161006628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_30
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1023
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b38f22a59dec29910800000000000000
+      internalID: 1842762630463420475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_31
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1023
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a023af6afe57480800000000000000
+      internalID: -8901945587986724345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_32
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1023
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b0a3a8fb51ca260800000000000000
+      internalID: 7110081824113167176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_33
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1023
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1c05001aa6c8b30800000000000000
+      internalID: 4290921784704811451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_34
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1023
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c18183dd4f4d720800000000000000
+      internalID: 2870188093507902592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_35
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1023
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2c17c8daf982de0800000000000000
+      internalID: -1357659719917780311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_36
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 961
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c77c3b1c0fc0b30800000000000000
+      internalID: 4255040462693825548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_37
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 961
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650487c02d4eddf10800000000000000
+      internalID: 2296242975832293462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_38
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 961
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f176257f84f90b0800000000000000
+      internalID: -5719772774660628722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_39
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 961
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea31796d6ba050f0800000000000000
+      internalID: -1130215020061181202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_40
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 961
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82fc000ef4a74e840800000000000000
+      internalID: 5252457548899995432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_41
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 961
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc7670ef970eab090800000000000000
+      internalID: -8017849372022183985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_42
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 961
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 700bdef890ae350b0800000000000000
+      internalID: -5740987773176926201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_43
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 961
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9820919ba0175a270800000000000000
+      internalID: 8261133382350078601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_44
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 897
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c7e271151f13c60800000000000000
+      internalID: 7796277760538606741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_45
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 898
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 586203b1fa87ceb60800000000000000
+      internalID: 7776723350032754309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_46
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 898
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26aa79164d5b5ca00800000000000000
+      internalID: 776226434566302306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_47
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 898
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16113eaafaf84190800000000000000
+      internalID: -7977850785315613154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_48
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 898
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1435f17c96e4370800000000000000
+      internalID: 8308694666490102257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_49
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 898
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774c179fe8297b610800000000000000
+      internalID: 1636938132340458615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_50
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 898
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13442310ae485dc50800000000000000
+      internalID: 6689398962106025009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_51
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 898
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a68315aa89c44e70800000000000000
+      internalID: 9098618744507434658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_52
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 833
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d702656f3d8d98210800000000000000
+      internalID: 1335837169374601341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_53
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 833
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af76616357ee4b6a0800000000000000
+      internalID: -6434255780419573766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_54
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 833
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f240726820b214990800000000000000
+      internalID: -7403589022579751889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_55
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 833
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d923a817bfd686fe0800000000000000
+      internalID: -1195584774357765475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_56
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 833
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ee8a0793bf00720800000000000000
+      internalID: 2810522391601016390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_57
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 833
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9f7fbe51a2ebc20800000000000000
+      internalID: 3224060656885430735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_58
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 833
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d449d1735924736d0800000000000000
+      internalID: -3010864617231641523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_59
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 833
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c8f691061dd7f30800000000000000
+      internalID: 4575043007152098405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_60
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 770
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4315343f227123e0800000000000000
+      internalID: -2080256005803535538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 770
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 082d2231c865b37e0800000000000000
+      internalID: -1784737667705810304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_62
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 769
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b49af48875da4380800000000000000
+      internalID: -8986135392860597070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_63
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 768
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 342465dafb62eafe0800000000000000
+      internalID: -1175959848008400317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_64
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 769
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b91700b66ccdd90800000000000000
+      internalID: -7071559152007275712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_65
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 770
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac49e539d3684fb0800000000000000
+      internalID: -4663367629578613592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_66
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 769
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386c8e5a922d11240800000000000000
+      internalID: 4760817357426312835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_67
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 768
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014784971e681ab10800000000000000
+      internalID: 1991020813235024912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_68
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 769
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb1ca48d8fa647b0800000000000000
+      internalID: -5240308094047872021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_69
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 705
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326e44d6faa379bb0800000000000000
+      internalID: -4929406742006798813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_70
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 705
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d209619714890460800000000000000
+      internalID: 7208437915341882064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_71
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 706
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b7b664646d02080800000000000000
+      internalID: -9214129240282531054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_72
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 706
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 225acb7938a4fb8b0800000000000000
+      internalID: -5134303121132182238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_73
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 705
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73eaae7b9cbf3d170800000000000000
+      internalID: 8202176190164414007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_74
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 705
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b54b7dbf386d3b0800000000000000
+      internalID: -5488053978225419363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_75
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 705
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8455b47a139a64a40800000000000000
+      internalID: 5352151237901636936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_76
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 705
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c11fc697b1d94ff0800000000000000
+      internalID: -51279334298676794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_77
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 705
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba81640a525f22c80800000000000000
+      internalID: -8348841217239934805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_78
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 641
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9900837520079ede0800000000000000
+      internalID: -1303387461791514471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_79
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 641
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5f20298f81b69a0800000000000000
+      internalID: -6238865402911066703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_80
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 640
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681690e1d6a8518d0800000000000000
+      internalID: -2876240585746194042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_81
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 640
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb8754231d2cefc0800000000000000
+      internalID: -3464344453117408277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_82
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 640
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228ba956081341970800000000000000
+      internalID: 8724652805653706786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_83
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 641
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57b711403a2958f0800000000000000
+      internalID: -551363092637304995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_84
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 640
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79dc14d9f0f284b0800000000000000
+      internalID: -5439520444113954438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_85
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 640
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e77f92d89c170cd0800000000000000
+      internalID: -2592071617834158112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_86
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 640
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1026aa2bf793f10800000000000000
+      internalID: 2249969894187729401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_87
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 577
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c24db159a442bd0800000000000000
+      internalID: -2655915875964277752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_88
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 577
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7507b99bf42265d00800000000000000
+      internalID: 960993296301912151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_89
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 578
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4278a5cfea9703ae0800000000000000
+      internalID: -1571622477487241436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_90
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 578
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6706f6b328316ee50800000000000000
+      internalID: 6838174534272508022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_91
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 577
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd08ca5f38ae4bc80800000000000000
+      internalID: -8307757560108384036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_92
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 577
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c241163070564e30800000000000000
+      internalID: 4487362521594938055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_93
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 577
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b92a207d5adda2b0800000000000000
+      internalID: -5571557069138810441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_94
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 577
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf29525d77371270800000000000000
+      internalID: 8221100656180146124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_95
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 577
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79eb439251f5d5040800000000000000
+      internalID: 4637967735751753367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_96
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 513
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca34f5d64ae9ab70800000000000000
+      internalID: 8910910927687400139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_97
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 512
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 706251eac2815e450800000000000000
+      internalID: 6117322249030936071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_98
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 512
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb814aea8b1676270800000000000000
+      internalID: 8243665088756848831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_99
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 512
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c21d8d151b45340800000000000000
+      internalID: 4851697663672921124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_100
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 512
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5def72ff6167cf810800000000000000
+      internalID: 1800443792183525077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_101
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 512
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c661c2f7ce453f10800000000000000
+      internalID: 2248790209619650246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_102
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 449
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a51deaac31e3f10800000000000000
+      internalID: 2251258624969103942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_103
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 449
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8d16be8cb649f10800000000000000
+      internalID: 2275562222415632575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_104
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 449
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580808c93e3770580800000000000000
+      internalID: -8860986320407723899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_105
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 449
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2cebd98033c8760800000000000000
+      internalID: 7461394794745348795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_106
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 449
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae26d46b9c0df8c0800000000000000
+      internalID: -3963998235464946014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_107
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 449
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833955c1090e7b160800000000000000
+      internalID: 7041343451972342584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_108
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 385
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3dde88815849740800000000000000
+      internalID: 5157893813669057519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_109
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 385
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6abdfda80db29db00800000000000000
+      internalID: 853761779046538150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_110
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 385
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68b9a085b1219cd0800000000000000
+      internalID: -2553222450310956946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_111
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 385
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7032e60771f9ca0800000000000000
+      internalID: -6008057606237386767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_112
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 385
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0efef2fa201635ba0800000000000000
+      internalID: -6101426405999906848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_113
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 385
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2779ad056cc313bb0800000000000000
+      internalID: -4958114892300511374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_114
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 321
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186850caacb9e5500800000000000000
+      internalID: 386917912772183681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_115
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 321
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 849927f120614a170800000000000000
+      internalID: 8188694220839754056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_116
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 321
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9d0f7d6ebaf8be0800000000000000
+      internalID: -1472769545173149267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_117
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 321
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 467a3751947724990800000000000000
+      internalID: -7403223681667455132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_118
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 321
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78868efa05e09ccd0800000000000000
+      internalID: -2537481175335147385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_119
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 321
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02783fdc042e6d850800000000000000
+      internalID: 6401552688314812192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_120
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 257
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06697d0956fb190e0800000000000000
+      internalID: -2264818694647998880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_121
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 255
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6436e4ac89107fd0800000000000000
+      internalID: -2346347314007362453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_122
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 255
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75196998895d5b410800000000000000
+      internalID: 1492333702663278935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_123
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 255
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a7a36187580fff0800000000000000
+      internalID: -4356848811869655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_124
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 255
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c5bfbf9aba7e6570800000000000000
+      internalID: 8461835691838387654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_125
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 255
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb3a549c1ad29f70800000000000000
+      internalID: 9192649605699484595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_126
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 255
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2db00c71aa5e530800000000000000
+      internalID: 3883697272659890881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_127
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 255
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b02835373b149a600800000000000000
+      internalID: 479987074281472523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_128
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 255
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b31b102d4625f3b0800000000000000
+      internalID: -5479431258933357641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_129
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 255
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee6b8918dcf0fa70800000000000000
+      internalID: 8858858472109469415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_130
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 255
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7a3acc3f5aa7cc0800000000000000
+      internalID: -3712472476284639277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_131
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 255
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e6bb1afe2b262f0800000000000000
+      internalID: -981025026533003623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_132
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 255
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e761f3472579570800000000000000
+      internalID: 8473331883149000208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_133
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 193
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f911bc553b8de60800000000000000
+      internalID: 7987331120202096503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_134
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 193
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16285fe0949d48c50800000000000000
+      internalID: 6666692256221987425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_135
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 193
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786afd7250e265340800000000000000
+      internalID: 4852116248216970887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_136
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 193
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7764187f208a622f0800000000000000
+      internalID: -997925536720140681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_137
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 193
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e0aa0ad66b01060800000000000000
+      internalID: 6922233209231642194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_138
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 193
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523f38481377ee8e0800000000000000
+      internalID: -1662260157892791515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_139
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 193
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2fbad266a12116c0800000000000000
+      internalID: -4174518381088948435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_140
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 193
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e03ff268ca21fa0800000000000000
+      internalID: -5831408875161317774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_141
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 193
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85da0551edf4be070800000000000000
+      internalID: 8136684967033875800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_142
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 193
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 967631046a99dae10800000000000000
+      internalID: 2210591931427415913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_143
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 193
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5897388633be2900800000000000000
+      internalID: 661663242064992347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_144
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 193
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba375295132dec10800000000000000
+      internalID: 2084360778098883248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_145
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 193
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4d7f477c70a0a40800000000000000
+      internalID: 5335085261816059134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_146
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 129
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ff8722fcd382950800000000000000
+      internalID: 6424452828289892142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_147
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 130
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c2b3fa8583ffe10800000000000000
+      internalID: 2233565893747223680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_148
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 130
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ce2edb9574efe90800000000000000
+      internalID: -6990071120869004142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_149
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 129
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8af6ce12d078b450800000000000000
+      internalID: 6104753342662507150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_150
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 129
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f939691c975d0a230800000000000000
+      internalID: 3648150417085731743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_151
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 129
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b3372522f82ae00800000000000000
+      internalID: 1054562640333061003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_152
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 129
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711b95a76d77b0360800000000000000
+      internalID: 7136929797558087959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_153
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 129
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d86a016639303190800000000000000
+      internalID: -7984819233608800047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_154
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 129
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c43d5677fc781e0800000000000000
+      internalID: -2195558181603423183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_155
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 129
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5635d57a06094ae30800000000000000
+      internalID: 4513891471331251045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_156
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 129
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f40c233333468af0800000000000000
+      internalID: -394554030167423751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_157
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 129
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e306113a3d59e1d20800000000000000
+      internalID: 3251200717214539838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_158
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 129
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363ee1c314d31b040800000000000000
+      internalID: 4661574439695999843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_159
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 65
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a544e255979df150800000000000000
+      internalID: 5908044953776571810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_160
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 65
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc2509683e539590800000000000000
+      internalID: -7668682144108696398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_161
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 65
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf5eb8c6feddbe070800000000000000
+      internalID: 8136841172162962939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_162
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 65
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80742363e439a7100800000000000000
+      internalID: 106559505322624776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_163
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 65
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a33ad221b0df35650800000000000000
+      internalID: 6220593734320235322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_164
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 65
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac30ea373ebf9c50800000000000000
+      internalID: 6674262317206617248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_165
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 65
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762abdcb3c30499f0800000000000000
+      internalID: -462740722490301849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_166
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 65
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e3dfab8f87d2320800000000000000
+      internalID: 2534815174963838484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_167
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 65
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414fefab7df84efd0800000000000000
+      internalID: -2313566151843580908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_168
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 65
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc1e617ed788b1b0800000000000000
+      internalID: -5640609143826015055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_169
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 65
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a3935fe553aff30800000000000000
+      internalID: 4610055850524490383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_170
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 65
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47d6bf12e15ddd70800000000000000
+      internalID: 9069495256230582092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_171
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 65
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27ad7f8b1e9fc700800000000000000
+      internalID: 562842319653283628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_172
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef582fc25a29ce70800000000000000
+      internalID: 9135879854248976367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_173
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d31b21387e9e15bf0800000000000000
+      internalID: -337231316530319043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_174
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c58f20314b273caa0800000000000000
+      internalID: -6141939349064583076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_175
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6056c3c384ee47370800000000000000
+      internalID: 8319536405675795718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_176
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 2
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e285148425c30b4a0800000000000000
+      internalID: -6579692731491067858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Elf Guy (M)_177
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 0
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f153cec772f7920800000000000000
+      internalID: 2990152095089630993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dark Elf Guy (M)_0: 7952197869144117147
+      Dark Elf Guy (M)_1: 7944370374042680208
+      Dark Elf Guy (M)_10: -5448024310095738726
+      Dark Elf Guy (M)_100: 1800443792183525077
+      Dark Elf Guy (M)_101: 2248790209619650246
+      Dark Elf Guy (M)_102: 2251258624969103942
+      Dark Elf Guy (M)_103: 2275562222415632575
+      Dark Elf Guy (M)_104: -8860986320407723899
+      Dark Elf Guy (M)_105: 7461394794745348795
+      Dark Elf Guy (M)_106: -3963998235464946014
+      Dark Elf Guy (M)_107: 7041343451972342584
+      Dark Elf Guy (M)_108: 5157893813669057519
+      Dark Elf Guy (M)_109: 853761779046538150
+      Dark Elf Guy (M)_11: 2029089624598219147
+      Dark Elf Guy (M)_110: -2553222450310956946
+      Dark Elf Guy (M)_111: -6008057606237386767
+      Dark Elf Guy (M)_112: -6101426405999906848
+      Dark Elf Guy (M)_113: -4958114892300511374
+      Dark Elf Guy (M)_114: 386917912772183681
+      Dark Elf Guy (M)_115: 8188694220839754056
+      Dark Elf Guy (M)_116: -1472769545173149267
+      Dark Elf Guy (M)_117: -7403223681667455132
+      Dark Elf Guy (M)_118: -2537481175335147385
+      Dark Elf Guy (M)_119: 6401552688314812192
+      Dark Elf Guy (M)_12: -1423561292062523543
+      Dark Elf Guy (M)_120: -2264818694647998880
+      Dark Elf Guy (M)_121: -2346347314007362453
+      Dark Elf Guy (M)_122: 1492333702663278935
+      Dark Elf Guy (M)_123: -4356848811869655
+      Dark Elf Guy (M)_124: 8461835691838387654
+      Dark Elf Guy (M)_125: 9192649605699484595
+      Dark Elf Guy (M)_126: 3883697272659890881
+      Dark Elf Guy (M)_127: 479987074281472523
+      Dark Elf Guy (M)_128: -5479431258933357641
+      Dark Elf Guy (M)_129: 8858858472109469415
+      Dark Elf Guy (M)_13: 2118878332433129321
+      Dark Elf Guy (M)_130: -3712472476284639277
+      Dark Elf Guy (M)_131: -981025026533003623
+      Dark Elf Guy (M)_132: 8473331883149000208
+      Dark Elf Guy (M)_133: 7987331120202096503
+      Dark Elf Guy (M)_134: 6666692256221987425
+      Dark Elf Guy (M)_135: 4852116248216970887
+      Dark Elf Guy (M)_136: -997925536720140681
+      Dark Elf Guy (M)_137: 6922233209231642194
+      Dark Elf Guy (M)_138: -1662260157892791515
+      Dark Elf Guy (M)_139: -4174518381088948435
+      Dark Elf Guy (M)_14: 7800276168516163941
+      Dark Elf Guy (M)_140: -5831408875161317774
+      Dark Elf Guy (M)_141: 8136684967033875800
+      Dark Elf Guy (M)_142: 2210591931427415913
+      Dark Elf Guy (M)_143: 661663242064992347
+      Dark Elf Guy (M)_144: 2084360778098883248
+      Dark Elf Guy (M)_145: 5335085261816059134
+      Dark Elf Guy (M)_146: 6424452828289892142
+      Dark Elf Guy (M)_147: 2233565893747223680
+      Dark Elf Guy (M)_148: -6990071120869004142
+      Dark Elf Guy (M)_149: 6104753342662507150
+      Dark Elf Guy (M)_15: 9193272576478320430
+      Dark Elf Guy (M)_150: 3648150417085731743
+      Dark Elf Guy (M)_151: 1054562640333061003
+      Dark Elf Guy (M)_152: 7136929797558087959
+      Dark Elf Guy (M)_153: -7984819233608800047
+      Dark Elf Guy (M)_154: -2195558181603423183
+      Dark Elf Guy (M)_155: 4513891471331251045
+      Dark Elf Guy (M)_156: -394554030167423751
+      Dark Elf Guy (M)_157: 3251200717214539838
+      Dark Elf Guy (M)_158: 4661574439695999843
+      Dark Elf Guy (M)_159: 5908044953776571810
+      Dark Elf Guy (M)_16: -1577080480441588146
+      Dark Elf Guy (M)_160: -7668682144108696398
+      Dark Elf Guy (M)_161: 8136841172162962939
+      Dark Elf Guy (M)_162: 106559505322624776
+      Dark Elf Guy (M)_163: 6220593734320235322
+      Dark Elf Guy (M)_164: 6674262317206617248
+      Dark Elf Guy (M)_165: -462740722490301849
+      Dark Elf Guy (M)_166: 2534815174963838484
+      Dark Elf Guy (M)_167: -2313566151843580908
+      Dark Elf Guy (M)_168: -5640609143826015055
+      Dark Elf Guy (M)_169: 4610055850524490383
+      Dark Elf Guy (M)_17: -1512121288390011116
+      Dark Elf Guy (M)_170: 9069495256230582092
+      Dark Elf Guy (M)_171: 562842319653283628
+      Dark Elf Guy (M)_172: 9135879854248976367
+      Dark Elf Guy (M)_173: -337231316530319043
+      Dark Elf Guy (M)_174: -6141939349064583076
+      Dark Elf Guy (M)_175: 8319536405675795718
+      Dark Elf Guy (M)_176: -6579692731491067858
+      Dark Elf Guy (M)_177: 2990152095089630993
+      Dark Elf Guy (M)_18: 4558645534458038548
+      Dark Elf Guy (M)_19: 3133956578604566906
+      Dark Elf Guy (M)_2: 5560668771862685046
+      Dark Elf Guy (M)_20: -5441290438578932359
+      Dark Elf Guy (M)_21: -8298346042046767871
+      Dark Elf Guy (M)_22: 3754254381271006737
+      Dark Elf Guy (M)_23: 4750564749863779264
+      Dark Elf Guy (M)_24: 6687760776531851494
+      Dark Elf Guy (M)_25: -6208744338136755756
+      Dark Elf Guy (M)_26: 7721150790999572323
+      Dark Elf Guy (M)_27: -2993416586968037933
+      Dark Elf Guy (M)_28: -4807022169762598079
+      Dark Elf Guy (M)_29: 7928168387161006628
+      Dark Elf Guy (M)_3: 787529669765144859
+      Dark Elf Guy (M)_30: 1842762630463420475
+      Dark Elf Guy (M)_31: -8901945587986724345
+      Dark Elf Guy (M)_32: 7110081824113167176
+      Dark Elf Guy (M)_33: 4290921784704811451
+      Dark Elf Guy (M)_34: 2870188093507902592
+      Dark Elf Guy (M)_35: -1357659719917780311
+      Dark Elf Guy (M)_36: 4255040462693825548
+      Dark Elf Guy (M)_37: 2296242975832293462
+      Dark Elf Guy (M)_38: -5719772774660628722
+      Dark Elf Guy (M)_39: -1130215020061181202
+      Dark Elf Guy (M)_4: 3678845750084454611
+      Dark Elf Guy (M)_40: 5252457548899995432
+      Dark Elf Guy (M)_41: -8017849372022183985
+      Dark Elf Guy (M)_42: -5740987773176926201
+      Dark Elf Guy (M)_43: 8261133382350078601
+      Dark Elf Guy (M)_44: 7796277760538606741
+      Dark Elf Guy (M)_45: 7776723350032754309
+      Dark Elf Guy (M)_46: 776226434566302306
+      Dark Elf Guy (M)_47: -7977850785315613154
+      Dark Elf Guy (M)_48: 8308694666490102257
+      Dark Elf Guy (M)_49: 1636938132340458615
+      Dark Elf Guy (M)_5: -899540947588752888
+      Dark Elf Guy (M)_50: 6689398962106025009
+      Dark Elf Guy (M)_51: 9098618744507434658
+      Dark Elf Guy (M)_52: 1335837169374601341
+      Dark Elf Guy (M)_53: -6434255780419573766
+      Dark Elf Guy (M)_54: -7403589022579751889
+      Dark Elf Guy (M)_55: -1195584774357765475
+      Dark Elf Guy (M)_56: 2810522391601016390
+      Dark Elf Guy (M)_57: 3224060656885430735
+      Dark Elf Guy (M)_58: -3010864617231641523
+      Dark Elf Guy (M)_59: 4575043007152098405
+      Dark Elf Guy (M)_6: -6418236157175679545
+      Dark Elf Guy (M)_60: -2080256005803535538
+      Dark Elf Guy (M)_61: -1784737667705810304
+      Dark Elf Guy (M)_62: -8986135392860597070
+      Dark Elf Guy (M)_63: -1175959848008400317
+      Dark Elf Guy (M)_64: -7071559152007275712
+      Dark Elf Guy (M)_65: -4663367629578613592
+      Dark Elf Guy (M)_66: 4760817357426312835
+      Dark Elf Guy (M)_67: 1991020813235024912
+      Dark Elf Guy (M)_68: -5240308094047872021
+      Dark Elf Guy (M)_69: -4929406742006798813
+      Dark Elf Guy (M)_7: -4355415338149095202
+      Dark Elf Guy (M)_70: 7208437915341882064
+      Dark Elf Guy (M)_71: -9214129240282531054
+      Dark Elf Guy (M)_72: -5134303121132182238
+      Dark Elf Guy (M)_73: 8202176190164414007
+      Dark Elf Guy (M)_74: -5488053978225419363
+      Dark Elf Guy (M)_75: 5352151237901636936
+      Dark Elf Guy (M)_76: -51279334298676794
+      Dark Elf Guy (M)_77: -8348841217239934805
+      Dark Elf Guy (M)_78: -1303387461791514471
+      Dark Elf Guy (M)_79: -6238865402911066703
+      Dark Elf Guy (M)_8: -2270489396795572381
+      Dark Elf Guy (M)_80: -2876240585746194042
+      Dark Elf Guy (M)_81: -3464344453117408277
+      Dark Elf Guy (M)_82: 8724652805653706786
+      Dark Elf Guy (M)_83: -551363092637304995
+      Dark Elf Guy (M)_84: -5439520444113954438
+      Dark Elf Guy (M)_85: -2592071617834158112
+      Dark Elf Guy (M)_86: 2249969894187729401
+      Dark Elf Guy (M)_87: -2655915875964277752
+      Dark Elf Guy (M)_88: 960993296301912151
+      Dark Elf Guy (M)_89: -1571622477487241436
+      Dark Elf Guy (M)_9: 8325790051837585019
+      Dark Elf Guy (M)_90: 6838174534272508022
+      Dark Elf Guy (M)_91: -8307757560108384036
+      Dark Elf Guy (M)_92: 4487362521594938055
+      Dark Elf Guy (M)_93: -5571557069138810441
+      Dark Elf Guy (M)_94: 8221100656180146124
+      Dark Elf Guy (M)_95: 4637967735751753367
+      Dark Elf Guy (M)_96: 8910910927687400139
+      Dark Elf Guy (M)_97: 6117322249030936071
+      Dark Elf Guy (M)_98: 8243665088756848831
+      Dark Elf Guy (M)_99: 4851697663672921124
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

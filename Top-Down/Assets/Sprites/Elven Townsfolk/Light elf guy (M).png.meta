@@ -1,0 +1,4823 @@
+fileFormatVersion: 2
+guid: 9d705cb8f07209a4cb26f1f61746c28f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8565486751891652409
+    second: Light elf guy (M)_0
+  - first:
+      213: 6496533255447133425
+    second: Light elf guy (M)_1
+  - first:
+      213: 3363832659338280855
+    second: Light elf guy (M)_2
+  - first:
+      213: -7957943498404222872
+    second: Light elf guy (M)_3
+  - first:
+      213: 2892334637730771487
+    second: Light elf guy (M)_4
+  - first:
+      213: -4775455821479182196
+    second: Light elf guy (M)_5
+  - first:
+      213: 1462253317168973574
+    second: Light elf guy (M)_6
+  - first:
+      213: 3188966707122428972
+    second: Light elf guy (M)_7
+  - first:
+      213: -4210155555310016070
+    second: Light elf guy (M)_8
+  - first:
+      213: 2565038426736441439
+    second: Light elf guy (M)_9
+  - first:
+      213: -3006797562843195773
+    second: Light elf guy (M)_10
+  - first:
+      213: 3270037969714200075
+    second: Light elf guy (M)_11
+  - first:
+      213: -7442006676196359187
+    second: Light elf guy (M)_12
+  - first:
+      213: -3345986512009276767
+    second: Light elf guy (M)_13
+  - first:
+      213: -6899269498111745747
+    second: Light elf guy (M)_14
+  - first:
+      213: 7591296010450199598
+    second: Light elf guy (M)_15
+  - first:
+      213: -95452394163141473
+    second: Light elf guy (M)_16
+  - first:
+      213: -1088874182596372540
+    second: Light elf guy (M)_17
+  - first:
+      213: -7079104728765815782
+    second: Light elf guy (M)_18
+  - first:
+      213: 3766451647677184793
+    second: Light elf guy (M)_19
+  - first:
+      213: -7261122486952778115
+    second: Light elf guy (M)_20
+  - first:
+      213: -1491453789238665165
+    second: Light elf guy (M)_21
+  - first:
+      213: -1677746493381810953
+    second: Light elf guy (M)_22
+  - first:
+      213: 4248627961412210725
+    second: Light elf guy (M)_23
+  - first:
+      213: -7324938978273335222
+    second: Light elf guy (M)_24
+  - first:
+      213: -4434729449395983719
+    second: Light elf guy (M)_25
+  - first:
+      213: -64863364839580674
+    second: Light elf guy (M)_26
+  - first:
+      213: 6289141771087674846
+    second: Light elf guy (M)_27
+  - first:
+      213: 3835448756952463594
+    second: Light elf guy (M)_28
+  - first:
+      213: 2451838726333952823
+    second: Light elf guy (M)_29
+  - first:
+      213: 8016949965760712348
+    second: Light elf guy (M)_30
+  - first:
+      213: -5954969255123453969
+    second: Light elf guy (M)_31
+  - first:
+      213: -3733246001177005549
+    second: Light elf guy (M)_32
+  - first:
+      213: -1048914690132440648
+    second: Light elf guy (M)_33
+  - first:
+      213: -1408352931535757622
+    second: Light elf guy (M)_34
+  - first:
+      213: -2928708496442186493
+    second: Light elf guy (M)_35
+  - first:
+      213: 1132988897669887889
+    second: Light elf guy (M)_36
+  - first:
+      213: -6030122364384854785
+    second: Light elf guy (M)_37
+  - first:
+      213: -7777598719395892555
+    second: Light elf guy (M)_38
+  - first:
+      213: -4085949540424030459
+    second: Light elf guy (M)_39
+  - first:
+      213: -1529647063119624755
+    second: Light elf guy (M)_40
+  - first:
+      213: -8410286387648037728
+    second: Light elf guy (M)_41
+  - first:
+      213: -3663024082748450388
+    second: Light elf guy (M)_42
+  - first:
+      213: -7750242148811324321
+    second: Light elf guy (M)_43
+  - first:
+      213: 6148571895105446750
+    second: Light elf guy (M)_44
+  - first:
+      213: 5911946772407236006
+    second: Light elf guy (M)_45
+  - first:
+      213: -6109223477472775171
+    second: Light elf guy (M)_46
+  - first:
+      213: -5851530866737660980
+    second: Light elf guy (M)_47
+  - first:
+      213: 195685295263811271
+    second: Light elf guy (M)_48
+  - first:
+      213: 850170511269925069
+    second: Light elf guy (M)_49
+  - first:
+      213: -4850738375291605580
+    second: Light elf guy (M)_50
+  - first:
+      213: -2597939015655065319
+    second: Light elf guy (M)_51
+  - first:
+      213: -1679745044356508967
+    second: Light elf guy (M)_52
+  - first:
+      213: 52048236370119094
+    second: Light elf guy (M)_53
+  - first:
+      213: 487680128392339568
+    second: Light elf guy (M)_54
+  - first:
+      213: -9109757282967095281
+    second: Light elf guy (M)_55
+  - first:
+      213: 5727675561403625392
+    second: Light elf guy (M)_56
+  - first:
+      213: 7010749224380780325
+    second: Light elf guy (M)_57
+  - first:
+      213: 5795245131428447145
+    second: Light elf guy (M)_58
+  - first:
+      213: 1557301559072909007
+    second: Light elf guy (M)_59
+  - first:
+      213: -4307762944673982483
+    second: Light elf guy (M)_60
+  - first:
+      213: -191226811462396870
+    second: Light elf guy (M)_61
+  - first:
+      213: -8678061072003299340
+    second: Light elf guy (M)_62
+  - first:
+      213: 1489429520021927945
+    second: Light elf guy (M)_63
+  - first:
+      213: 9201233139270504453
+    second: Light elf guy (M)_64
+  - first:
+      213: 7766597663116782895
+    second: Light elf guy (M)_65
+  - first:
+      213: -7638866725010286103
+    second: Light elf guy (M)_66
+  - first:
+      213: -6263978913822766726
+    second: Light elf guy (M)_67
+  - first:
+      213: -8002756758758299810
+    second: Light elf guy (M)_68
+  - first:
+      213: -6481129337550425649
+    second: Light elf guy (M)_69
+  - first:
+      213: 3102672729907217682
+    second: Light elf guy (M)_70
+  - first:
+      213: -4476639237989232569
+    second: Light elf guy (M)_71
+  - first:
+      213: -6897820929888990234
+    second: Light elf guy (M)_72
+  - first:
+      213: -8822534011294414759
+    second: Light elf guy (M)_73
+  - first:
+      213: -6271476572994177439
+    second: Light elf guy (M)_74
+  - first:
+      213: 1388076396615035222
+    second: Light elf guy (M)_75
+  - first:
+      213: -9110051000214349183
+    second: Light elf guy (M)_76
+  - first:
+      213: 8897076760093083990
+    second: Light elf guy (M)_77
+  - first:
+      213: 5102012658451474214
+    second: Light elf guy (M)_78
+  - first:
+      213: 6221193161973223426
+    second: Light elf guy (M)_79
+  - first:
+      213: 1373734316218460081
+    second: Light elf guy (M)_80
+  - first:
+      213: 7654121422130842186
+    second: Light elf guy (M)_81
+  - first:
+      213: 2399958806450071222
+    second: Light elf guy (M)_82
+  - first:
+      213: 4889887720488133920
+    second: Light elf guy (M)_83
+  - first:
+      213: 8728164866699296896
+    second: Light elf guy (M)_84
+  - first:
+      213: 2218472973321731159
+    second: Light elf guy (M)_85
+  - first:
+      213: -8120182607981604738
+    second: Light elf guy (M)_86
+  - first:
+      213: -4291253473001023701
+    second: Light elf guy (M)_87
+  - first:
+      213: -5765827267625092508
+    second: Light elf guy (M)_88
+  - first:
+      213: -4716296348563352241
+    second: Light elf guy (M)_89
+  - first:
+      213: -3915403130034491000
+    second: Light elf guy (M)_90
+  - first:
+      213: -2904446860963540125
+    second: Light elf guy (M)_91
+  - first:
+      213: 5112275905769991692
+    second: Light elf guy (M)_92
+  - first:
+      213: -3205066609600079366
+    second: Light elf guy (M)_93
+  - first:
+      213: -5119064675125947166
+    second: Light elf guy (M)_94
+  - first:
+      213: 4941990480611331520
+    second: Light elf guy (M)_95
+  - first:
+      213: 5915614572202014770
+    second: Light elf guy (M)_96
+  - first:
+      213: -2078757505318919391
+    second: Light elf guy (M)_97
+  - first:
+      213: 6766629435433872162
+    second: Light elf guy (M)_98
+  - first:
+      213: 5741005782148665418
+    second: Light elf guy (M)_99
+  - first:
+      213: -1372035673623248702
+    second: Light elf guy (M)_100
+  - first:
+      213: -6812888918790555805
+    second: Light elf guy (M)_101
+  - first:
+      213: -7068058791925755342
+    second: Light elf guy (M)_102
+  - first:
+      213: 5454557617592892557
+    second: Light elf guy (M)_103
+  - first:
+      213: 7398736760084930210
+    second: Light elf guy (M)_104
+  - first:
+      213: 4519309560430803073
+    second: Light elf guy (M)_105
+  - first:
+      213: 7258643785228140018
+    second: Light elf guy (M)_106
+  - first:
+      213: 1276403917356732696
+    second: Light elf guy (M)_107
+  - first:
+      213: 2124794496690070687
+    second: Light elf guy (M)_108
+  - first:
+      213: -6666252765503707874
+    second: Light elf guy (M)_109
+  - first:
+      213: -6488647409304520901
+    second: Light elf guy (M)_110
+  - first:
+      213: -8662937989635355539
+    second: Light elf guy (M)_111
+  - first:
+      213: -1322190683924731151
+    second: Light elf guy (M)_112
+  - first:
+      213: 3060744563065972436
+    second: Light elf guy (M)_113
+  - first:
+      213: 5611490607349711450
+    second: Light elf guy (M)_114
+  - first:
+      213: -1349401994465790315
+    second: Light elf guy (M)_115
+  - first:
+      213: 1880190783939480789
+    second: Light elf guy (M)_116
+  - first:
+      213: -4695300890928993935
+    second: Light elf guy (M)_117
+  - first:
+      213: 245839160997786810
+    second: Light elf guy (M)_118
+  - first:
+      213: 6409686926492917509
+    second: Light elf guy (M)_119
+  - first:
+      213: 8406465813887053942
+    second: Light elf guy (M)_120
+  - first:
+      213: 4719966615586414486
+    second: Light elf guy (M)_121
+  - first:
+      213: 871603742492472356
+    second: Light elf guy (M)_122
+  - first:
+      213: 7505851501790562448
+    second: Light elf guy (M)_123
+  - first:
+      213: -1202915332607580867
+    second: Light elf guy (M)_124
+  - first:
+      213: 9183731797689438856
+    second: Light elf guy (M)_125
+  - first:
+      213: -7550805789111987631
+    second: Light elf guy (M)_126
+  - first:
+      213: -6748251695114184003
+    second: Light elf guy (M)_127
+  - first:
+      213: 8528613082113607069
+    second: Light elf guy (M)_128
+  - first:
+      213: -6202741390327976596
+    second: Light elf guy (M)_129
+  - first:
+      213: 773170427519887195
+    second: Light elf guy (M)_130
+  - first:
+      213: -2356635268627772756
+    second: Light elf guy (M)_131
+  - first:
+      213: -2837908911015267432
+    second: Light elf guy (M)_132
+  - first:
+      213: -387315559651676918
+    second: Light elf guy (M)_133
+  - first:
+      213: -3694569400849574318
+    second: Light elf guy (M)_134
+  - first:
+      213: -7532773465568395593
+    second: Light elf guy (M)_135
+  - first:
+      213: -5902442000497201790
+    second: Light elf guy (M)_136
+  - first:
+      213: 3814378881346405339
+    second: Light elf guy (M)_137
+  - first:
+      213: 7913816397339453166
+    second: Light elf guy (M)_138
+  - first:
+      213: 2706921924844175101
+    second: Light elf guy (M)_139
+  - first:
+      213: -222245433968877485
+    second: Light elf guy (M)_140
+  - first:
+      213: 3372422811906763849
+    second: Light elf guy (M)_141
+  - first:
+      213: 7409546953113541545
+    second: Light elf guy (M)_142
+  - first:
+      213: -8926099891876720958
+    second: Light elf guy (M)_143
+  - first:
+      213: -3420123423997278505
+    second: Light elf guy (M)_144
+  - first:
+      213: -673412419792619024
+    second: Light elf guy (M)_145
+  - first:
+      213: 4345725055386846959
+    second: Light elf guy (M)_146
+  - first:
+      213: -4022777281369689394
+    second: Light elf guy (M)_147
+  - first:
+      213: -2258095385266184499
+    second: Light elf guy (M)_148
+  - first:
+      213: 9204873319043097517
+    second: Light elf guy (M)_149
+  - first:
+      213: -2252257252821567806
+    second: Light elf guy (M)_150
+  - first:
+      213: 7880258828254710614
+    second: Light elf guy (M)_151
+  - first:
+      213: -7062190849339861609
+    second: Light elf guy (M)_152
+  - first:
+      213: 7845691744641780958
+    second: Light elf guy (M)_153
+  - first:
+      213: -6725885189882865189
+    second: Light elf guy (M)_154
+  - first:
+      213: 3424059406003353765
+    second: Light elf guy (M)_155
+  - first:
+      213: -4627580828650875323
+    second: Light elf guy (M)_156
+  - first:
+      213: 3989708838342575474
+    second: Light elf guy (M)_157
+  - first:
+      213: 3557661625815513692
+    second: Light elf guy (M)_158
+  - first:
+      213: -5321968398130284640
+    second: Light elf guy (M)_159
+  - first:
+      213: -5636044247064319051
+    second: Light elf guy (M)_160
+  - first:
+      213: -4605824120629586081
+    second: Light elf guy (M)_161
+  - first:
+      213: 3591427195337297549
+    second: Light elf guy (M)_162
+  - first:
+      213: 7202815771872615173
+    second: Light elf guy (M)_163
+  - first:
+      213: 7168505297660030619
+    second: Light elf guy (M)_164
+  - first:
+      213: 6342336698767369764
+    second: Light elf guy (M)_165
+  - first:
+      213: -4977105763334712208
+    second: Light elf guy (M)_166
+  - first:
+      213: 1146099846251336419
+    second: Light elf guy (M)_167
+  - first:
+      213: -7919329913235137128
+    second: Light elf guy (M)_168
+  - first:
+      213: 6246495322660683170
+    second: Light elf guy (M)_169
+  - first:
+      213: 941512639271517160
+    second: Light elf guy (M)_170
+  - first:
+      213: -1265563992947869884
+    second: Light elf guy (M)_171
+  - first:
+      213: -8304109939951286357
+    second: Light elf guy (M)_172
+  - first:
+      213: 8768263601920420989
+    second: Light elf guy (M)_173
+  - first:
+      213: -6451291889526736631
+    second: Light elf guy (M)_174
+  - first:
+      213: -8424003765604363803
+    second: Light elf guy (M)_175
+  - first:
+      213: -80741873394850360
+    second: Light elf guy (M)_176
+  - first:
+      213: -3566414090237799666
+    second: Light elf guy (M)_177
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Light elf guy (M)_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1281
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ff0d6a1d8bed670800000000000000
+      internalID: 8565486751891652409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1281
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc30726392582a50800000000000000
+      internalID: 6496533255447133425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1281
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f37b73bfbbeae20800000000000000
+      internalID: 3363832659338280855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1281
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868acfa1d84bf8190800000000000000
+      internalID: -7957943498404222872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_4
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1281
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f12308d5703a32820800000000000000
+      internalID: 2892334637730771487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_5
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1281
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8089285b3c2abdb0800000000000000
+      internalID: -4775455821479182196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_6
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1281
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6074e7505a7fa4410800000000000000
+      internalID: 1462253317168973574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_7
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1217
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c5492035c714c20800000000000000
+      internalID: 3188966707122428972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_8
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1217
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab9eb9c24d58295c0800000000000000
+      internalID: -4210155555310016070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_9
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1217
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f583ad4ebd8d89320800000000000000
+      internalID: 2565038426736441439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_10
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1217
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386983b1c85b546d0800000000000000
+      internalID: -3006797562843195773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_11
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1217
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ebad24532816d20800000000000000
+      internalID: 3270037969714200075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_12
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1217
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de30b318b5ea8b890800000000000000
+      internalID: -7442006676196359187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_13
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1217
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a25070cefaa091d0800000000000000
+      internalID: -3345986512009276767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1153
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21ac5302fed040a0800000000000000
+      internalID: -6899269498111745747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1153
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2469b74083b95960800000000000000
+      internalID: 7591296010450199598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_16
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1153
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9402f0ad82ecaef0800000000000000
+      internalID: -95452394163141473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_17
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1153
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c7df3533ba83e0f0800000000000000
+      internalID: -1088874182596372540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_18
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1153
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a14202281c7f1cd90800000000000000
+      internalID: -7079104728765815782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_19
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1153
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91bbb7b61df154430800000000000000
+      internalID: 3766451647677184793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_20
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1153
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d762496b19f4b3b90800000000000000
+      internalID: -7261122486952778115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_21
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1089
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330e4854eaa4d4be0800000000000000
+      internalID: -1491453789238665165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_22
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1089
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4e1de047277b8e0800000000000000
+      internalID: -1677746493381810953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_23
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1089
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52054c6ee9826fa30800000000000000
+      internalID: 4248627961412210725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_24
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1089
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48ea96fec6985a90800000000000000
+      internalID: -7324938978273335222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_25
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1089
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ae9cddf0da472c0800000000000000
+      internalID: -4434729449395983719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_26
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1089
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efbdcc30d1f891ff0800000000000000
+      internalID: -64863364839580674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_27
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1089
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd70c79e15874750800000000000000
+      internalID: 6289141771087674846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1025
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae87d58c2504a3530800000000000000
+      internalID: 3835448756952463594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_29
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1023
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7337ea9c45ea60220800000000000000
+      internalID: 2451838726333952823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_30
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1023
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e4f3ba48de14f60800000000000000
+      internalID: 8016949965760712348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_31
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1023
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe77ef36303bb5da0800000000000000
+      internalID: -5954969255123453969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_32
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1023
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31272b0aa88d03cc0800000000000000
+      internalID: -3733246001177005549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_33
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1023
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b987fe85a18171f0800000000000000
+      internalID: -1048914690132440648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_34
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1023
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace5e657876847ce0800000000000000
+      internalID: -1408352931535757622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_35
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1023
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30525e2b3232b57d0800000000000000
+      internalID: -2928708496442186493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_36
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 961
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197331c466f29bf00800000000000000
+      internalID: 1132988897669887889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_37
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 961
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffcb3b698a3b05ca0800000000000000
+      internalID: -6030122364384854785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_38
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 961
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2ffd41c2b601490800000000000000
+      internalID: -7777598719395892555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_39
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 961
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507ead09a8acb47c0800000000000000
+      internalID: -4085949540424030459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_40
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 961
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5090bb91a95cae0800000000000000
+      internalID: -1529647063119624755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_41
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 961
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac7fec0719a84b80800000000000000
+      internalID: -8410286387648037728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_42
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 961
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9d31811035a2dc0800000000000000
+      internalID: -3663024082748450388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_43
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 961
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5447d404db917490800000000000000
+      internalID: -7750242148811324321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_44
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 897
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53e5b3ef8d145550800000000000000
+      internalID: 6148571895105446750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_45
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 898
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5b95444447b0250800000000000000
+      internalID: 5911946772407236006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_46
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 898
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df332c38d9da73ba0800000000000000
+      internalID: -6109223477472775171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_47
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 898
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb3edfedaf2bcea0800000000000000
+      internalID: -5851530866737660980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_48
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 898
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c687ff3db637b200800000000000000
+      internalID: 195685295263811271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_49
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 898
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc091ca53996ccb00800000000000000
+      internalID: 850170511269925069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_50
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 898
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd6362e527beacb0800000000000000
+      internalID: -4850738375291605580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_51
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 898
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91970cfca3442fbd0800000000000000
+      internalID: -2597939015655065319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_52
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 833
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d258e528c850b8e0800000000000000
+      internalID: -1679745044356508967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_53
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 833
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9c6006899e8b000800000000000000
+      internalID: 52048236370119094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_54
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 833
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070a7d03e7694c600800000000000000
+      internalID: 487680128392339568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_55
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 833
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08f7b64404a39180800000000000000
+      internalID: -9109757282967095281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_56
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 833
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf262a939acc7f40800000000000000
+      internalID: 5727675561403625392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_57
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 833
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52fcf88664f2b4160800000000000000
+      internalID: 7010749224380780325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_58
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 833
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a3ca151eb8dc6050800000000000000
+      internalID: 5795245131428447145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_59
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 833
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6e3bc5485ac9510800000000000000
+      internalID: 1557301559072909007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_60
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 770
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7dd12ec60c734c0800000000000000
+      internalID: -4307762944673982483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 770
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34d0476a30a85df0800000000000000
+      internalID: -191226811462396870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_62
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 769
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f70910fe65519780800000000000000
+      internalID: -8678061072003299340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_63
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 768
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90833e2d1448ba410800000000000000
+      internalID: 1489429520021927945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_64
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 769
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50055c93ac851bf70800000000000000
+      internalID: 9201233139270504453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_65
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 770
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d6477ec6f78cb60800000000000000
+      internalID: 7766597663116782895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_66
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 769
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9d531af2b4df590800000000000000
+      internalID: -7638866725010286103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_67
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 768
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a798e09ad50e119a0800000000000000
+      internalID: -6263978913822766726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_68
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 769
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57ea5ad02f70f090800000000000000
+      internalID: -8002756758758299810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_69
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 705
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc1b1fbb4376e06a0800000000000000
+      internalID: -6481129337550425649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_70
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 705
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2154960c868ee0b20800000000000000
+      internalID: 3102672729907217682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_71
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 706
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7409310d458cfd1c0800000000000000
+      internalID: -4476639237989232569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_72
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 706
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb46b519640640a0800000000000000
+      internalID: -6897820929888990234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_73
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 705
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9588efd7f00109580800000000000000
+      internalID: -8822534011294414759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_74
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 705
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1667f79d84d37f8a0800000000000000
+      internalID: -6271476572994177439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_75
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 705
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659e75dd020734310800000000000000
+      internalID: 1388076396615035222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_76
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 705
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a1886e1e8929180800000000000000
+      internalID: -9110051000214349183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_77
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 705
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6594bb0bc24c87b70800000000000000
+      internalID: 8897076760093083990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_78
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 641
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627eb823b7dfdc640800000000000000
+      internalID: 5102012658451474214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_79
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 641
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200d082383e165650800000000000000
+      internalID: 6221193161973223426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_80
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 640
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b727fd051c701310800000000000000
+      internalID: 1373734316218460081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_81
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 640
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a01d151e6e83a60800000000000000
+      internalID: 7654121422130842186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_82
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 640
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6e606a1dd5e4120800000000000000
+      internalID: 2399958806450071222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_83
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 641
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0256d3b59fe5cd340800000000000000
+      internalID: 4889887720488133920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_84
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 640
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08008a4d3bba02970800000000000000
+      internalID: 8728164866699296896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_85
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 640
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c75ae4a6999ce10800000000000000
+      internalID: 2218472973321731159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_86
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 640
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7093fbc0f05f4f80800000000000000
+      internalID: -8120182607981604738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_87
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 577
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27dc9cc3b76274c0800000000000000
+      internalID: -4291253473001023701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_88
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 577
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46af1f416aaabffa0800000000000000
+      internalID: -5765827267625092508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_89
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 578
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45d86085795c8eb0800000000000000
+      internalID: -4716296348563352241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_90
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 578
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88177d11991b9a9c0800000000000000
+      internalID: -3915403130034491000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_91
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 577
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3631547e7f451b7d0800000000000000
+      internalID: -2904446860963540125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_92
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 577
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e653da9d372f640800000000000000
+      internalID: 5112275905769991692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_93
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 577
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9525556e05583d0800000000000000
+      internalID: -3205066609600079366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_94
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 577
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e41ed8cccd65f8b0800000000000000
+      internalID: -5119064675125947166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_95
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 577
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd4338882a759440800000000000000
+      internalID: 4941990480611331520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_96
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 513
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238b9347c1c781250800000000000000
+      internalID: 5915614572202014770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_97
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 512
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123e9490015c623e0800000000000000
+      internalID: -2078757505318919391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_98
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 512
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22becb1de95e7ed50800000000000000
+      internalID: 6766629435433872162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_99
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 512
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a405f6a77562caf40800000000000000
+      internalID: 5741005782148665418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_100
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 512
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c0c58ef2dc85fce0800000000000000
+      internalID: -1372035673623248702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_101
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 512
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3673b45ef91c371a0800000000000000
+      internalID: -6812888918790555805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_102
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 449
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23250b71af539ed90800000000000000
+      internalID: -7068058791925755342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_103
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 449
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c7683f04b72bb40800000000000000
+      internalID: 5454557617592892557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_104
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 449
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae9c7312e79da660800000000000000
+      internalID: 7398736760084930210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_105
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 449
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1883183d910d7be30800000000000000
+      internalID: 4519309560430803073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_106
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 449
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fdbe919012ebb460800000000000000
+      internalID: 7258643785228140018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_107
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 449
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81117f3a992b6b110800000000000000
+      internalID: 1276403917356732696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_108
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 385
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f94aaeb4659cc7d10800000000000000
+      internalID: 2124794496690070687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_109
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 385
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15af29dd66bc73a0800000000000000
+      internalID: -6666252765503707874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_110
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 385
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3735af3f81b3f5a0800000000000000
+      internalID: -6488647409304520901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_111
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 385
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c4c80fbcf07c780800000000000000
+      internalID: -8662937989635355539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_112
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 385
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fae5570492a6ade0800000000000000
+      internalID: -1322190683924731151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_113
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 385
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d661cda6f2f97a20800000000000000
+      internalID: 3060744563065972436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_114
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 321
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a524587f9f400ed40800000000000000
+      internalID: 5611490607349711450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_115
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 321
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 596b9a41906f54de0800000000000000
+      internalID: -1349401994465790315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_116
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 321
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc0daa6e87c71a10800000000000000
+      internalID: 1880190783939480789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_117
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 321
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1792a9a67b0f6deb0800000000000000
+      internalID: -4695300890928993935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_118
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 321
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab437271a65696300800000000000000
+      internalID: 245839160997786810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_119
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 321
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f5317bc48c3f850800000000000000
+      internalID: 6409686926492917509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_120
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 257
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 670f33d4e14c9a470800000000000000
+      internalID: 8406465813887053942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_121
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 255
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f1bb121a0b08140800000000000000
+      internalID: 4719966615586414486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_122
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 255
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4243a206cfe881c00800000000000000
+      internalID: 871603742492472356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_123
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 255
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0980f055c242a2860800000000000000
+      internalID: 7505851501790562448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_124
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 255
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35ed09d0e26e4fe0800000000000000
+      internalID: -1202915332607580867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_125
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 255
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8821db9996b237f70800000000000000
+      internalID: 9183731797689438856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_126
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 255
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15254040426263790800000000000000
+      internalID: -7550805789111987631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_127
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 255
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba9ac946d46952a0800000000000000
+      internalID: -6748251695114184003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_128
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 255
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9581226968bb5670800000000000000
+      internalID: 8528613082113607069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_129
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 255
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d63eba19f6be9a0800000000000000
+      internalID: -6202741390327976596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_130
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 255
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57e82b486adaba00800000000000000
+      internalID: 773170427519887195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_131
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 255
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caac84c85bc8b4fd0800000000000000
+      internalID: -2356635268627772756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_132
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 255
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 893f40e91e8bd98d0800000000000000
+      internalID: -2837908911015267432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_133
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 193
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0deaf2fc8aff9af0800000000000000
+      internalID: -387315559651676918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_134
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 193
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256555064b04abcc0800000000000000
+      internalID: -3694569400849574318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_135
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 193
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bebe438176367790800000000000000
+      internalID: -7532773465568395593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_136
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 193
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28da405e540561ea0800000000000000
+      internalID: -5902442000497201790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_137
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 193
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3876512656fe430800000000000000
+      internalID: 3814378881346405339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_138
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 193
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6641d851683dd60800000000000000
+      internalID: 7913816397339453166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_139
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 193
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfebd05162be09520800000000000000
+      internalID: 2706921924844175101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_140
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 193
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350255f84fc6aecf0800000000000000
+      internalID: -222245433968877485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_141
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 193
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c6028fda04dce20800000000000000
+      internalID: 3372422811906763849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_142
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 193
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab19e642bff3d660800000000000000
+      internalID: 7409546953113541545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_143
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 193
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce090bd07f102480800000000000000
+      internalID: -8926099891876720958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_144
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 193
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d646a0ddd74980d0800000000000000
+      internalID: -3420123423997278505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_145
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 193
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f9bcead8fe87a6f0800000000000000
+      internalID: -673412419792619024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_146
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 129
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe609d9c9ed1f4c30800000000000000
+      internalID: 4345725055386846959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_147
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 130
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec2b27d40693c28c0800000000000000
+      internalID: -4022777281369689394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_148
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 130
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce92440632a9a0e0800000000000000
+      internalID: -2258095385266184499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_149
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 129
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3e800a3874ebf70800000000000000
+      internalID: 9204873319043097517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_150
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 129
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c6f5c626ff5eb0e0800000000000000
+      internalID: -2252257252821567806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_151
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 129
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b024427ad4c5d60800000000000000
+      internalID: 7880258828254710614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_152
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 129
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7955511f6de0efd90800000000000000
+      internalID: -7062190849339861609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_153
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 129
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc8690d21f71ec60800000000000000
+      internalID: 7845691744641780958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_154
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 129
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd998f81e0bd8a2a0800000000000000
+      internalID: -6725885189882865189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_155
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 129
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a83aa863e3b48f20800000000000000
+      internalID: 3424059406003353765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_156
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 129
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5465bda11c787cfb0800000000000000
+      internalID: -4627580828650875323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_157
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 129
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27545a2dc0b4e5730800000000000000
+      internalID: 3989708838342575474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_158
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 129
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ab5cd366a5f5130800000000000000
+      internalID: 3557661625815513692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_159
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 65
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7f69b50f19426b0800000000000000
+      internalID: -5321968398130284640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_160
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 65
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bbe85b4e9fb8c1b0800000000000000
+      internalID: -5636044247064319051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_161
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 65
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5792ff6d53d410c0800000000000000
+      internalID: -4605824120629586081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_162
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 65
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ec1c6810057d130800000000000000
+      internalID: 3591427195337297549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_163
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 65
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b5c0948ca85f360800000000000000
+      internalID: 7202815771872615173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_164
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 65
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e288d7695ab7360800000000000000
+      internalID: 7168505297660030619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_165
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 65
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 426e3f7df91840850800000000000000
+      internalID: 6342336698767369764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_166
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 65
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07492e69da4cdeab0800000000000000
+      internalID: -4977105763334712208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_167
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 65
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e2d0f4ecb3c7ef00800000000000000
+      internalID: 1146099846251336419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_168
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 65
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d9e7ef663e81290800000000000000
+      internalID: -7919329913235137128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_169
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 65
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad345e866200b650800000000000000
+      internalID: 6246495322660683170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_170
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 65
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ebb15fc1cce01d00800000000000000
+      internalID: 941512639271517160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_171
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 65
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44731dfe040df6ee0800000000000000
+      internalID: -1265563992947869884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_172
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7c965b100e1cc80800000000000000
+      internalID: -8304109939951286357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_173
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c24792a412fa970800000000000000
+      internalID: 8768263601920420989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_174
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9097666f4386876a0800000000000000
+      internalID: -6451291889526736631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_175
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1599c153de71b80800000000000000
+      internalID: -8424003765604363803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_176
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 2
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5ecc5a1b521eef0800000000000000
+      internalID: -80741873394850360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf guy (M)_177
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 0
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e039d65d74d818ec0800000000000000
+      internalID: -3566414090237799666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Light elf guy (M)_0: 8565486751891652409
+      Light elf guy (M)_1: 6496533255447133425
+      Light elf guy (M)_10: -3006797562843195773
+      Light elf guy (M)_100: -1372035673623248702
+      Light elf guy (M)_101: -6812888918790555805
+      Light elf guy (M)_102: -7068058791925755342
+      Light elf guy (M)_103: 5454557617592892557
+      Light elf guy (M)_104: 7398736760084930210
+      Light elf guy (M)_105: 4519309560430803073
+      Light elf guy (M)_106: 7258643785228140018
+      Light elf guy (M)_107: 1276403917356732696
+      Light elf guy (M)_108: 2124794496690070687
+      Light elf guy (M)_109: -6666252765503707874
+      Light elf guy (M)_11: 3270037969714200075
+      Light elf guy (M)_110: -6488647409304520901
+      Light elf guy (M)_111: -8662937989635355539
+      Light elf guy (M)_112: -1322190683924731151
+      Light elf guy (M)_113: 3060744563065972436
+      Light elf guy (M)_114: 5611490607349711450
+      Light elf guy (M)_115: -1349401994465790315
+      Light elf guy (M)_116: 1880190783939480789
+      Light elf guy (M)_117: -4695300890928993935
+      Light elf guy (M)_118: 245839160997786810
+      Light elf guy (M)_119: 6409686926492917509
+      Light elf guy (M)_12: -7442006676196359187
+      Light elf guy (M)_120: 8406465813887053942
+      Light elf guy (M)_121: 4719966615586414486
+      Light elf guy (M)_122: 871603742492472356
+      Light elf guy (M)_123: 7505851501790562448
+      Light elf guy (M)_124: -1202915332607580867
+      Light elf guy (M)_125: 9183731797689438856
+      Light elf guy (M)_126: -7550805789111987631
+      Light elf guy (M)_127: -6748251695114184003
+      Light elf guy (M)_128: 8528613082113607069
+      Light elf guy (M)_129: -6202741390327976596
+      Light elf guy (M)_13: -3345986512009276767
+      Light elf guy (M)_130: 773170427519887195
+      Light elf guy (M)_131: -2356635268627772756
+      Light elf guy (M)_132: -2837908911015267432
+      Light elf guy (M)_133: -387315559651676918
+      Light elf guy (M)_134: -3694569400849574318
+      Light elf guy (M)_135: -7532773465568395593
+      Light elf guy (M)_136: -5902442000497201790
+      Light elf guy (M)_137: 3814378881346405339
+      Light elf guy (M)_138: 7913816397339453166
+      Light elf guy (M)_139: 2706921924844175101
+      Light elf guy (M)_14: -6899269498111745747
+      Light elf guy (M)_140: -222245433968877485
+      Light elf guy (M)_141: 3372422811906763849
+      Light elf guy (M)_142: 7409546953113541545
+      Light elf guy (M)_143: -8926099891876720958
+      Light elf guy (M)_144: -3420123423997278505
+      Light elf guy (M)_145: -673412419792619024
+      Light elf guy (M)_146: 4345725055386846959
+      Light elf guy (M)_147: -4022777281369689394
+      Light elf guy (M)_148: -2258095385266184499
+      Light elf guy (M)_149: 9204873319043097517
+      Light elf guy (M)_15: 7591296010450199598
+      Light elf guy (M)_150: -2252257252821567806
+      Light elf guy (M)_151: 7880258828254710614
+      Light elf guy (M)_152: -7062190849339861609
+      Light elf guy (M)_153: 7845691744641780958
+      Light elf guy (M)_154: -6725885189882865189
+      Light elf guy (M)_155: 3424059406003353765
+      Light elf guy (M)_156: -4627580828650875323
+      Light elf guy (M)_157: 3989708838342575474
+      Light elf guy (M)_158: 3557661625815513692
+      Light elf guy (M)_159: -5321968398130284640
+      Light elf guy (M)_16: -95452394163141473
+      Light elf guy (M)_160: -5636044247064319051
+      Light elf guy (M)_161: -4605824120629586081
+      Light elf guy (M)_162: 3591427195337297549
+      Light elf guy (M)_163: 7202815771872615173
+      Light elf guy (M)_164: 7168505297660030619
+      Light elf guy (M)_165: 6342336698767369764
+      Light elf guy (M)_166: -4977105763334712208
+      Light elf guy (M)_167: 1146099846251336419
+      Light elf guy (M)_168: -7919329913235137128
+      Light elf guy (M)_169: 6246495322660683170
+      Light elf guy (M)_17: -1088874182596372540
+      Light elf guy (M)_170: 941512639271517160
+      Light elf guy (M)_171: -1265563992947869884
+      Light elf guy (M)_172: -8304109939951286357
+      Light elf guy (M)_173: 8768263601920420989
+      Light elf guy (M)_174: -6451291889526736631
+      Light elf guy (M)_175: -8424003765604363803
+      Light elf guy (M)_176: -80741873394850360
+      Light elf guy (M)_177: -3566414090237799666
+      Light elf guy (M)_18: -7079104728765815782
+      Light elf guy (M)_19: 3766451647677184793
+      Light elf guy (M)_2: 3363832659338280855
+      Light elf guy (M)_20: -7261122486952778115
+      Light elf guy (M)_21: -1491453789238665165
+      Light elf guy (M)_22: -1677746493381810953
+      Light elf guy (M)_23: 4248627961412210725
+      Light elf guy (M)_24: -7324938978273335222
+      Light elf guy (M)_25: -4434729449395983719
+      Light elf guy (M)_26: -64863364839580674
+      Light elf guy (M)_27: 6289141771087674846
+      Light elf guy (M)_28: 3835448756952463594
+      Light elf guy (M)_29: 2451838726333952823
+      Light elf guy (M)_3: -7957943498404222872
+      Light elf guy (M)_30: 8016949965760712348
+      Light elf guy (M)_31: -5954969255123453969
+      Light elf guy (M)_32: -3733246001177005549
+      Light elf guy (M)_33: -1048914690132440648
+      Light elf guy (M)_34: -1408352931535757622
+      Light elf guy (M)_35: -2928708496442186493
+      Light elf guy (M)_36: 1132988897669887889
+      Light elf guy (M)_37: -6030122364384854785
+      Light elf guy (M)_38: -7777598719395892555
+      Light elf guy (M)_39: -4085949540424030459
+      Light elf guy (M)_4: 2892334637730771487
+      Light elf guy (M)_40: -1529647063119624755
+      Light elf guy (M)_41: -8410286387648037728
+      Light elf guy (M)_42: -3663024082748450388
+      Light elf guy (M)_43: -7750242148811324321
+      Light elf guy (M)_44: 6148571895105446750
+      Light elf guy (M)_45: 5911946772407236006
+      Light elf guy (M)_46: -6109223477472775171
+      Light elf guy (M)_47: -5851530866737660980
+      Light elf guy (M)_48: 195685295263811271
+      Light elf guy (M)_49: 850170511269925069
+      Light elf guy (M)_5: -4775455821479182196
+      Light elf guy (M)_50: -4850738375291605580
+      Light elf guy (M)_51: -2597939015655065319
+      Light elf guy (M)_52: -1679745044356508967
+      Light elf guy (M)_53: 52048236370119094
+      Light elf guy (M)_54: 487680128392339568
+      Light elf guy (M)_55: -9109757282967095281
+      Light elf guy (M)_56: 5727675561403625392
+      Light elf guy (M)_57: 7010749224380780325
+      Light elf guy (M)_58: 5795245131428447145
+      Light elf guy (M)_59: 1557301559072909007
+      Light elf guy (M)_6: 1462253317168973574
+      Light elf guy (M)_60: -4307762944673982483
+      Light elf guy (M)_61: -191226811462396870
+      Light elf guy (M)_62: -8678061072003299340
+      Light elf guy (M)_63: 1489429520021927945
+      Light elf guy (M)_64: 9201233139270504453
+      Light elf guy (M)_65: 7766597663116782895
+      Light elf guy (M)_66: -7638866725010286103
+      Light elf guy (M)_67: -6263978913822766726
+      Light elf guy (M)_68: -8002756758758299810
+      Light elf guy (M)_69: -6481129337550425649
+      Light elf guy (M)_7: 3188966707122428972
+      Light elf guy (M)_70: 3102672729907217682
+      Light elf guy (M)_71: -4476639237989232569
+      Light elf guy (M)_72: -6897820929888990234
+      Light elf guy (M)_73: -8822534011294414759
+      Light elf guy (M)_74: -6271476572994177439
+      Light elf guy (M)_75: 1388076396615035222
+      Light elf guy (M)_76: -9110051000214349183
+      Light elf guy (M)_77: 8897076760093083990
+      Light elf guy (M)_78: 5102012658451474214
+      Light elf guy (M)_79: 6221193161973223426
+      Light elf guy (M)_8: -4210155555310016070
+      Light elf guy (M)_80: 1373734316218460081
+      Light elf guy (M)_81: 7654121422130842186
+      Light elf guy (M)_82: 2399958806450071222
+      Light elf guy (M)_83: 4889887720488133920
+      Light elf guy (M)_84: 8728164866699296896
+      Light elf guy (M)_85: 2218472973321731159
+      Light elf guy (M)_86: -8120182607981604738
+      Light elf guy (M)_87: -4291253473001023701
+      Light elf guy (M)_88: -5765827267625092508
+      Light elf guy (M)_89: -4716296348563352241
+      Light elf guy (M)_9: 2565038426736441439
+      Light elf guy (M)_90: -3915403130034491000
+      Light elf guy (M)_91: -2904446860963540125
+      Light elf guy (M)_92: 5112275905769991692
+      Light elf guy (M)_93: -3205066609600079366
+      Light elf guy (M)_94: -5119064675125947166
+      Light elf guy (M)_95: 4941990480611331520
+      Light elf guy (M)_96: 5915614572202014770
+      Light elf guy (M)_97: -2078757505318919391
+      Light elf guy (M)_98: 6766629435433872162
+      Light elf guy (M)_99: 5741005782148665418
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

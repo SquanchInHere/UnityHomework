@@ -1,0 +1,4589 @@
+fileFormatVersion: 2
+guid: f763cef9e78dfba4a88dc944886f43fc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8056569439561539566
+    second: Dark elf girl (F)_0
+  - first:
+      213: -978406328952149144
+    second: Dark elf girl (F)_1
+  - first:
+      213: -8803019490513143275
+    second: Dark elf girl (F)_2
+  - first:
+      213: 5879634679190300218
+    second: Dark elf girl (F)_3
+  - first:
+      213: -4972347748292408933
+    second: Dark elf girl (F)_4
+  - first:
+      213: 4995154129340087519
+    second: Dark elf girl (F)_5
+  - first:
+      213: -7076121946736194506
+    second: Dark elf girl (F)_6
+  - first:
+      213: 5099151036040983061
+    second: Dark elf girl (F)_7
+  - first:
+      213: -3461527496999402841
+    second: Dark elf girl (F)_8
+  - first:
+      213: -412222734605402548
+    second: Dark elf girl (F)_9
+  - first:
+      213: 7951028814238642380
+    second: Dark elf girl (F)_10
+  - first:
+      213: -7709115813723417375
+    second: Dark elf girl (F)_11
+  - first:
+      213: 5542471228272499689
+    second: Dark elf girl (F)_12
+  - first:
+      213: -3014950125099324784
+    second: Dark elf girl (F)_13
+  - first:
+      213: 7938234380271348330
+    second: Dark elf girl (F)_14
+  - first:
+      213: -2144826427888590721
+    second: Dark elf girl (F)_15
+  - first:
+      213: 1025371024202045017
+    second: Dark elf girl (F)_16
+  - first:
+      213: 8455948531082124673
+    second: Dark elf girl (F)_17
+  - first:
+      213: -4781923220125473335
+    second: Dark elf girl (F)_18
+  - first:
+      213: 4959334654100978919
+    second: Dark elf girl (F)_19
+  - first:
+      213: -7455930346317032457
+    second: Dark elf girl (F)_20
+  - first:
+      213: -6967400768354225410
+    second: Dark elf girl (F)_21
+  - first:
+      213: 5271694698322395002
+    second: Dark elf girl (F)_22
+  - first:
+      213: 552924271763013069
+    second: Dark elf girl (F)_23
+  - first:
+      213: 6263254001306783217
+    second: Dark elf girl (F)_24
+  - first:
+      213: 2899548514921380221
+    second: Dark elf girl (F)_25
+  - first:
+      213: -7674547856753555236
+    second: Dark elf girl (F)_26
+  - first:
+      213: 1833721125916509279
+    second: Dark elf girl (F)_27
+  - first:
+      213: 5188102369405075790
+    second: Dark elf girl (F)_28
+  - first:
+      213: 3238278447078987057
+    second: Dark elf girl (F)_29
+  - first:
+      213: -1401721157649379224
+    second: Dark elf girl (F)_30
+  - first:
+      213: 4123868021610121794
+    second: Dark elf girl (F)_31
+  - first:
+      213: 9178435817437787537
+    second: Dark elf girl (F)_32
+  - first:
+      213: 9062076630339958297
+    second: Dark elf girl (F)_33
+  - first:
+      213: -1003143510195939571
+    second: Dark elf girl (F)_34
+  - first:
+      213: -223355517642416692
+    second: Dark elf girl (F)_35
+  - first:
+      213: 4012372606643658004
+    second: Dark elf girl (F)_36
+  - first:
+      213: -3472206509734066874
+    second: Dark elf girl (F)_37
+  - first:
+      213: 7877069040528415755
+    second: Dark elf girl (F)_38
+  - first:
+      213: 267944967540390979
+    second: Dark elf girl (F)_39
+  - first:
+      213: 6919930357060096380
+    second: Dark elf girl (F)_40
+  - first:
+      213: -2261618181318713047
+    second: Dark elf girl (F)_41
+  - first:
+      213: 1838791632461387519
+    second: Dark elf girl (F)_42
+  - first:
+      213: 4432255699613177244
+    second: Dark elf girl (F)_43
+  - first:
+      213: 7480111013906228523
+    second: Dark elf girl (F)_44
+  - first:
+      213: -4676959847591891865
+    second: Dark elf girl (F)_45
+  - first:
+      213: -4458383944057790430
+    second: Dark elf girl (F)_46
+  - first:
+      213: 472414865145474454
+    second: Dark elf girl (F)_47
+  - first:
+      213: -7940490078351973073
+    second: Dark elf girl (F)_48
+  - first:
+      213: 599655679827923404
+    second: Dark elf girl (F)_49
+  - first:
+      213: 167266263258359462
+    second: Dark elf girl (F)_50
+  - first:
+      213: -2787056029096408637
+    second: Dark elf girl (F)_51
+  - first:
+      213: 157293230640977316
+    second: Dark elf girl (F)_52
+  - first:
+      213: 7808652021911690653
+    second: Dark elf girl (F)_53
+  - first:
+      213: 6135982678472207804
+    second: Dark elf girl (F)_54
+  - first:
+      213: -8320918028078940963
+    second: Dark elf girl (F)_55
+  - first:
+      213: -996293052261961103
+    second: Dark elf girl (F)_56
+  - first:
+      213: 5223478913498272052
+    second: Dark elf girl (F)_57
+  - first:
+      213: -4702866169265582644
+    second: Dark elf girl (F)_58
+  - first:
+      213: -4382536357753806564
+    second: Dark elf girl (F)_59
+  - first:
+      213: 1363898074273520415
+    second: Dark elf girl (F)_60
+  - first:
+      213: 1360987465060856895
+    second: Dark elf girl (F)_61
+  - first:
+      213: 1764127676198856085
+    second: Dark elf girl (F)_62
+  - first:
+      213: -7217778786577876792
+    second: Dark elf girl (F)_63
+  - first:
+      213: 8535196534507977255
+    second: Dark elf girl (F)_64
+  - first:
+      213: -2206482179531526298
+    second: Dark elf girl (F)_65
+  - first:
+      213: -5900906110519392700
+    second: Dark elf girl (F)_66
+  - first:
+      213: -8721242561862312409
+    second: Dark elf girl (F)_67
+  - first:
+      213: -3437395181996790056
+    second: Dark elf girl (F)_68
+  - first:
+      213: 652019183424837784
+    second: Dark elf girl (F)_69
+  - first:
+      213: -1221779353076168147
+    second: Dark elf girl (F)_70
+  - first:
+      213: -6357379795572587681
+    second: Dark elf girl (F)_71
+  - first:
+      213: 1976158362563121385
+    second: Dark elf girl (F)_72
+  - first:
+      213: -7956963208955062218
+    second: Dark elf girl (F)_73
+  - first:
+      213: -4778292705627330528
+    second: Dark elf girl (F)_74
+  - first:
+      213: -4515309711928359796
+    second: Dark elf girl (F)_75
+  - first:
+      213: -5459533109182183530
+    second: Dark elf girl (F)_76
+  - first:
+      213: 4648219131330014606
+    second: Dark elf girl (F)_77
+  - first:
+      213: 517708427854290347
+    second: Dark elf girl (F)_78
+  - first:
+      213: 834708830632512598
+    second: Dark elf girl (F)_79
+  - first:
+      213: 2921690693091648279
+    second: Dark elf girl (F)_80
+  - first:
+      213: 8423323515849414287
+    second: Dark elf girl (F)_81
+  - first:
+      213: 4404254007954225716
+    second: Dark elf girl (F)_82
+  - first:
+      213: 4005635550791997402
+    second: Dark elf girl (F)_83
+  - first:
+      213: 8359794720448258680
+    second: Dark elf girl (F)_84
+  - first:
+      213: 6886296216469143397
+    second: Dark elf girl (F)_85
+  - first:
+      213: 4360572377093202749
+    second: Dark elf girl (F)_86
+  - first:
+      213: 6202916144924581744
+    second: Dark elf girl (F)_87
+  - first:
+      213: -5885980331717983920
+    second: Dark elf girl (F)_88
+  - first:
+      213: 2090831466501855513
+    second: Dark elf girl (F)_89
+  - first:
+      213: -7674595645840591503
+    second: Dark elf girl (F)_90
+  - first:
+      213: -2238541153193275095
+    second: Dark elf girl (F)_91
+  - first:
+      213: -798777898664445029
+    second: Dark elf girl (F)_92
+  - first:
+      213: -1567959772177985906
+    second: Dark elf girl (F)_93
+  - first:
+      213: -5578497030240441041
+    second: Dark elf girl (F)_94
+  - first:
+      213: -6669305394544974946
+    second: Dark elf girl (F)_95
+  - first:
+      213: -2035455509842692326
+    second: Dark elf girl (F)_96
+  - first:
+      213: -6809651255413774258
+    second: Dark elf girl (F)_97
+  - first:
+      213: 9108087930631943768
+    second: Dark elf girl (F)_98
+  - first:
+      213: 7412250179987542662
+    second: Dark elf girl (F)_99
+  - first:
+      213: 3103459767449276059
+    second: Dark elf girl (F)_100
+  - first:
+      213: -7174223207171562449
+    second: Dark elf girl (F)_101
+  - first:
+      213: -158013626073311192
+    second: Dark elf girl (F)_102
+  - first:
+      213: 6909171046784703095
+    second: Dark elf girl (F)_103
+  - first:
+      213: 7118454892872202320
+    second: Dark elf girl (F)_104
+  - first:
+      213: 1634418625423544889
+    second: Dark elf girl (F)_105
+  - first:
+      213: -6638951756137458429
+    second: Dark elf girl (F)_106
+  - first:
+      213: -5920157770220471005
+    second: Dark elf girl (F)_107
+  - first:
+      213: 8272552598202599171
+    second: Dark elf girl (F)_108
+  - first:
+      213: 4696333649992013399
+    second: Dark elf girl (F)_109
+  - first:
+      213: -3653754634636649342
+    second: Dark elf girl (F)_110
+  - first:
+      213: 5782718584659452243
+    second: Dark elf girl (F)_111
+  - first:
+      213: -3269672302761717557
+    second: Dark elf girl (F)_112
+  - first:
+      213: -6962167211555241036
+    second: Dark elf girl (F)_113
+  - first:
+      213: -5093127757151005683
+    second: Dark elf girl (F)_114
+  - first:
+      213: 3985705189273926305
+    second: Dark elf girl (F)_115
+  - first:
+      213: 3497574963023737736
+    second: Dark elf girl (F)_116
+  - first:
+      213: -5221099801888662523
+    second: Dark elf girl (F)_117
+  - first:
+      213: 5089426908645778557
+    second: Dark elf girl (F)_118
+  - first:
+      213: 7366468765240974937
+    second: Dark elf girl (F)_119
+  - first:
+      213: 8365563026872429457
+    second: Dark elf girl (F)_120
+  - first:
+      213: -8325349734724464079
+    second: Dark elf girl (F)_121
+  - first:
+      213: -6341377694099638543
+    second: Dark elf girl (F)_122
+  - first:
+      213: 7664245528734737080
+    second: Dark elf girl (F)_123
+  - first:
+      213: 1272153788790834218
+    second: Dark elf girl (F)_124
+  - first:
+      213: 950120937338445775
+    second: Dark elf girl (F)_125
+  - first:
+      213: -5520058011021174193
+    second: Dark elf girl (F)_126
+  - first:
+      213: -5156904484786359812
+    second: Dark elf girl (F)_127
+  - first:
+      213: 3577630688399833518
+    second: Dark elf girl (F)_128
+  - first:
+      213: -1423580337590780246
+    second: Dark elf girl (F)_129
+  - first:
+      213: 7897191084132204481
+    second: Dark elf girl (F)_130
+  - first:
+      213: 8940232377429676443
+    second: Dark elf girl (F)_131
+  - first:
+      213: -512636225797415701
+    second: Dark elf girl (F)_132
+  - first:
+      213: 8247646445754321114
+    second: Dark elf girl (F)_133
+  - first:
+      213: -6503756466480863061
+    second: Dark elf girl (F)_134
+  - first:
+      213: -2259159185479644070
+    second: Dark elf girl (F)_135
+  - first:
+      213: 6593632579610867567
+    second: Dark elf girl (F)_136
+  - first:
+      213: -496972644743447447
+    second: Dark elf girl (F)_137
+  - first:
+      213: -5748052939037515811
+    second: Dark elf girl (F)_138
+  - first:
+      213: 1970409068934651723
+    second: Dark elf girl (F)_139
+  - first:
+      213: 8998937277909818651
+    second: Dark elf girl (F)_140
+  - first:
+      213: 6697553817402997245
+    second: Dark elf girl (F)_141
+  - first:
+      213: -5248790360190898468
+    second: Dark elf girl (F)_142
+  - first:
+      213: -6976549492207483371
+    second: Dark elf girl (F)_143
+  - first:
+      213: -1867367533506299823
+    second: Dark elf girl (F)_144
+  - first:
+      213: -6338071235277006162
+    second: Dark elf girl (F)_145
+  - first:
+      213: -3987166096123266772
+    second: Dark elf girl (F)_146
+  - first:
+      213: 5540676267450164225
+    second: Dark elf girl (F)_147
+  - first:
+      213: 1267483064575112460
+    second: Dark elf girl (F)_148
+  - first:
+      213: -6301887880470976926
+    second: Dark elf girl (F)_149
+  - first:
+      213: 6963703474366797331
+    second: Dark elf girl (F)_150
+  - first:
+      213: 8597354561956095024
+    second: Dark elf girl (F)_151
+  - first:
+      213: 5738906254726306048
+    second: Dark elf girl (F)_152
+  - first:
+      213: -5301283976377893933
+    second: Dark elf girl (F)_153
+  - first:
+      213: 970344269667876918
+    second: Dark elf girl (F)_154
+  - first:
+      213: 7085975668864838772
+    second: Dark elf girl (F)_155
+  - first:
+      213: 2578000558788677982
+    second: Dark elf girl (F)_156
+  - first:
+      213: 4568069920871417037
+    second: Dark elf girl (F)_157
+  - first:
+      213: -2628870484479239343
+    second: Dark elf girl (F)_158
+  - first:
+      213: 6931619794757200876
+    second: Dark elf girl (F)_159
+  - first:
+      213: 3022518249704207796
+    second: Dark elf girl (F)_160
+  - first:
+      213: 4470263066037336773
+    second: Dark elf girl (F)_161
+  - first:
+      213: -6451437289842916605
+    second: Dark elf girl (F)_162
+  - first:
+      213: 1090204482648840224
+    second: Dark elf girl (F)_163
+  - first:
+      213: -4061368512006052087
+    second: Dark elf girl (F)_164
+  - first:
+      213: 2063145938020870364
+    second: Dark elf girl (F)_165
+  - first:
+      213: 8694178140468105784
+    second: Dark elf girl (F)_166
+  - first:
+      213: -7570164570894222106
+    second: Dark elf girl (F)_167
+  - first:
+      213: -6640899543232194257
+    second: Dark elf girl (F)_168
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dark elf girl (F)_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1281
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210aaaeb7c0513090800000000000000
+      internalID: -8056569439561539566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1281
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b20dca0a00c62f0800000000000000
+      internalID: -978406328952149144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1281
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51abf1de96465d580800000000000000
+      internalID: -8803019490513143275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1281
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36a43ec698a89150800000000000000
+      internalID: 5879634679190300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_4
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1281
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99415b411caefab0800000000000000
+      internalID: -4972347748292408933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_5
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1281
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc34a5173a525540800000000000000
+      internalID: 4995154129340087519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1281
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c817194909ccd90800000000000000
+      internalID: -7076121946736194506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_7
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 575
+        width: 194
+        height: 769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512b94fc9d2d3c640800000000000000
+      internalID: 5099151036040983061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_8
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1217
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a28a19d41f26ffc0800000000000000
+      internalID: -3461527496999402841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_9
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1217
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e318f5b9d774af0800000000000000
+      internalID: -412222734605402548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_10
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1217
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0f697849ab75e60800000000000000
+      internalID: 7951028814238642380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_11
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1217
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e45ba61308b30590800000000000000
+      internalID: -7709115813723417375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_12
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1217
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb51038730daec40800000000000000
+      internalID: 5542471228272499689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_13
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1217
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a6fe9c5deb826d0800000000000000
+      internalID: -3014950125099324784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_14
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1217
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6aeddb3c164a2e60800000000000000
+      internalID: 7938234380271348330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_15
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1153
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70a4d44abb0c32e0800000000000000
+      internalID: -2144826427888590721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_16
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1153
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9569a8c8389da3e00800000000000000
+      internalID: 1025371024202045017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_17
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1153
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18dd2223360995570800000000000000
+      internalID: 8455948531082124673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_18
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1153
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5aa31ca2233adb0800000000000000
+      internalID: -4781923220125473335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_19
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1153
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec39fb979813d440800000000000000
+      internalID: 4959334654100978919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_20
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1153
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3d7bd6ad6378890800000000000000
+      internalID: -7455930346317032457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_21
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1153
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef276728ae1de4f90800000000000000
+      internalID: -6967400768354225410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_22
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1089
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ff0d1c562d82940800000000000000
+      internalID: 5271694698322395002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_23
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1089
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd302612b16ca700800000000000000
+      internalID: 552924271763013069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_24
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1089
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd4fed745c8be650800000000000000
+      internalID: 6263254001306783217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_25
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1089
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7976e803044d3820800000000000000
+      internalID: 2899548514921380221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_26
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1089
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd80872c2678e7590800000000000000
+      internalID: -7674547856753555236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_27
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1089
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54026706afa27910800000000000000
+      internalID: 1833721125916509279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_28
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1089
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4180c20e97dff740800000000000000
+      internalID: 5188102369405075790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_29
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1024
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13552f9271da0fc20800000000000000
+      internalID: 3238278447078987057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_30
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1023
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 860d824a8061c8ce0800000000000000
+      internalID: -1401721157649379224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_31
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1023
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a0aa0dd1cea3930800000000000000
+      internalID: 4123868021610121794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_32
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1023
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 195f91c1fba506f70800000000000000
+      internalID: 9178435817437787537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_33
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1023
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91638ceaea6f2cd70800000000000000
+      internalID: 9062076630339958297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_34
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1023
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d075808da4e1412f0800000000000000
+      internalID: -1003143510195939571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_35
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1023
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccddc40175b76ecf0800000000000000
+      internalID: -223355517642416692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_36
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 961
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41dd08590afcea730800000000000000
+      internalID: 4012372606643658004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_37
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 961
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6458080739e30dfc0800000000000000
+      internalID: -3472206509734066874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_38
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 961
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c5cefce88f05d60800000000000000
+      internalID: 7877069040528415755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_39
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 961
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c3991478ee7b300800000000000000
+      internalID: 267944967540390979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_40
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 961
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7152031ff7880060800000000000000
+      internalID: 6919930357060096380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_41
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 961
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921eee42f3e1d90e0800000000000000
+      internalID: -2261618181318713047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_42
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 961
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff652d45f33b48910800000000000000
+      internalID: 1838791632461387519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_43
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 897
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95d4216319828d30800000000000000
+      internalID: 4432255699613177244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_44
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 897
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b252e58f551bec760800000000000000
+      internalID: 7480111013906228523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_45
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 898
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c25875cc9181fb0800000000000000
+      internalID: -4676959847591891865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_46
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 898
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2206126ac63a022c0800000000000000
+      internalID: -4458383944057790430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_47
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 898
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d2c9f11da5e8600800000000000000
+      internalID: 472414865145474454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_48
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 898
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2521512856bdc190800000000000000
+      internalID: -7940490078351973073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_49
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 898
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc150b7e9a7625800800000000000000
+      internalID: 599655679827923404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_50
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 833
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6eb6cb7cf325200800000000000000
+      internalID: 167266263258359462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_51
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 833
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c90998de436259d0800000000000000
+      internalID: -2787056029096408637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_52
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 833
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a5dde12c51de2200800000000000000
+      internalID: 157293230640977316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_53
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 833
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d9ea454a7ed5c60800000000000000
+      internalID: 7808652021911690653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_54
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 833
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd294a7cb3672550800000000000000
+      internalID: 6135982678472207804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_55
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 833
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddcf53bb329268c80800000000000000
+      internalID: -8320918028078940963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_56
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 833
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1727cbf5fb47c22f0800000000000000
+      internalID: -996293052261961103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_57
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 769
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 431deca85668d7840800000000000000
+      internalID: 5223478913498272052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_58
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 769
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd09bac2201cbeb0800000000000000
+      internalID: -4702866169265582644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_59
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 768
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11a9dcf66a1e23c0800000000000000
+      internalID: -4382536357753806564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_60
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 767
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b99e2821a8de210800000000000000
+      internalID: 1363898074273520415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_61
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 768
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3436be73e233e210800000000000000
+      internalID: 1360987465060856895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_62
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 769
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595a44656c07b7810800000000000000
+      internalID: 1764127676198856085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_63
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 768
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c8fcae5f6c45db90800000000000000
+      internalID: -7217778786577876792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_64
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 705
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a3e77d60c137670800000000000000
+      internalID: 8535196534507977255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_65
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 705
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f2bcde5200161e0800000000000000
+      internalID: -2206482179531526298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_66
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 706
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4464f852825cb1ea0800000000000000
+      internalID: -5900906110519392700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_67
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 706
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72edd2cd81ce7f680800000000000000
+      internalID: -8721242561862312409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_68
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 705
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de21784b4beb40d0800000000000000
+      internalID: -3437395181996790056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_69
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 705
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89817c62eff6c0900800000000000000
+      internalID: 652019183424837784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_70
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 705
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a0df1d62e5b0fe0800000000000000
+      internalID: -1221779353076168147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_71
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 641
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5386ae32cc06c7a0800000000000000
+      internalID: -6357379795572587681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_72
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 641
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e01e748f89bc6b10800000000000000
+      internalID: 1976158362563121385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_73
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 640
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63891678e10339190800000000000000
+      internalID: -7956963208955062218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_74
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 640
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0282e38c91810bdb0800000000000000
+      internalID: -4778292705627330528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_75
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 640
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8483a97db56651c0800000000000000
+      internalID: -4515309711928359796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_76
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 641
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69746b32097db34b0800000000000000
+      internalID: -5459533109182183530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_77
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 640
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8da9113caac18040800000000000000
+      internalID: 4648219131330014606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_78
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 577
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad1b7b72154f2700800000000000000
+      internalID: 517708427854290347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_79
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 577
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c8bbc424b759b00800000000000000
+      internalID: 834708830632512598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_80
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 578
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713ea41a43eeb8820800000000000000
+      internalID: 2921690693091648279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_81
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 578
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f861666eb18a5e470800000000000000
+      internalID: 8423323515849414287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_82
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 577
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ab3bc7fad0f1d30800000000000000
+      internalID: 4404254007954225716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_83
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 577
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad712a88f40e69730800000000000000
+      internalID: 4005635550791997402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_84
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 577
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87221839105f30470800000000000000
+      internalID: 8359794720448258680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_85
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 513
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f72c87ce9019f50800000000000000
+      internalID: 6886296216469143397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_86
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 513
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d336502497dd38c30800000000000000
+      internalID: 4360572377093202749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_87
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 513
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07fd3cd8e5f251650800000000000000
+      internalID: 6202916144924581744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_88
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 513
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0518305d21cc05ea0800000000000000
+      internalID: -5885980331717983920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_89
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 513
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9195d0e1420240d10800000000000000
+      internalID: 2090831466501855513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_90
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 513
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17579eefbeb5e7590800000000000000
+      internalID: -7674595645840591503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_91
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 319
+        width: 66
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92152d47eaa1fe0e0800000000000000
+      internalID: -2238541153193275095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_92
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 449
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b3ca7bbbb2ae4f0800000000000000
+      internalID: -798777898664445029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_93
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 449
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e8a3505ec7d3ae0800000000000000
+      internalID: -1567959772177985906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_94
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 449
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d62f3d1823592b0800000000000000
+      internalID: -5578497030240441041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_95
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 449
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e93ec83441ed173a0800000000000000
+      internalID: -6669305394544974946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_96
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 449
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17f6b38ffb90c3e0800000000000000
+      internalID: -2035455509842692326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_97
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 449
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e48e4c423424f71a0800000000000000
+      internalID: -6809651255413774258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_98
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 385
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856f65857bd666e70800000000000000
+      internalID: 9108087930631943768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_99
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 385
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6829b74544a9dd660800000000000000
+      internalID: 7412250179987542662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_100
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 385
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ec7853734b11b20800000000000000
+      internalID: 3103459767449276059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_101
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 385
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f24ec25f00a007c90800000000000000
+      internalID: -7174223207171562449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_102
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 385
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8289a3cb17f9ecdf0800000000000000
+      internalID: -158013626073311192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_103
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 385
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a1400f57e42ef50800000000000000
+      internalID: 6909171046784703095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_104
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 321
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 058f9478205d9c260800000000000000
+      internalID: 7118454892872202320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_105
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 321
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93217ae841f9ea610800000000000000
+      internalID: 1634418625423544889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_106
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 321
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305987e6d84bdd3a0800000000000000
+      internalID: -6638951756137458429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_107
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 321
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d7db3dfdf57dda0800000000000000
+      internalID: -5920157770220471005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_108
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 321
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 307c99912c20ec270800000000000000
+      internalID: 8272552598202599171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_109
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 321
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756dc7a829abc2140800000000000000
+      internalID: 4696333649992013399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_110
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 257
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c9b0aa4814b4dc0800000000000000
+      internalID: -3653754634636649342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_111
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 256
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3512da22ae7504050800000000000000
+      internalID: 5782718584659452243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_112
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 255
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc054f53d5acf92d0800000000000000
+      internalID: -3269672302761717557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_113
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 255
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3c068eec9616f90800000000000000
+      internalID: -6962167211555241036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_114
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 255
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0415571a439159b0800000000000000
+      internalID: -5093127757151005683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_115
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 255
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa7a12a0c1105730800000000000000
+      internalID: 3985705189273926305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_116
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 255
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 883745ed5e1e98030800000000000000
+      internalID: 3497574963023737736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_117
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 255
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c509b846dea87b0800000000000000
+      internalID: -5221099801888662523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_118
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 255
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d746528fec641a640800000000000000
+      internalID: 5089426908645778557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_119
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 255
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ed2311054fa3660800000000000000
+      internalID: 7366468765240974937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_120
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 255
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b6fd21043781470800000000000000
+      internalID: 8365563026872429457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_121
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 255
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1321bde968a667c80800000000000000
+      internalID: -8325349734724464079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_122
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 255
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6fa94d596eef7a0800000000000000
+      internalID: -6341377694099638543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_123
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 193
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b22c9393bedc5a60800000000000000
+      internalID: 7664245528734737080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_124
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 193
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a248b88712997a110800000000000000
+      internalID: 1272153788790834218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_125
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 193
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf18b365f18f2d00800000000000000
+      internalID: 950120937338445775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_126
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 193
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a98894c70d463b0800000000000000
+      internalID: -5520058011021174193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_127
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 193
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1b0bb81befe68b0800000000000000
+      internalID: -5156904484786359812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_128
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 193
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea9bb9fe72c46a130800000000000000
+      internalID: 3577630688399833518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_129
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 193
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaebba4b93d6e3ce0800000000000000
+      internalID: -1423580337590780246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_130
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 193
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cff41d2375789d60800000000000000
+      internalID: 7897191084132204481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_131
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 193
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91542adaf5121c70800000000000000
+      internalID: 8940232377429676443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_132
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 193
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec19569110c2e8f0800000000000000
+      internalID: -512636225797415701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_133
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 193
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad803389eb6857270800000000000000
+      internalID: 8247646445754321114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_134
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 193
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba822cdb3f30eb5a0800000000000000
+      internalID: -6503756466480863061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_135
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 193
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ccc6ab0bad5a0e0800000000000000
+      internalID: -2259159185479644070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_136
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 129
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f67f52785e9418b50800000000000000
+      internalID: 6593632579610867567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_137
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 128
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96cfafe33066a19f0800000000000000
+      internalID: -496972644743447447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_138
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 130
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf57827e40da30b0800000000000000
+      internalID: -5748052939037515811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_139
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 129
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4fde08cb9c485b10800000000000000
+      internalID: 1970409068934651723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_140
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 129
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1dd5dd96c5a2ec70800000000000000
+      internalID: 8998937277909818651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_141
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 129
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df9fd5636bd72fc50800000000000000
+      internalID: 6697553817402997245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_142
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 129
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdea3580afc8827b0800000000000000
+      internalID: -5248790360190898468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_143
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 129
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5168a0f33315e2f90800000000000000
+      internalID: -6976549492207483371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_144
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 129
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 158724c3f17c516e0800000000000000
+      internalID: -1867367533506299823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_145
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 129
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa5134cac5aa08a0800000000000000
+      internalID: -6338071235277006162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_146
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 129
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29771c7f8dbaa8c0800000000000000
+      internalID: -3987166096123266772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_147
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 129
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104edc0a5bf64ec40800000000000000
+      internalID: 5540676267450164225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_148
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 129
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05b2deb121079110800000000000000
+      internalID: 1267483064575112460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_149
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 65
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 266203e8c523b88a0800000000000000
+      internalID: -6301887880470976926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_150
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 65
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31659c62a6b04a060800000000000000
+      internalID: 6963703474366797331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_151
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 65
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0342a716c60ff4770800000000000000
+      internalID: 8597354561956095024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_152
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 65
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0099a3825d0b4af40800000000000000
+      internalID: 5738906254726306048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_153
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 65
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db76869f4e0e66b0800000000000000
+      internalID: -5301283976377893933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_154
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 65
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630c36fd8fa577d00800000000000000
+      internalID: 970344269667876918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_155
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 0
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47cefb5e351765260800000000000000
+      internalID: 7085975668864838772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_156
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 65
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e519b5179d5e6c320800000000000000
+      internalID: 2578000558788677982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_157
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 65
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc400bee36b056f30800000000000000
+      internalID: 4568069920871417037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_158
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 65
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b1b140930648bd0800000000000000
+      internalID: -2628870484479239343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_159
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 65
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceba1906a7f023060800000000000000
+      internalID: 6931619794757200876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_160
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 65
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b531c8855422f920800000000000000
+      internalID: 3022518249704207796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_161
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 65
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca34b7f290990e30800000000000000
+      internalID: 4470263066037336773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_162
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 65
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303443057f3e776a0800000000000000
+      internalID: -6451437289842916605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_163
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02892d8633f212f00800000000000000
+      internalID: 1090204482648840224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_164
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9072ceb3bde13a7c0800000000000000
+      internalID: -4061368512006052087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_165
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd82683bc44c1ac10800000000000000
+      internalID: 2063145938020870364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_166
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 832519c74fce7a870800000000000000
+      internalID: 8694178140468105784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_167
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 2
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec3a946e6f51f690800000000000000
+      internalID: -7570164570894222106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark elf girl (F)_168
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f295798ec09c6d3a0800000000000000
+      internalID: -6640899543232194257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dark elf girl (F)_0: -8056569439561539566
+      Dark elf girl (F)_1: -978406328952149144
+      Dark elf girl (F)_10: 7951028814238642380
+      Dark elf girl (F)_100: 3103459767449276059
+      Dark elf girl (F)_101: -7174223207171562449
+      Dark elf girl (F)_102: -158013626073311192
+      Dark elf girl (F)_103: 6909171046784703095
+      Dark elf girl (F)_104: 7118454892872202320
+      Dark elf girl (F)_105: 1634418625423544889
+      Dark elf girl (F)_106: -6638951756137458429
+      Dark elf girl (F)_107: -5920157770220471005
+      Dark elf girl (F)_108: 8272552598202599171
+      Dark elf girl (F)_109: 4696333649992013399
+      Dark elf girl (F)_11: -7709115813723417375
+      Dark elf girl (F)_110: -3653754634636649342
+      Dark elf girl (F)_111: 5782718584659452243
+      Dark elf girl (F)_112: -3269672302761717557
+      Dark elf girl (F)_113: -6962167211555241036
+      Dark elf girl (F)_114: -5093127757151005683
+      Dark elf girl (F)_115: 3985705189273926305
+      Dark elf girl (F)_116: 3497574963023737736
+      Dark elf girl (F)_117: -5221099801888662523
+      Dark elf girl (F)_118: 5089426908645778557
+      Dark elf girl (F)_119: 7366468765240974937
+      Dark elf girl (F)_12: 5542471228272499689
+      Dark elf girl (F)_120: 8365563026872429457
+      Dark elf girl (F)_121: -8325349734724464079
+      Dark elf girl (F)_122: -6341377694099638543
+      Dark elf girl (F)_123: 7664245528734737080
+      Dark elf girl (F)_124: 1272153788790834218
+      Dark elf girl (F)_125: 950120937338445775
+      Dark elf girl (F)_126: -5520058011021174193
+      Dark elf girl (F)_127: -5156904484786359812
+      Dark elf girl (F)_128: 3577630688399833518
+      Dark elf girl (F)_129: -1423580337590780246
+      Dark elf girl (F)_13: -3014950125099324784
+      Dark elf girl (F)_130: 7897191084132204481
+      Dark elf girl (F)_131: 8940232377429676443
+      Dark elf girl (F)_132: -512636225797415701
+      Dark elf girl (F)_133: 8247646445754321114
+      Dark elf girl (F)_134: -6503756466480863061
+      Dark elf girl (F)_135: -2259159185479644070
+      Dark elf girl (F)_136: 6593632579610867567
+      Dark elf girl (F)_137: -496972644743447447
+      Dark elf girl (F)_138: -5748052939037515811
+      Dark elf girl (F)_139: 1970409068934651723
+      Dark elf girl (F)_14: 7938234380271348330
+      Dark elf girl (F)_140: 8998937277909818651
+      Dark elf girl (F)_141: 6697553817402997245
+      Dark elf girl (F)_142: -5248790360190898468
+      Dark elf girl (F)_143: -6976549492207483371
+      Dark elf girl (F)_144: -1867367533506299823
+      Dark elf girl (F)_145: -6338071235277006162
+      Dark elf girl (F)_146: -3987166096123266772
+      Dark elf girl (F)_147: 5540676267450164225
+      Dark elf girl (F)_148: 1267483064575112460
+      Dark elf girl (F)_149: -6301887880470976926
+      Dark elf girl (F)_15: -2144826427888590721
+      Dark elf girl (F)_150: 6963703474366797331
+      Dark elf girl (F)_151: 8597354561956095024
+      Dark elf girl (F)_152: 5738906254726306048
+      Dark elf girl (F)_153: -5301283976377893933
+      Dark elf girl (F)_154: 970344269667876918
+      Dark elf girl (F)_155: 7085975668864838772
+      Dark elf girl (F)_156: 2578000558788677982
+      Dark elf girl (F)_157: 4568069920871417037
+      Dark elf girl (F)_158: -2628870484479239343
+      Dark elf girl (F)_159: 6931619794757200876
+      Dark elf girl (F)_16: 1025371024202045017
+      Dark elf girl (F)_160: 3022518249704207796
+      Dark elf girl (F)_161: 4470263066037336773
+      Dark elf girl (F)_162: -6451437289842916605
+      Dark elf girl (F)_163: 1090204482648840224
+      Dark elf girl (F)_164: -4061368512006052087
+      Dark elf girl (F)_165: 2063145938020870364
+      Dark elf girl (F)_166: 8694178140468105784
+      Dark elf girl (F)_167: -7570164570894222106
+      Dark elf girl (F)_168: -6640899543232194257
+      Dark elf girl (F)_17: 8455948531082124673
+      Dark elf girl (F)_18: -4781923220125473335
+      Dark elf girl (F)_19: 4959334654100978919
+      Dark elf girl (F)_2: -8803019490513143275
+      Dark elf girl (F)_20: -7455930346317032457
+      Dark elf girl (F)_21: -6967400768354225410
+      Dark elf girl (F)_22: 5271694698322395002
+      Dark elf girl (F)_23: 552924271763013069
+      Dark elf girl (F)_24: 6263254001306783217
+      Dark elf girl (F)_25: 2899548514921380221
+      Dark elf girl (F)_26: -7674547856753555236
+      Dark elf girl (F)_27: 1833721125916509279
+      Dark elf girl (F)_28: 5188102369405075790
+      Dark elf girl (F)_29: 3238278447078987057
+      Dark elf girl (F)_3: 5879634679190300218
+      Dark elf girl (F)_30: -1401721157649379224
+      Dark elf girl (F)_31: 4123868021610121794
+      Dark elf girl (F)_32: 9178435817437787537
+      Dark elf girl (F)_33: 9062076630339958297
+      Dark elf girl (F)_34: -1003143510195939571
+      Dark elf girl (F)_35: -223355517642416692
+      Dark elf girl (F)_36: 4012372606643658004
+      Dark elf girl (F)_37: -3472206509734066874
+      Dark elf girl (F)_38: 7877069040528415755
+      Dark elf girl (F)_39: 267944967540390979
+      Dark elf girl (F)_4: -4972347748292408933
+      Dark elf girl (F)_40: 6919930357060096380
+      Dark elf girl (F)_41: -2261618181318713047
+      Dark elf girl (F)_42: 1838791632461387519
+      Dark elf girl (F)_43: 4432255699613177244
+      Dark elf girl (F)_44: 7480111013906228523
+      Dark elf girl (F)_45: -4676959847591891865
+      Dark elf girl (F)_46: -4458383944057790430
+      Dark elf girl (F)_47: 472414865145474454
+      Dark elf girl (F)_48: -7940490078351973073
+      Dark elf girl (F)_49: 599655679827923404
+      Dark elf girl (F)_5: 4995154129340087519
+      Dark elf girl (F)_50: 167266263258359462
+      Dark elf girl (F)_51: -2787056029096408637
+      Dark elf girl (F)_52: 157293230640977316
+      Dark elf girl (F)_53: 7808652021911690653
+      Dark elf girl (F)_54: 6135982678472207804
+      Dark elf girl (F)_55: -8320918028078940963
+      Dark elf girl (F)_56: -996293052261961103
+      Dark elf girl (F)_57: 5223478913498272052
+      Dark elf girl (F)_58: -4702866169265582644
+      Dark elf girl (F)_59: -4382536357753806564
+      Dark elf girl (F)_6: -7076121946736194506
+      Dark elf girl (F)_60: 1363898074273520415
+      Dark elf girl (F)_61: 1360987465060856895
+      Dark elf girl (F)_62: 1764127676198856085
+      Dark elf girl (F)_63: -7217778786577876792
+      Dark elf girl (F)_64: 8535196534507977255
+      Dark elf girl (F)_65: -2206482179531526298
+      Dark elf girl (F)_66: -5900906110519392700
+      Dark elf girl (F)_67: -8721242561862312409
+      Dark elf girl (F)_68: -3437395181996790056
+      Dark elf girl (F)_69: 652019183424837784
+      Dark elf girl (F)_7: 5099151036040983061
+      Dark elf girl (F)_70: -1221779353076168147
+      Dark elf girl (F)_71: -6357379795572587681
+      Dark elf girl (F)_72: 1976158362563121385
+      Dark elf girl (F)_73: -7956963208955062218
+      Dark elf girl (F)_74: -4778292705627330528
+      Dark elf girl (F)_75: -4515309711928359796
+      Dark elf girl (F)_76: -5459533109182183530
+      Dark elf girl (F)_77: 4648219131330014606
+      Dark elf girl (F)_78: 517708427854290347
+      Dark elf girl (F)_79: 834708830632512598
+      Dark elf girl (F)_8: -3461527496999402841
+      Dark elf girl (F)_80: 2921690693091648279
+      Dark elf girl (F)_81: 8423323515849414287
+      Dark elf girl (F)_82: 4404254007954225716
+      Dark elf girl (F)_83: 4005635550791997402
+      Dark elf girl (F)_84: 8359794720448258680
+      Dark elf girl (F)_85: 6886296216469143397
+      Dark elf girl (F)_86: 4360572377093202749
+      Dark elf girl (F)_87: 6202916144924581744
+      Dark elf girl (F)_88: -5885980331717983920
+      Dark elf girl (F)_89: 2090831466501855513
+      Dark elf girl (F)_9: -412222734605402548
+      Dark elf girl (F)_90: -7674595645840591503
+      Dark elf girl (F)_91: -2238541153193275095
+      Dark elf girl (F)_92: -798777898664445029
+      Dark elf girl (F)_93: -1567959772177985906
+      Dark elf girl (F)_94: -5578497030240441041
+      Dark elf girl (F)_95: -6669305394544974946
+      Dark elf girl (F)_96: -2035455509842692326
+      Dark elf girl (F)_97: -6809651255413774258
+      Dark elf girl (F)_98: 9108087930631943768
+      Dark elf girl (F)_99: 7412250179987542662
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

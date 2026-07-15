@@ -1,0 +1,7033 @@
+fileFormatVersion: 2
+guid: c5bf73695c4c9c54cbe6714c12230748
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4892234242809546209
+    second: Lizard Warrior_0
+  - first:
+      213: -7390365906584258268
+    second: Lizard Warrior_1
+  - first:
+      213: 4658876040080354301
+    second: Lizard Warrior_2
+  - first:
+      213: -4158656636937496704
+    second: Lizard Warrior_3
+  - first:
+      213: 3876909392782625514
+    second: Lizard Warrior_4
+  - first:
+      213: -285633702101047021
+    second: Lizard Warrior_5
+  - first:
+      213: 4529057547142176039
+    second: Lizard Warrior_6
+  - first:
+      213: 7761225291143792018
+    second: Lizard Warrior_7
+  - first:
+      213: -2842593531847898193
+    second: Lizard Warrior_8
+  - first:
+      213: -4975890172575852875
+    second: Lizard Warrior_9
+  - first:
+      213: -7508462272140335665
+    second: Lizard Warrior_10
+  - first:
+      213: -676845380762655398
+    second: Lizard Warrior_11
+  - first:
+      213: -5745480073026061377
+    second: Lizard Warrior_12
+  - first:
+      213: 3619621126773318967
+    second: Lizard Warrior_13
+  - first:
+      213: -5543110948238998023
+    second: Lizard Warrior_14
+  - first:
+      213: -7577342935961554448
+    second: Lizard Warrior_15
+  - first:
+      213: 363386281960174289
+    second: Lizard Warrior_16
+  - first:
+      213: -4026856581459208268
+    second: Lizard Warrior_17
+  - first:
+      213: 6893705463653558583
+    second: Lizard Warrior_18
+  - first:
+      213: -4205362135196536554
+    second: Lizard Warrior_19
+  - first:
+      213: 623620875549766221
+    second: Lizard Warrior_20
+  - first:
+      213: 1470557944663319559
+    second: Lizard Warrior_21
+  - first:
+      213: 4058342838874640215
+    second: Lizard Warrior_22
+  - first:
+      213: -8487967829014880811
+    second: Lizard Warrior_23
+  - first:
+      213: 7965496375913274390
+    second: Lizard Warrior_24
+  - first:
+      213: -206625037965312284
+    second: Lizard Warrior_25
+  - first:
+      213: -5715128956559764977
+    second: Lizard Warrior_26
+  - first:
+      213: -6316240536045785705
+    second: Lizard Warrior_27
+  - first:
+      213: 9138734654385489318
+    second: Lizard Warrior_28
+  - first:
+      213: 1396676919162807458
+    second: Lizard Warrior_29
+  - first:
+      213: -3154315130355422392
+    second: Lizard Warrior_30
+  - first:
+      213: -3237395690946362355
+    second: Lizard Warrior_31
+  - first:
+      213: 5295998716243812272
+    second: Lizard Warrior_32
+  - first:
+      213: -3843125695649445947
+    second: Lizard Warrior_33
+  - first:
+      213: 4967684599001677688
+    second: Lizard Warrior_34
+  - first:
+      213: -4401893005290079853
+    second: Lizard Warrior_35
+  - first:
+      213: 8463151696916452303
+    second: Lizard Warrior_36
+  - first:
+      213: -3889348528529473290
+    second: Lizard Warrior_37
+  - first:
+      213: -8248788475845334830
+    second: Lizard Warrior_38
+  - first:
+      213: 440256738256616605
+    second: Lizard Warrior_39
+  - first:
+      213: -2127992282611928650
+    second: Lizard Warrior_40
+  - first:
+      213: 1700222958643046792
+    second: Lizard Warrior_41
+  - first:
+      213: 8239361185756728440
+    second: Lizard Warrior_42
+  - first:
+      213: -2219101052587414124
+    second: Lizard Warrior_43
+  - first:
+      213: -6182220277733523399
+    second: Lizard Warrior_44
+  - first:
+      213: 7640937515370218981
+    second: Lizard Warrior_45
+  - first:
+      213: 5746460699726480176
+    second: Lizard Warrior_46
+  - first:
+      213: 4177538225809371661
+    second: Lizard Warrior_47
+  - first:
+      213: 8061669795943229228
+    second: Lizard Warrior_48
+  - first:
+      213: -1417391392587975419
+    second: Lizard Warrior_49
+  - first:
+      213: -8473301017922594381
+    second: Lizard Warrior_50
+  - first:
+      213: 5165678027829807549
+    second: Lizard Warrior_51
+  - first:
+      213: 4881652377228980128
+    second: Lizard Warrior_52
+  - first:
+      213: -652572959877273239
+    second: Lizard Warrior_53
+  - first:
+      213: 1771955053120991367
+    second: Lizard Warrior_54
+  - first:
+      213: 3655277127662304458
+    second: Lizard Warrior_55
+  - first:
+      213: 5414780209731964815
+    second: Lizard Warrior_56
+  - first:
+      213: 8343074756235997719
+    second: Lizard Warrior_57
+  - first:
+      213: 3835162376251808839
+    second: Lizard Warrior_58
+  - first:
+      213: 2070539851147538605
+    second: Lizard Warrior_59
+  - first:
+      213: 295385524691990343
+    second: Lizard Warrior_60
+  - first:
+      213: 6582187076471572078
+    second: Lizard Warrior_61
+  - first:
+      213: 888310097572205606
+    second: Lizard Warrior_62
+  - first:
+      213: 8203983171973504031
+    second: Lizard Warrior_63
+  - first:
+      213: 2914451200329601844
+    second: Lizard Warrior_64
+  - first:
+      213: 3846796443566003806
+    second: Lizard Warrior_65
+  - first:
+      213: 7331898443043205953
+    second: Lizard Warrior_66
+  - first:
+      213: -1546975983886101395
+    second: Lizard Warrior_67
+  - first:
+      213: 3574992164767198613
+    second: Lizard Warrior_68
+  - first:
+      213: 5467678571691574623
+    second: Lizard Warrior_69
+  - first:
+      213: -6231655999664798473
+    second: Lizard Warrior_70
+  - first:
+      213: 3015763482052402146
+    second: Lizard Warrior_71
+  - first:
+      213: -9030044412161652845
+    second: Lizard Warrior_72
+  - first:
+      213: -9210498914896582227
+    second: Lizard Warrior_73
+  - first:
+      213: 3241690028253501280
+    second: Lizard Warrior_74
+  - first:
+      213: 2304756306091954270
+    second: Lizard Warrior_75
+  - first:
+      213: 1374142321451682801
+    second: Lizard Warrior_76
+  - first:
+      213: -8159331547255735410
+    second: Lizard Warrior_77
+  - first:
+      213: -1872403699592797086
+    second: Lizard Warrior_78
+  - first:
+      213: -2869052666711957172
+    second: Lizard Warrior_79
+  - first:
+      213: 8402751006384091681
+    second: Lizard Warrior_80
+  - first:
+      213: -5877799925295912012
+    second: Lizard Warrior_81
+  - first:
+      213: 1079335201778745670
+    second: Lizard Warrior_82
+  - first:
+      213: 977864971390875857
+    second: Lizard Warrior_83
+  - first:
+      213: 3648897703869217117
+    second: Lizard Warrior_84
+  - first:
+      213: -2698235907305958937
+    second: Lizard Warrior_85
+  - first:
+      213: 5487750463725196993
+    second: Lizard Warrior_86
+  - first:
+      213: 3309544605756114284
+    second: Lizard Warrior_87
+  - first:
+      213: -307848232503035195
+    second: Lizard Warrior_88
+  - first:
+      213: -8538011665703658941
+    second: Lizard Warrior_89
+  - first:
+      213: -241616620118227395
+    second: Lizard Warrior_90
+  - first:
+      213: -1321133612757697845
+    second: Lizard Warrior_91
+  - first:
+      213: -108565649981527869
+    second: Lizard Warrior_92
+  - first:
+      213: -8936812664770391331
+    second: Lizard Warrior_93
+  - first:
+      213: 2613076305652804819
+    second: Lizard Warrior_94
+  - first:
+      213: 2162723731044161739
+    second: Lizard Warrior_95
+  - first:
+      213: 4655401622809090077
+    second: Lizard Warrior_96
+  - first:
+      213: -8007227048275581543
+    second: Lizard Warrior_97
+  - first:
+      213: -4359980034779718465
+    second: Lizard Warrior_98
+  - first:
+      213: 3939648550481961473
+    second: Lizard Warrior_99
+  - first:
+      213: 6053792293889018177
+    second: Lizard Warrior_100
+  - first:
+      213: 7661841194028818455
+    second: Lizard Warrior_101
+  - first:
+      213: 3075025617754633254
+    second: Lizard Warrior_102
+  - first:
+      213: -5203114523187560520
+    second: Lizard Warrior_103
+  - first:
+      213: 2307514006882937274
+    second: Lizard Warrior_104
+  - first:
+      213: -858928873082363733
+    second: Lizard Warrior_105
+  - first:
+      213: 2874646360038080268
+    second: Lizard Warrior_106
+  - first:
+      213: -1948619479717879969
+    second: Lizard Warrior_107
+  - first:
+      213: 2609420873970929503
+    second: Lizard Warrior_108
+  - first:
+      213: -7489483932055545978
+    second: Lizard Warrior_109
+  - first:
+      213: -3104631707090491071
+    second: Lizard Warrior_110
+  - first:
+      213: -570940450298624615
+    second: Lizard Warrior_111
+  - first:
+      213: -1076851159229658930
+    second: Lizard Warrior_112
+  - first:
+      213: 8950931831674934219
+    second: Lizard Warrior_113
+  - first:
+      213: -6339360679216034605
+    second: Lizard Warrior_114
+  - first:
+      213: -6378943658825374
+    second: Lizard Warrior_115
+  - first:
+      213: 2172831251540361182
+    second: Lizard Warrior_116
+  - first:
+      213: 6433730890398102915
+    second: Lizard Warrior_117
+  - first:
+      213: 8790491243042521097
+    second: Lizard Warrior_118
+  - first:
+      213: 8894831728010943470
+    second: Lizard Warrior_119
+  - first:
+      213: 5010990543869058787
+    second: Lizard Warrior_120
+  - first:
+      213: 3965972614328733402
+    second: Lizard Warrior_121
+  - first:
+      213: 2607393729499282065
+    second: Lizard Warrior_122
+  - first:
+      213: -6511943778221556855
+    second: Lizard Warrior_123
+  - first:
+      213: 163262403293503522
+    second: Lizard Warrior_124
+  - first:
+      213: 5203686839368796196
+    second: Lizard Warrior_125
+  - first:
+      213: 2445935300602840971
+    second: Lizard Warrior_126
+  - first:
+      213: 9099909008912821428
+    second: Lizard Warrior_127
+  - first:
+      213: 3287117758559152829
+    second: Lizard Warrior_128
+  - first:
+      213: 4532764193200941333
+    second: Lizard Warrior_129
+  - first:
+      213: -9107917706333158790
+    second: Lizard Warrior_130
+  - first:
+      213: 6974961706549260280
+    second: Lizard Warrior_131
+  - first:
+      213: -5465684856295126080
+    second: Lizard Warrior_132
+  - first:
+      213: -8915737869174496944
+    second: Lizard Warrior_133
+  - first:
+      213: 3252957668543009911
+    second: Lizard Warrior_134
+  - first:
+      213: 4838651509586752930
+    second: Lizard Warrior_135
+  - first:
+      213: -5274979888207371823
+    second: Lizard Warrior_136
+  - first:
+      213: 5018341749753202238
+    second: Lizard Warrior_137
+  - first:
+      213: -3570861755916851171
+    second: Lizard Warrior_138
+  - first:
+      213: 1262726532635750409
+    second: Lizard Warrior_139
+  - first:
+      213: 378279373503306307
+    second: Lizard Warrior_140
+  - first:
+      213: 8242129279987928402
+    second: Lizard Warrior_141
+  - first:
+      213: -3408502071812318839
+    second: Lizard Warrior_142
+  - first:
+      213: -4089764290403377647
+    second: Lizard Warrior_143
+  - first:
+      213: 5533922995802493787
+    second: Lizard Warrior_144
+  - first:
+      213: 1854243335042924138
+    second: Lizard Warrior_145
+  - first:
+      213: -3527511874643492763
+    second: Lizard Warrior_146
+  - first:
+      213: -5166171714966872873
+    second: Lizard Warrior_147
+  - first:
+      213: 3899908278311705883
+    second: Lizard Warrior_148
+  - first:
+      213: 3389157228782249768
+    second: Lizard Warrior_149
+  - first:
+      213: -2604772441916895023
+    second: Lizard Warrior_150
+  - first:
+      213: -5195626261033335094
+    second: Lizard Warrior_151
+  - first:
+      213: -7909671591467591726
+    second: Lizard Warrior_152
+  - first:
+      213: 6847641208968101771
+    second: Lizard Warrior_153
+  - first:
+      213: -2394661930594794544
+    second: Lizard Warrior_154
+  - first:
+      213: -5973599820441231677
+    second: Lizard Warrior_155
+  - first:
+      213: -6158420588172732254
+    second: Lizard Warrior_156
+  - first:
+      213: 8684993853108126087
+    second: Lizard Warrior_157
+  - first:
+      213: 2567906456465906491
+    second: Lizard Warrior_158
+  - first:
+      213: 4428439953237861177
+    second: Lizard Warrior_159
+  - first:
+      213: -6600665399259589951
+    second: Lizard Warrior_160
+  - first:
+      213: 2133206813487222791
+    second: Lizard Warrior_161
+  - first:
+      213: 7063925337508082345
+    second: Lizard Warrior_162
+  - first:
+      213: -2528401676623068025
+    second: Lizard Warrior_163
+  - first:
+      213: -7374732527327936476
+    second: Lizard Warrior_164
+  - first:
+      213: -585025148707975650
+    second: Lizard Warrior_165
+  - first:
+      213: -8835447222435235768
+    second: Lizard Warrior_166
+  - first:
+      213: -1813345832311122001
+    second: Lizard Warrior_167
+  - first:
+      213: 3639853497255616725
+    second: Lizard Warrior_168
+  - first:
+      213: 8545066884982686021
+    second: Lizard Warrior_169
+  - first:
+      213: -2063912202838228018
+    second: Lizard Warrior_170
+  - first:
+      213: 415724610547858651
+    second: Lizard Warrior_171
+  - first:
+      213: 893347957554415586
+    second: Lizard Warrior_172
+  - first:
+      213: 4620066003999511351
+    second: Lizard Warrior_173
+  - first:
+      213: -1521896976345394786
+    second: Lizard Warrior_174
+  - first:
+      213: 6187490382955133887
+    second: Lizard Warrior_175
+  - first:
+      213: 3060861558750214770
+    second: Lizard Warrior_176
+  - first:
+      213: -5381035913605138078
+    second: Lizard Warrior_177
+  - first:
+      213: 2868136893592149574
+    second: Lizard Warrior_178
+  - first:
+      213: -5588964675678469253
+    second: Lizard Warrior_179
+  - first:
+      213: 6013904281055761784
+    second: Lizard Warrior_180
+  - first:
+      213: -5965114447250694545
+    second: Lizard Warrior_181
+  - first:
+      213: -1053669506724298482
+    second: Lizard Warrior_182
+  - first:
+      213: -465605862345835535
+    second: Lizard Warrior_183
+  - first:
+      213: 4853631741874450323
+    second: Lizard Warrior_184
+  - first:
+      213: -6225989171892027275
+    second: Lizard Warrior_185
+  - first:
+      213: -6713746380748730981
+    second: Lizard Warrior_186
+  - first:
+      213: 8632415736003716619
+    second: Lizard Warrior_187
+  - first:
+      213: 6032439937745226916
+    second: Lizard Warrior_188
+  - first:
+      213: 6673060944812905374
+    second: Lizard Warrior_189
+  - first:
+      213: 395208333365183674
+    second: Lizard Warrior_190
+  - first:
+      213: 941843543770196605
+    second: Lizard Warrior_191
+  - first:
+      213: 3274449648847343705
+    second: Lizard Warrior_192
+  - first:
+      213: 4227883618384851529
+    second: Lizard Warrior_193
+  - first:
+      213: -5447601294950935983
+    second: Lizard Warrior_194
+  - first:
+      213: 3446136766685933189
+    second: Lizard Warrior_195
+  - first:
+      213: 5787890548143599066
+    second: Lizard Warrior_196
+  - first:
+      213: 3474788024492714363
+    second: Lizard Warrior_197
+  - first:
+      213: -7819613598157288973
+    second: Lizard Warrior_198
+  - first:
+      213: 8672544944042164109
+    second: Lizard Warrior_199
+  - first:
+      213: -1358029549983622211
+    second: Lizard Warrior_200
+  - first:
+      213: 7703046669301074538
+    second: Lizard Warrior_201
+  - first:
+      213: 6775388326276596020
+    second: Lizard Warrior_202
+  - first:
+      213: -4437910446813023264
+    second: Lizard Warrior_203
+  - first:
+      213: -4490455188892188530
+    second: Lizard Warrior_204
+  - first:
+      213: 2341480485136939954
+    second: Lizard Warrior_205
+  - first:
+      213: 8814439552611004807
+    second: Lizard Warrior_206
+  - first:
+      213: 7134974679925251903
+    second: Lizard Warrior_207
+  - first:
+      213: 2166458811343193794
+    second: Lizard Warrior_208
+  - first:
+      213: 7839123588101246331
+    second: Lizard Warrior_209
+  - first:
+      213: -6043895977034852241
+    second: Lizard Warrior_210
+  - first:
+      213: -98235345865984568
+    second: Lizard Warrior_211
+  - first:
+      213: -7249191716733531021
+    second: Lizard Warrior_212
+  - first:
+      213: -1312618029756060746
+    second: Lizard Warrior_213
+  - first:
+      213: 5419823901192853546
+    second: Lizard Warrior_214
+  - first:
+      213: -3391978032564795833
+    second: Lizard Warrior_215
+  - first:
+      213: -8857664257033966144
+    second: Lizard Warrior_216
+  - first:
+      213: 4834467715985172260
+    second: Lizard Warrior_217
+  - first:
+      213: 8201500087128407478
+    second: Lizard Warrior_218
+  - first:
+      213: -2252146105191189763
+    second: Lizard Warrior_219
+  - first:
+      213: -3244907892597494598
+    second: Lizard Warrior_220
+  - first:
+      213: -7893594021430492002
+    second: Lizard Warrior_221
+  - first:
+      213: -2908748619186491358
+    second: Lizard Warrior_222
+  - first:
+      213: 7606368474106234579
+    second: Lizard Warrior_223
+  - first:
+      213: -6355580827012327306
+    second: Lizard Warrior_224
+  - first:
+      213: 4701105853894896751
+    second: Lizard Warrior_225
+  - first:
+      213: 103511594735890265
+    second: Lizard Warrior_226
+  - first:
+      213: 9154530275017386628
+    second: Lizard Warrior_227
+  - first:
+      213: -1883587972546343402
+    second: Lizard Warrior_228
+  - first:
+      213: -5483133664046454608
+    second: Lizard Warrior_229
+  - first:
+      213: -297506537557887193
+    second: Lizard Warrior_230
+  - first:
+      213: -2212167342912825878
+    second: Lizard Warrior_231
+  - first:
+      213: 7642810289534670243
+    second: Lizard Warrior_232
+  - first:
+      213: -5615267766122701497
+    second: Lizard Warrior_233
+  - first:
+      213: -4125868785780929191
+    second: Lizard Warrior_234
+  - first:
+      213: 2152618520133434394
+    second: Lizard Warrior_235
+  - first:
+      213: 7586909236376020061
+    second: Lizard Warrior_236
+  - first:
+      213: 7298124022752742641
+    second: Lizard Warrior_237
+  - first:
+      213: -1171099246544853018
+    second: Lizard Warrior_238
+  - first:
+      213: -6222946963737999952
+    second: Lizard Warrior_239
+  - first:
+      213: 3807653789157233303
+    second: Lizard Warrior_240
+  - first:
+      213: 6376349405276944596
+    second: Lizard Warrior_241
+  - first:
+      213: -2133523395388533224
+    second: Lizard Warrior_242
+  - first:
+      213: -5877198187526950130
+    second: Lizard Warrior_243
+  - first:
+      213: -4361590104059901964
+    second: Lizard Warrior_244
+  - first:
+      213: 3835986090039379169
+    second: Lizard Warrior_245
+  - first:
+      213: -5144205956408402632
+    second: Lizard Warrior_246
+  - first:
+      213: 380077771398709063
+    second: Lizard Warrior_247
+  - first:
+      213: 6733765235047928415
+    second: Lizard Warrior_248
+  - first:
+      213: 6394957708175619344
+    second: Lizard Warrior_249
+  - first:
+      213: -3095766762586822521
+    second: Lizard Warrior_250
+  - first:
+      213: 915011379864417791
+    second: Lizard Warrior_251
+  - first:
+      213: -338104525339177331
+    second: Lizard Warrior_252
+  - first:
+      213: 658711962812883453
+    second: Lizard Warrior_253
+  - first:
+      213: 7977860300075889759
+    second: Lizard Warrior_254
+  - first:
+      213: -961699243045363339
+    second: Lizard Warrior_255
+  - first:
+      213: 3699685706057240875
+    second: Lizard Warrior_256
+  - first:
+      213: -3600382311630990889
+    second: Lizard Warrior_257
+  - first:
+      213: -2878691988579985142
+    second: Lizard Warrior_258
+  - first:
+      213: 6158806274330773176
+    second: Lizard Warrior_259
+  - first:
+      213: -2801032528638908818
+    second: Lizard Warrior_260
+  - first:
+      213: -7602055731255617565
+    second: Lizard Warrior_261
+  - first:
+      213: -2815241638466232311
+    second: Lizard Warrior_262
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lizard Warrior_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3584
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e54aa8af15b4e340800000000000000
+      internalID: 4892234242809546209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 3584
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42933e12d55207990800000000000000
+      internalID: -7390365906584258268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_2
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 3584
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb619d1317a7a040800000000000000
+      internalID: 4658876040080354301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_3
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 3584
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087158c72db7946c0800000000000000
+      internalID: -4158656636937496704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_4
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 3584
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea0f2f4d8c8dc530800000000000000
+      internalID: 3876909392782625514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_5
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 3584
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 319236a49a9390cf0800000000000000
+      internalID: -285633702101047021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_6
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 3584
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d16b8d7d17ade30800000000000000
+      internalID: 4529057547142176039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_7
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 3602
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2954764184965bb60800000000000000
+      internalID: 7761225291143792018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_8
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 3520
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab02655e341d88d0800000000000000
+      internalID: -2842593531847898193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_9
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 3520
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b6524e504612fab0800000000000000
+      internalID: -4975890172575852875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_10
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 3520
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc527a358559cc790800000000000000
+      internalID: -7508462272140335665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_11
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 3520
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5527c756bc5b96f0800000000000000
+      internalID: -676845380762655398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_12
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 3520
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb323f7054f340b0800000000000000
+      internalID: -5745480073026061377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_13
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 3520
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735a2dabc3a7b3230800000000000000
+      internalID: 3619621126773318967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_14
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 3520
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5c2a316f9e213b0800000000000000
+      internalID: -5543110948238998023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_15
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3455
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f132b80fbed7d690800000000000000
+      internalID: -7577342935961554448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_16
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 3455
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d27c7ce5e10b0500800000000000000
+      internalID: 363386281960174289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_17
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 3455
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b71eac364bbd18c0800000000000000
+      internalID: -4026856581459208268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_18
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 3455
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7396d33489c5baf50800000000000000
+      internalID: 6893705463653558583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_19
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 3455
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6117bb34b6d83a5c0800000000000000
+      internalID: -4205362135196536554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_20
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 3455
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4279a9d1eb87a800800000000000000
+      internalID: 623620875549766221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_21
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 3455
+        width: 60
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7042949c8a8786410800000000000000
+      internalID: 1470557944663319559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_22
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 3392
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f8fd75f41225830800000000000000
+      internalID: 4058342838874640215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_23
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 3392
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dddf9e0b3ea43a80800000000000000
+      internalID: -8487967829014880811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_24
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 3392
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61cd8f930c02b8e60800000000000000
+      internalID: 7965496375913274390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_25
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 3392
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee306a6f9be12df0800000000000000
+      internalID: -206625037965312284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_26
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 3392
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02d4ba7e78cfa0b0800000000000000
+      internalID: -5715128956559764977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_27
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 3392
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d611582b43858a0800000000000000
+      internalID: -6316240536045785705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_28
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 3392
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a50333cfbe43de70800000000000000
+      internalID: 9138734654385489318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_29
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 3328
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a4afa0124ef16310800000000000000
+      internalID: 1396676919162807458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_30
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 3327
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b6689e91f9934d0800000000000000
+      internalID: -3154315130355422392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_31
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 3327
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0403c385c57213d0800000000000000
+      internalID: -3237395690946362355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_32
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 3327
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf13a4e5ca2f7940800000000000000
+      internalID: 5295998716243812272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_33
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 3327
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c783a3aa897aaac0800000000000000
+      internalID: -3843125695649445947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_34
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 3327
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f7ca7a2d2c0f440800000000000000
+      internalID: 4967684599001677688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_35
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 3327
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399786842a559e2c0800000000000000
+      internalID: -4401893005290079853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_36
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 3327
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc313fee0a7237570800000000000000
+      internalID: 8463151696916452303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_37
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 3264
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f00055be12460ac0800000000000000
+      internalID: -3889348528529473290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_38
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 3264
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d827edc59a668d80800000000000000
+      internalID: -8248788475845334830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_39
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 3264
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9cf1cdbb2b1c1600800000000000000
+      internalID: 440256738256616605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_40
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 3263
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1b4262b4ad772e0800000000000000
+      internalID: -2127992282611928650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_41
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 3263
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889e1e0d5c7689710800000000000000
+      internalID: 1700222958643046792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_42
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 3263
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ccb2d2857185270800000000000000
+      internalID: 8239361185756728440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_43
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 3263
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49de4d7995b2431e0800000000000000
+      internalID: -2219101052587414124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_44
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 3263
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9300a768967543aa0800000000000000
+      internalID: -6182220277733523399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_45
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3199
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e50992df201a0a60800000000000000
+      internalID: 7640937515370218981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_46
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 3200
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03380f27f878fbf40800000000000000
+      internalID: 5746460699726480176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_47
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 3200
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02bbf002e899f930800000000000000
+      internalID: 4177538225809371661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_48
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 3200
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2721b387fdc0ef60800000000000000
+      internalID: 8061669795943229228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_49
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 3200
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505f811c90a645ce0800000000000000
+      internalID: -1417391392587975419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_50
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 3200
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b994cf1e99c86a80800000000000000
+      internalID: -8473301017922594381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_51
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 3200
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db906d02ccc20b740800000000000000
+      internalID: 5165678027829807549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_52
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 3200
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0afaca519fc1fb340800000000000000
+      internalID: 4881652377228980128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_53
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 3136
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9696d78b95891f6f0800000000000000
+      internalID: -652572959877273239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_54
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 3136
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7803c3b8bbf379810800000000000000
+      internalID: 1771955053120991367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_55
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 3136
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: accfbed5e272ab230800000000000000
+      internalID: 3655277127662304458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_56
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 3135
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f83e979e9252b40800000000000000
+      internalID: 5414780209731964815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_57
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 3135
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712b9fb894e88c370800000000000000
+      internalID: 8343074756235997719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_58
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 3135
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c9e649cdb393530800000000000000
+      internalID: 3835162376251808839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_59
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 3135
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da070f046090cbc10800000000000000
+      internalID: 2070539851147538605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_60
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 3135
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747fe07d19b691400800000000000000
+      internalID: 295385524691990343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_61
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 3073
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66414aa540a85b50800000000000000
+      internalID: 6582187076471572078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_62
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 3073
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6241f28c359e35c00800000000000000
+      internalID: 888310097572205606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_63
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 3073
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c53c47a376ad170800000000000000
+      internalID: 8203983171973504031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_64
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 3072
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4335bdedce5327820800000000000000
+      internalID: 2914451200329601844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_65
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 3073
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56dcf5fbf0926530800000000000000
+      internalID: 3846796443566003806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_66
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 3073
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14374d2b9c220c560800000000000000
+      internalID: 7331898443043205953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_67
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 3073
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d649864f989088ae0800000000000000
+      internalID: -1546975983886101395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_68
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 3072
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59de0c7ce6cec9130800000000000000
+      internalID: 3574992164767198613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_69
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 3073
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5501b321b811eb40800000000000000
+      internalID: 5467678571691574623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_70
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 3008
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f44c8192e5b489a0800000000000000
+      internalID: -6231655999664798473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_71
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 3009
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb1452a8e42ad920800000000000000
+      internalID: 3015763482052402146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_72
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 3010
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3978a1b4376dea280800000000000000
+      internalID: -9030044412161652845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_73
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 3010
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9e775490cbd2080800000000000000
+      internalID: -9210498914896582227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_74
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 3009
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067d9fdc7ebccfc20800000000000000
+      internalID: 3241690028253501280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_75
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 3009
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e50d37636a32cff10800000000000000
+      internalID: 2304756306091954270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_76
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 3009
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb45fc292fe11310800000000000000
+      internalID: 1374142321451682801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_77
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 3009
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8bfe21103b34ce80800000000000000
+      internalID: -8159331547255735410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_78
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 3009
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 264e4a171c2e306e0800000000000000
+      internalID: -1872403699592797086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_79
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2943
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c412fbeecc31f28d0800000000000000
+      internalID: -2869052666711957172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_80
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 2943
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 122749745819c9470800000000000000
+      internalID: 8402751006384091681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_81
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 2944
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb6bef1c1cdd6ea0800000000000000
+      internalID: -5877799925295912012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_82
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 2943
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641c89fb5a19afe00800000000000000
+      internalID: 1079335201778745670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_83
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 2943
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8fc02b203129d00800000000000000
+      internalID: 977864971390875857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_84
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 2943
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59fcd4012d73a230800000000000000
+      internalID: 3648897703869217117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_85
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 2944
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e113d8fcb0fd8ad0800000000000000
+      internalID: -2698235907305958937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_86
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 2944
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6535ea8f7682c40800000000000000
+      internalID: 5487750463725196993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_87
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 2943
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c654762c84ddded20800000000000000
+      internalID: 3309544605756114284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_88
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 2880
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cabce0e9ad4abbf0800000000000000
+      internalID: -307848232503035195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_89
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 2881
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a979950a3e28980800000000000000
+      internalID: -8538011665703658941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_90
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 2882
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36c502d6fa95acf0800000000000000
+      internalID: -241616620118227395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_91
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 2882
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcabfb69af36aade0800000000000000
+      internalID: -1321133612757697845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_92
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 2881
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8aa06dd1c4e7ef0800000000000000
+      internalID: -108565649981527869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_93
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 2881
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd2162c0b301af380800000000000000
+      internalID: -8936812664770391331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_94
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 2881
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dcec692e03834420800000000000000
+      internalID: 2613076305652804819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_95
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 2881
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8d13856c9830e10800000000000000
+      internalID: 2162723731044161739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_96
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 2881
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18105e4c1f4b9040800000000000000
+      internalID: 4655401622809090077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_97
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2817
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99562a77c6d90e090800000000000000
+      internalID: -8007227048275581543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_98
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 2815
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbcd82f224d3e73c0800000000000000
+      internalID: -4359980034779718465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_99
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 2815
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1022c57cb717ca630800000000000000
+      internalID: 3939648550481961473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_100
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 2815
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14980455404630450800000000000000
+      internalID: 6053792293889018177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_101
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 2815
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 710ea87c8f3545a60800000000000000
+      internalID: 7661841194028818455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_102
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 2815
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 624bd75d18facaa20800000000000000
+      internalID: 3075025617754633254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_103
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 2752
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bfbabf88e2dac7b0800000000000000
+      internalID: -5203114523187560520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_104
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 2751
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab9ee7673cfe50020800000000000000
+      internalID: 2307514006882937274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_105
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 2751
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba06990adb87414f0800000000000000
+      internalID: -858928873082363733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_106
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 2751
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f70f842abc4e720800000000000000
+      internalID: 2874646360038080268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_107
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 2751
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f520d48ec15f4e0800000000000000
+      internalID: -1948619479717879969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_108
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 2751
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5fc686a576863420800000000000000
+      internalID: 2609420873970929503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_109
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2687
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68755d67b02001890800000000000000
+      internalID: -7489483932055545978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_110
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 2687
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149e47459e12ae4d0800000000000000
+      internalID: -3104631707090491071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_111
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 2687
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9958c087fac9318f0800000000000000
+      internalID: -570940450298624615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_112
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 2688
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8062a73914e01f0800000000000000
+      internalID: -1076851159229658930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_113
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 2688
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc398bba319183c70800000000000000
+      internalID: 8950931831674934219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_114
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 2688
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dccf34bc011608a0800000000000000
+      internalID: -6339360679216034605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_115
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 2624
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2696c21726659eff0800000000000000
+      internalID: -6378943658825374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_116
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 2623
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf3ee8d282772e10800000000000000
+      internalID: 2172831251540361182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_117
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 2623
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 385f2ae4824394950800000000000000
+      internalID: 6433730890398102915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_118
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 2623
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9004bb626391ef970800000000000000
+      internalID: 8790491243042521097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_119
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 2623
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb57fc645ac07b70800000000000000
+      internalID: 8894831728010943470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_120
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 2623
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee182ca95d9a8540800000000000000
+      internalID: 5010990543869058787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_121
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2560
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adecdf18417f90730800000000000000
+      internalID: 3965972614328733402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_122
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 2559
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ab26c48c25f2420800000000000000
+      internalID: 2607393729499282065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_123
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 2559
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98bf9cda2ade0a5a0800000000000000
+      internalID: -6511943778221556855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_124
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 2559
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2206c717a46044200800000000000000
+      internalID: 163262403293503522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_125
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 2559
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428c3fe2c95373840800000000000000
+      internalID: 5203686839368796196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_126
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 2559
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8745006235b1f120800000000000000
+      internalID: 2445935300602840971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_127
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 2559
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc20acb70f594e70800000000000000
+      internalID: 9099909008912821428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_128
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 2559
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbaebcd7f203e9d20800000000000000
+      internalID: 3287117758559152829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_129
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 2559
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5192a52a40d97ee30800000000000000
+      internalID: 4532764193200941333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_130
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 2559
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7285861a1d2a9180800000000000000
+      internalID: -9107917706333158790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_131
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 2559
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff22d897ba0cc060800000000000000
+      internalID: 6974961706549260280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_132
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 2559
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb0c46e49cf524b0800000000000000
+      internalID: -5465684856295126080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_133
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 2559
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0512b5545afe44480800000000000000
+      internalID: -8915737869174496944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_134
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 2496
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77493eeb3c3d42d20800000000000000
+      internalID: 3252957668543009911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_135
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2496
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a573d469e7562340800000000000000
+      internalID: 4838651509586752930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_136
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 2496
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1e11e5db18bc6b0800000000000000
+      internalID: -5274979888207371823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_137
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 2495
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e364d8bab3bb4a540800000000000000
+      internalID: 5018341749753202238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_138
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 2495
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d186c88f620c17ec0800000000000000
+      internalID: -3570861755916851171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_139
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 2495
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 900f63a571b168110800000000000000
+      internalID: 1262726532635750409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_140
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 2495
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a9583061bef3500800000000000000
+      internalID: 378279373503306307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_141
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 2495
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25dc68659ece16270800000000000000
+      internalID: 8242129279987928402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_142
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 2495
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9899179bc6192b0d0800000000000000
+      internalID: -3408502071812318839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_143
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 2495
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11edd6fdb0d3e37c0800000000000000
+      internalID: -4089764290403377647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_144
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 2495
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b535c2b05a17ccc40800000000000000
+      internalID: 5533922995802493787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_145
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 2495
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e7e503d789bb910800000000000000
+      internalID: 1854243335042924138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_146
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 2495
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56007eab3a2cb0fc0800000000000000
+      internalID: -3527511874643492763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_147
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2431
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc9ab062321e48b0800000000000000
+      internalID: -5166171714966872873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_148
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 2432
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ddf51aae14f1630800000000000000
+      internalID: 3899908278311705883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_149
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 2433
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82763850b84b80f20800000000000000
+      internalID: 3389157228782249768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_150
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 2431
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d011d6c34df9dbd0800000000000000
+      internalID: -2604772441916895023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_151
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 2431
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac6ca65717d65e7b0800000000000000
+      internalID: -5195626261033335094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_152
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 2431
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7539448933b3290800000000000000
+      internalID: -7909671591467591726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_153
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 2431
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8fbed13665b70f50800000000000000
+      internalID: 6847641208968101771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_154
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 2431
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d30fbd59a374ced0800000000000000
+      internalID: -2394661930594794544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_155
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 2431
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce5340ec92891da0800000000000000
+      internalID: -5973599820441231677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_156
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 2431
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a813809a15e88aa0800000000000000
+      internalID: -6158420588172732254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_157
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 2431
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78106f2f4eb478870800000000000000
+      internalID: 8684993853108126087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_158
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 2431
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b151a115903a320800000000000000
+      internalID: 2567906456465906491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_159
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 2431
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933e3e1bcaaf47d30800000000000000
+      internalID: 4428439953237861177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_160
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2368
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c29beb8ac9b564a0800000000000000
+      internalID: -6600665399259589951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_161
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 2368
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 700595e6b4caa9d10800000000000000
+      internalID: 2133206813487222791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_162
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 2368
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2fc0e0baa180260800000000000000
+      internalID: 7063925337508082345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_163
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 2367
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7844167321059ecd0800000000000000
+      internalID: -2528401676623068025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_164
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 2367
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4208913e6dfa7a990800000000000000
+      internalID: -7374732527327936476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_165
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 2367
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e47921ab291e7f0800000000000000
+      internalID: -585025148707975650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_166
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 2367
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848390b309f226580800000000000000
+      internalID: -8835447222435235768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_167
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 2367
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa71922b293b5d6e0800000000000000
+      internalID: -1813345832311122001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_168
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 2367
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d06262987b538230800000000000000
+      internalID: 3639853497255616725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_169
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 2367
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541c855ee0d269670800000000000000
+      internalID: 8545066884982686021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_170
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 2367
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3cb3e59c28b53e0800000000000000
+      internalID: -2063912202838228018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_171
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 2367
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdcb718a453f4c500800000000000000
+      internalID: 415724610547858651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_172
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 2367
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e70ad6fb3fc56c00800000000000000
+      internalID: 893347957554415586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_173
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2303
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733df3f6d85cd1040800000000000000
+      internalID: 4620066003999511351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_174
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 2303
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91113c63c221eae0800000000000000
+      internalID: -1521896976345394786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_175
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 2303
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbbbf2778b16ed550800000000000000
+      internalID: 6187490382955133887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_176
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 2303
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a74fbde5d5a7a20800000000000000
+      internalID: 3060861558750214770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_177
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 2303
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26932f5b858b255b0800000000000000
+      internalID: -5381035913605138078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_178
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 2303
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e90c50f4badc720800000000000000
+      internalID: 2868136893592149574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_179
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 2303
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b738af33d320072b0800000000000000
+      internalID: -5588964675678469253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_180
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 2304
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8759781a41ea57350800000000000000
+      internalID: 6013904281055761784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_181
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 2303
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e5217c308a73da0800000000000000
+      internalID: -5965114447250694545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_182
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 2303
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01890d8a2d9061f0800000000000000
+      internalID: -1053669506724298482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_183
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 2177
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb79816fe5d989f0800000000000000
+      internalID: -465605862345835535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_184
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 2175
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39facf48a509b5340800000000000000
+      internalID: 4853631741874450323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_185
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 2175
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57082f9b5d7d899a0800000000000000
+      internalID: -6225989171892027275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_186
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 2175
+        width: 67
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d4867dc3bf3d2a0800000000000000
+      internalID: -6713746380748730981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_187
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 2175
+        width: 83
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b066ef910608cc770800000000000000
+      internalID: 8632415736003716619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_188
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 2175
+        width: 85
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac0f22892887b350800000000000000
+      internalID: 6032439937745226916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_189
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1983
+        width: 66
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e931b1ce2997b9c50800000000000000
+      internalID: 6673060944812905374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_190
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1983
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab48182a2ef0c7500800000000000000
+      internalID: 395208333365183674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_191
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1983
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7aea6486b9121d00800000000000000
+      internalID: 941843543770196605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_192
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1983
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950d27a5b9e217d20800000000000000
+      internalID: 3274449648847343705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_193
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1983
+        width: 102
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 942b58920c57caa30800000000000000
+      internalID: 4227883618384851529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_194
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1983
+        width: 101
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 152dd702c7b3664b0800000000000000
+      internalID: -5447601294950935983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_195
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1790
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e6ab1812323df20800000000000000
+      internalID: 3446136766685933189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_196
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1791
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adda0f8b9c7b25050800000000000000
+      internalID: 5787890548143599066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_197
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1791
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b796bad4c4de83030800000000000000
+      internalID: 3474788024492714363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_198
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1792
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f94501dcd62b7390800000000000000
+      internalID: -7819613598157288973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_199
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1774
+        width: 83
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f3e307da11b5870800000000000000
+      internalID: 8672544944042164109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_200
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 1777
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb1eb6c15f472de0800000000000000
+      internalID: -1358029549983622211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_201
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1599
+        width: 66
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a42fb1228b6ea60800000000000000
+      internalID: 7703046669301074538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_202
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1599
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4318b0309c3070e50800000000000000
+      internalID: 6775388326276596020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_203
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1599
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e3f6b036ff5962c0800000000000000
+      internalID: -4437910446813023264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_204
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1599
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8085421cc2bea1c0800000000000000
+      internalID: -4490455188892188530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_205
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 1599
+        width: 102
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bbb815781c9e7020800000000000000
+      internalID: 2341480485136939954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_206
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 1599
+        width: 101
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 781388b721e235a70800000000000000
+      internalID: 8814439552611004807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_207
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1407
+        width: 84
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3fd95e2ba5840360800000000000000
+      internalID: 7134974679925251903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_208
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1407
+        width: 78
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c640ae7fcec01e10800000000000000
+      internalID: 2166458811343193794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_209
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1407
+        width: 83
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d0923be592acc60800000000000000
+      internalID: 7839123588101246331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_210
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 1407
+        width: 76
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68dc6d71a4cf1ca0800000000000000
+      internalID: -6043895977034852241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_211
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 1407
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c53541397ff2aef0800000000000000
+      internalID: -98235345865984568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_212
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 1409
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37cc46f9a82b56b90800000000000000
+      internalID: -7249191716733531021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_213
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1215
+        width: 43
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bbed924bd4a8cde0800000000000000
+      internalID: -1312618029756060746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_214
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1215
+        width: 66
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2895c76f15173b40800000000000000
+      internalID: 5419823901192853546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_215
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1215
+        width: 96
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7460c0b63f54de0d0800000000000000
+      internalID: -3391978032564795833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_216
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1215
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cde0d3c941431580800000000000000
+      internalID: -8857664257033966144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_217
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1215
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427e36906ca771340800000000000000
+      internalID: 4834467715985172260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_218
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 1215
+        width: 66
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bdbf9630e491d170800000000000000
+      internalID: 8201500087128407478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_219
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1024
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2bcc9bc05ceb0e0800000000000000
+      internalID: -2252146105191189763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_220
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1024
+        width: 81
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc6dd4c675c7f2d0800000000000000
+      internalID: -3244907892597494598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_221
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1024
+        width: 88
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e940d7f3f02547290800000000000000
+      internalID: -7893594021430492002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_222
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1021
+        width: 80
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2203b74ca8c02a7d0800000000000000
+      internalID: -2908748619186491358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_223
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 1023
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d605d1b3df3f8960800000000000000
+      internalID: 7606368474106234579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_224
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 1022
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67895a049e07cc7a0800000000000000
+      internalID: -6355580827012327306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_225
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 831
+        width: 101
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c2ae8dddead3140800000000000000
+      internalID: 4701105853894896751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_226
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 831
+        width: 102
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95fed5a3f3fbf6100800000000000000
+      internalID: 103511594735890265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_227
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 831
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a68f748cc6b0f70800000000000000
+      internalID: 9154530275017386628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_228
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 831
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e4d29f7b62cd5e0800000000000000
+      internalID: -1883587972546343402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_229
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 831
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b86682cbfef7e3b0800000000000000
+      internalID: -5483133664046454608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_230
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 831
+        width: 66
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727718e516b0fdbf0800000000000000
+      internalID: -297506537557887193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_231
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 640
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae516fda58dcc41e0800000000000000
+      internalID: -2212167342912825878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_232
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 639
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a51a690777b01a60800000000000000
+      internalID: 7642810289534670243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_233
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 639
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d1e89b7bf8212b0800000000000000
+      internalID: -5615267766122701497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_234
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 639
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95dc7a9f238fdb6c0800000000000000
+      internalID: -4125868785780929191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_235
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 639
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1cfa759323afdd10800000000000000
+      internalID: 2152618520133434394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_236
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 639
+        width: 42
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d54a259d0cd1a4960800000000000000
+      internalID: 7586909236376020061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_237
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 639
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc0ceea125284560800000000000000
+      internalID: 7298124022752742641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_238
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 639
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e767f4a07b6fbfe0800000000000000
+      internalID: -1171099246544853018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_239
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 447
+        width: 66
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b50d4205b6a3a9a0800000000000000
+      internalID: -6222946963737999952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_240
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 448
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792136a82f087d430800000000000000
+      internalID: 3807653789157233303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_241
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 448
+        width: 62
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d83e4130085d7850800000000000000
+      internalID: 6376349405276944596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_242
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 447
+        width: 66
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81691e996c33462e0800000000000000
+      internalID: -2133523395388533224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_243
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 447
+        width: 76
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e03f2ed136fff6ea0800000000000000
+      internalID: -5877198187526950130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_244
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 447
+        width: 82
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f786a7b8e48873c0800000000000000
+      internalID: -4361590104059901964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_245
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 447
+        width: 75
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4032466092c3530800000000000000
+      internalID: 3835986090039379169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_246
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 447
+        width: 70
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d14d410fb1c98b0800000000000000
+      internalID: -5144205956408402632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_247
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 255
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ffd3728be464500800000000000000
+      internalID: 380077771398709063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_248
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 256
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5218e3edc3237d50800000000000000
+      internalID: 6733765235047928415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_249
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 256
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 015347557247fb850800000000000000
+      internalID: 6394957708175619344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_250
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 255
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7882d801880a905d0800000000000000
+      internalID: -3095766762586822521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_251
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 242
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff532468006c2bc00800000000000000
+      internalID: 915011379864417791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_252
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 231
+        width: 39
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ec43eb9bfce4bf0800000000000000
+      internalID: -338104525339177331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_253
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 242
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df123c84a07342900800000000000000
+      internalID: 658711962812883453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_254
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 255
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54f6b5acad07be60800000000000000
+      internalID: 7977860300075889759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_255
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 63
+        width: 66
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571e48d32ab57a2f0800000000000000
+      internalID: -961699243045363339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_256
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 64
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21d1224c8ce75330800000000000000
+      internalID: 3699685706057240875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_257
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 64
+        width: 62
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d192abfc5fd80ec0800000000000000
+      internalID: -3600382311630990889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_258
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 63
+        width: 66
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a095dea63e4dc08d0800000000000000
+      internalID: -2878691988579985142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_259
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 63
+        width: 75
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6ceedfca9787550800000000000000
+      internalID: 6158806274330773176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_260
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 63
+        width: 81
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66e92671cbb029d0800000000000000
+      internalID: -2801032528638908818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_261
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 63
+        width: 75
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e759cff692108690800000000000000
+      internalID: -7602055731255617565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Warrior_262
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 63
+        width: 70
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 900e45645a04ee8d0800000000000000
+      internalID: -2815241638466232311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Lizard Warrior_0: 4892234242809546209
+      Lizard Warrior_1: -7390365906584258268
+      Lizard Warrior_10: -7508462272140335665
+      Lizard Warrior_100: 6053792293889018177
+      Lizard Warrior_101: 7661841194028818455
+      Lizard Warrior_102: 3075025617754633254
+      Lizard Warrior_103: -5203114523187560520
+      Lizard Warrior_104: 2307514006882937274
+      Lizard Warrior_105: -858928873082363733
+      Lizard Warrior_106: 2874646360038080268
+      Lizard Warrior_107: -1948619479717879969
+      Lizard Warrior_108: 2609420873970929503
+      Lizard Warrior_109: -7489483932055545978
+      Lizard Warrior_11: -676845380762655398
+      Lizard Warrior_110: -3104631707090491071
+      Lizard Warrior_111: -570940450298624615
+      Lizard Warrior_112: -1076851159229658930
+      Lizard Warrior_113: 8950931831674934219
+      Lizard Warrior_114: -6339360679216034605
+      Lizard Warrior_115: -6378943658825374
+      Lizard Warrior_116: 2172831251540361182
+      Lizard Warrior_117: 6433730890398102915
+      Lizard Warrior_118: 8790491243042521097
+      Lizard Warrior_119: 8894831728010943470
+      Lizard Warrior_12: -5745480073026061377
+      Lizard Warrior_120: 5010990543869058787
+      Lizard Warrior_121: 3965972614328733402
+      Lizard Warrior_122: 2607393729499282065
+      Lizard Warrior_123: -6511943778221556855
+      Lizard Warrior_124: 163262403293503522
+      Lizard Warrior_125: 5203686839368796196
+      Lizard Warrior_126: 2445935300602840971
+      Lizard Warrior_127: 9099909008912821428
+      Lizard Warrior_128: 3287117758559152829
+      Lizard Warrior_129: 4532764193200941333
+      Lizard Warrior_13: 3619621126773318967
+      Lizard Warrior_130: -9107917706333158790
+      Lizard Warrior_131: 6974961706549260280
+      Lizard Warrior_132: -5465684856295126080
+      Lizard Warrior_133: -8915737869174496944
+      Lizard Warrior_134: 3252957668543009911
+      Lizard Warrior_135: 4838651509586752930
+      Lizard Warrior_136: -5274979888207371823
+      Lizard Warrior_137: 5018341749753202238
+      Lizard Warrior_138: -3570861755916851171
+      Lizard Warrior_139: 1262726532635750409
+      Lizard Warrior_14: -5543110948238998023
+      Lizard Warrior_140: 378279373503306307
+      Lizard Warrior_141: 8242129279987928402
+      Lizard Warrior_142: -3408502071812318839
+      Lizard Warrior_143: -4089764290403377647
+      Lizard Warrior_144: 5533922995802493787
+      Lizard Warrior_145: 1854243335042924138
+      Lizard Warrior_146: -3527511874643492763
+      Lizard Warrior_147: -5166171714966872873
+      Lizard Warrior_148: 3899908278311705883
+      Lizard Warrior_149: 3389157228782249768
+      Lizard Warrior_15: -7577342935961554448
+      Lizard Warrior_150: -2604772441916895023
+      Lizard Warrior_151: -5195626261033335094
+      Lizard Warrior_152: -7909671591467591726
+      Lizard Warrior_153: 6847641208968101771
+      Lizard Warrior_154: -2394661930594794544
+      Lizard Warrior_155: -5973599820441231677
+      Lizard Warrior_156: -6158420588172732254
+      Lizard Warrior_157: 8684993853108126087
+      Lizard Warrior_158: 2567906456465906491
+      Lizard Warrior_159: 4428439953237861177
+      Lizard Warrior_16: 363386281960174289
+      Lizard Warrior_160: -6600665399259589951
+      Lizard Warrior_161: 2133206813487222791
+      Lizard Warrior_162: 7063925337508082345
+      Lizard Warrior_163: -2528401676623068025
+      Lizard Warrior_164: -7374732527327936476
+      Lizard Warrior_165: -585025148707975650
+      Lizard Warrior_166: -8835447222435235768
+      Lizard Warrior_167: -1813345832311122001
+      Lizard Warrior_168: 3639853497255616725
+      Lizard Warrior_169: 8545066884982686021
+      Lizard Warrior_17: -4026856581459208268
+      Lizard Warrior_170: -2063912202838228018
+      Lizard Warrior_171: 415724610547858651
+      Lizard Warrior_172: 893347957554415586
+      Lizard Warrior_173: 4620066003999511351
+      Lizard Warrior_174: -1521896976345394786
+      Lizard Warrior_175: 6187490382955133887
+      Lizard Warrior_176: 3060861558750214770
+      Lizard Warrior_177: -5381035913605138078
+      Lizard Warrior_178: 2868136893592149574
+      Lizard Warrior_179: -5588964675678469253
+      Lizard Warrior_18: 6893705463653558583
+      Lizard Warrior_180: 6013904281055761784
+      Lizard Warrior_181: -5965114447250694545
+      Lizard Warrior_182: -1053669506724298482
+      Lizard Warrior_183: -465605862345835535
+      Lizard Warrior_184: 4853631741874450323
+      Lizard Warrior_185: -6225989171892027275
+      Lizard Warrior_186: -6713746380748730981
+      Lizard Warrior_187: 8632415736003716619
+      Lizard Warrior_188: 6032439937745226916
+      Lizard Warrior_189: 6673060944812905374
+      Lizard Warrior_19: -4205362135196536554
+      Lizard Warrior_190: 395208333365183674
+      Lizard Warrior_191: 941843543770196605
+      Lizard Warrior_192: 3274449648847343705
+      Lizard Warrior_193: 4227883618384851529
+      Lizard Warrior_194: -5447601294950935983
+      Lizard Warrior_195: 3446136766685933189
+      Lizard Warrior_196: 5787890548143599066
+      Lizard Warrior_197: 3474788024492714363
+      Lizard Warrior_198: -7819613598157288973
+      Lizard Warrior_199: 8672544944042164109
+      Lizard Warrior_2: 4658876040080354301
+      Lizard Warrior_20: 623620875549766221
+      Lizard Warrior_200: -1358029549983622211
+      Lizard Warrior_201: 7703046669301074538
+      Lizard Warrior_202: 6775388326276596020
+      Lizard Warrior_203: -4437910446813023264
+      Lizard Warrior_204: -4490455188892188530
+      Lizard Warrior_205: 2341480485136939954
+      Lizard Warrior_206: 8814439552611004807
+      Lizard Warrior_207: 7134974679925251903
+      Lizard Warrior_208: 2166458811343193794
+      Lizard Warrior_209: 7839123588101246331
+      Lizard Warrior_21: 1470557944663319559
+      Lizard Warrior_210: -6043895977034852241
+      Lizard Warrior_211: -98235345865984568
+      Lizard Warrior_212: -7249191716733531021
+      Lizard Warrior_213: -1312618029756060746
+      Lizard Warrior_214: 5419823901192853546
+      Lizard Warrior_215: -3391978032564795833
+      Lizard Warrior_216: -8857664257033966144
+      Lizard Warrior_217: 4834467715985172260
+      Lizard Warrior_218: 8201500087128407478
+      Lizard Warrior_219: -2252146105191189763
+      Lizard Warrior_22: 4058342838874640215
+      Lizard Warrior_220: -3244907892597494598
+      Lizard Warrior_221: -7893594021430492002
+      Lizard Warrior_222: -2908748619186491358
+      Lizard Warrior_223: 7606368474106234579
+      Lizard Warrior_224: -6355580827012327306
+      Lizard Warrior_225: 4701105853894896751
+      Lizard Warrior_226: 103511594735890265
+      Lizard Warrior_227: 9154530275017386628
+      Lizard Warrior_228: -1883587972546343402
+      Lizard Warrior_229: -5483133664046454608
+      Lizard Warrior_23: -8487967829014880811
+      Lizard Warrior_230: -297506537557887193
+      Lizard Warrior_231: -2212167342912825878
+      Lizard Warrior_232: 7642810289534670243
+      Lizard Warrior_233: -5615267766122701497
+      Lizard Warrior_234: -4125868785780929191
+      Lizard Warrior_235: 2152618520133434394
+      Lizard Warrior_236: 7586909236376020061
+      Lizard Warrior_237: 7298124022752742641
+      Lizard Warrior_238: -1171099246544853018
+      Lizard Warrior_239: -6222946963737999952
+      Lizard Warrior_24: 7965496375913274390
+      Lizard Warrior_240: 3807653789157233303
+      Lizard Warrior_241: 6376349405276944596
+      Lizard Warrior_242: -2133523395388533224
+      Lizard Warrior_243: -5877198187526950130
+      Lizard Warrior_244: -4361590104059901964
+      Lizard Warrior_245: 3835986090039379169
+      Lizard Warrior_246: -5144205956408402632
+      Lizard Warrior_247: 380077771398709063
+      Lizard Warrior_248: 6733765235047928415
+      Lizard Warrior_249: 6394957708175619344
+      Lizard Warrior_25: -206625037965312284
+      Lizard Warrior_250: -3095766762586822521
+      Lizard Warrior_251: 915011379864417791
+      Lizard Warrior_252: -338104525339177331
+      Lizard Warrior_253: 658711962812883453
+      Lizard Warrior_254: 7977860300075889759
+      Lizard Warrior_255: -961699243045363339
+      Lizard Warrior_256: 3699685706057240875
+      Lizard Warrior_257: -3600382311630990889
+      Lizard Warrior_258: -2878691988579985142
+      Lizard Warrior_259: 6158806274330773176
+      Lizard Warrior_26: -5715128956559764977
+      Lizard Warrior_260: -2801032528638908818
+      Lizard Warrior_261: -7602055731255617565
+      Lizard Warrior_262: -2815241638466232311
+      Lizard Warrior_27: -6316240536045785705
+      Lizard Warrior_28: 9138734654385489318
+      Lizard Warrior_29: 1396676919162807458
+      Lizard Warrior_3: -4158656636937496704
+      Lizard Warrior_30: -3154315130355422392
+      Lizard Warrior_31: -3237395690946362355
+      Lizard Warrior_32: 5295998716243812272
+      Lizard Warrior_33: -3843125695649445947
+      Lizard Warrior_34: 4967684599001677688
+      Lizard Warrior_35: -4401893005290079853
+      Lizard Warrior_36: 8463151696916452303
+      Lizard Warrior_37: -3889348528529473290
+      Lizard Warrior_38: -8248788475845334830
+      Lizard Warrior_39: 440256738256616605
+      Lizard Warrior_4: 3876909392782625514
+      Lizard Warrior_40: -2127992282611928650
+      Lizard Warrior_41: 1700222958643046792
+      Lizard Warrior_42: 8239361185756728440
+      Lizard Warrior_43: -2219101052587414124
+      Lizard Warrior_44: -6182220277733523399
+      Lizard Warrior_45: 7640937515370218981
+      Lizard Warrior_46: 5746460699726480176
+      Lizard Warrior_47: 4177538225809371661
+      Lizard Warrior_48: 8061669795943229228
+      Lizard Warrior_49: -1417391392587975419
+      Lizard Warrior_5: -285633702101047021
+      Lizard Warrior_50: -8473301017922594381
+      Lizard Warrior_51: 5165678027829807549
+      Lizard Warrior_52: 4881652377228980128
+      Lizard Warrior_53: -652572959877273239
+      Lizard Warrior_54: 1771955053120991367
+      Lizard Warrior_55: 3655277127662304458
+      Lizard Warrior_56: 5414780209731964815
+      Lizard Warrior_57: 8343074756235997719
+      Lizard Warrior_58: 3835162376251808839
+      Lizard Warrior_59: 2070539851147538605
+      Lizard Warrior_6: 4529057547142176039
+      Lizard Warrior_60: 295385524691990343
+      Lizard Warrior_61: 6582187076471572078
+      Lizard Warrior_62: 888310097572205606
+      Lizard Warrior_63: 8203983171973504031
+      Lizard Warrior_64: 2914451200329601844
+      Lizard Warrior_65: 3846796443566003806
+      Lizard Warrior_66: 7331898443043205953
+      Lizard Warrior_67: -1546975983886101395
+      Lizard Warrior_68: 3574992164767198613
+      Lizard Warrior_69: 5467678571691574623
+      Lizard Warrior_7: 7761225291143792018
+      Lizard Warrior_70: -6231655999664798473
+      Lizard Warrior_71: 3015763482052402146
+      Lizard Warrior_72: -9030044412161652845
+      Lizard Warrior_73: -9210498914896582227
+      Lizard Warrior_74: 3241690028253501280
+      Lizard Warrior_75: 2304756306091954270
+      Lizard Warrior_76: 1374142321451682801
+      Lizard Warrior_77: -8159331547255735410
+      Lizard Warrior_78: -1872403699592797086
+      Lizard Warrior_79: -2869052666711957172
+      Lizard Warrior_8: -2842593531847898193
+      Lizard Warrior_80: 8402751006384091681
+      Lizard Warrior_81: -5877799925295912012
+      Lizard Warrior_82: 1079335201778745670
+      Lizard Warrior_83: 977864971390875857
+      Lizard Warrior_84: 3648897703869217117
+      Lizard Warrior_85: -2698235907305958937
+      Lizard Warrior_86: 5487750463725196993
+      Lizard Warrior_87: 3309544605756114284
+      Lizard Warrior_88: -307848232503035195
+      Lizard Warrior_89: -8538011665703658941
+      Lizard Warrior_9: -4975890172575852875
+      Lizard Warrior_90: -241616620118227395
+      Lizard Warrior_91: -1321133612757697845
+      Lizard Warrior_92: -108565649981527869
+      Lizard Warrior_93: -8936812664770391331
+      Lizard Warrior_94: 2613076305652804819
+      Lizard Warrior_95: 2162723731044161739
+      Lizard Warrior_96: 4655401622809090077
+      Lizard Warrior_97: -8007227048275581543
+      Lizard Warrior_98: -4359980034779718465
+      Lizard Warrior_99: 3939648550481961473
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

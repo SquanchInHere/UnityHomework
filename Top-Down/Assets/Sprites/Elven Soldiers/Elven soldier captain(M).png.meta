@@ -1,0 +1,5447 @@
+fileFormatVersion: 2
+guid: 8be48194b6856fd41a4a1664278c4f95
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8342228351741845245
+    second: Elven soldier captain(M)_0
+  - first:
+      213: 6378088736594223959
+    second: Elven soldier captain(M)_1
+  - first:
+      213: 2737353585804691855
+    second: Elven soldier captain(M)_2
+  - first:
+      213: 4527785680449462216
+    second: Elven soldier captain(M)_3
+  - first:
+      213: 629251418791659597
+    second: Elven soldier captain(M)_4
+  - first:
+      213: -2962527222534111000
+    second: Elven soldier captain(M)_5
+  - first:
+      213: -6267701891674531242
+    second: Elven soldier captain(M)_6
+  - first:
+      213: 3579437649933411132
+    second: Elven soldier captain(M)_7
+  - first:
+      213: 6022355972618215054
+    second: Elven soldier captain(M)_8
+  - first:
+      213: -7848122948701155119
+    second: Elven soldier captain(M)_9
+  - first:
+      213: 3216640780273027965
+    second: Elven soldier captain(M)_10
+  - first:
+      213: -7348356920840810935
+    second: Elven soldier captain(M)_11
+  - first:
+      213: 7440461619423650753
+    second: Elven soldier captain(M)_12
+  - first:
+      213: -1596105600978892575
+    second: Elven soldier captain(M)_13
+  - first:
+      213: 1840464821414022330
+    second: Elven soldier captain(M)_14
+  - first:
+      213: 8865725919284047399
+    second: Elven soldier captain(M)_15
+  - first:
+      213: 5097186345898007990
+    second: Elven soldier captain(M)_16
+  - first:
+      213: 8796972699491735887
+    second: Elven soldier captain(M)_17
+  - first:
+      213: -6897664946115257618
+    second: Elven soldier captain(M)_18
+  - first:
+      213: 2934473606708472529
+    second: Elven soldier captain(M)_19
+  - first:
+      213: -5123620426790888558
+    second: Elven soldier captain(M)_20
+  - first:
+      213: -13603365663613518
+    second: Elven soldier captain(M)_21
+  - first:
+      213: -5644931258862813102
+    second: Elven soldier captain(M)_22
+  - first:
+      213: 7681600180281510158
+    second: Elven soldier captain(M)_23
+  - first:
+      213: -17752769887929922
+    second: Elven soldier captain(M)_24
+  - first:
+      213: -8184282464482779653
+    second: Elven soldier captain(M)_25
+  - first:
+      213: -3303667262868917842
+    second: Elven soldier captain(M)_26
+  - first:
+      213: -5028695715739453682
+    second: Elven soldier captain(M)_27
+  - first:
+      213: -2212772201135886713
+    second: Elven soldier captain(M)_28
+  - first:
+      213: 2988940459868802540
+    second: Elven soldier captain(M)_29
+  - first:
+      213: 2759247669612754354
+    second: Elven soldier captain(M)_30
+  - first:
+      213: -4997629438549802566
+    second: Elven soldier captain(M)_31
+  - first:
+      213: -4539451007252659100
+    second: Elven soldier captain(M)_32
+  - first:
+      213: 7857680813785699704
+    second: Elven soldier captain(M)_33
+  - first:
+      213: -5960622292372790579
+    second: Elven soldier captain(M)_34
+  - first:
+      213: -3651565091308389608
+    second: Elven soldier captain(M)_35
+  - first:
+      213: 8015463987529884308
+    second: Elven soldier captain(M)_36
+  - first:
+      213: -1386837598934471116
+    second: Elven soldier captain(M)_37
+  - first:
+      213: 6808724899031550727
+    second: Elven soldier captain(M)_38
+  - first:
+      213: 1785945785156990063
+    second: Elven soldier captain(M)_39
+  - first:
+      213: 6014540936812631935
+    second: Elven soldier captain(M)_40
+  - first:
+      213: 8623805572713274935
+    second: Elven soldier captain(M)_41
+  - first:
+      213: -747666560324680465
+    second: Elven soldier captain(M)_42
+  - first:
+      213: -1664744225536198722
+    second: Elven soldier captain(M)_43
+  - first:
+      213: -8760912980619633774
+    second: Elven soldier captain(M)_44
+  - first:
+      213: 563853186657690973
+    second: Elven soldier captain(M)_45
+  - first:
+      213: -3456280927332408104
+    second: Elven soldier captain(M)_46
+  - first:
+      213: 5550708819727776577
+    second: Elven soldier captain(M)_47
+  - first:
+      213: 8121616233754781748
+    second: Elven soldier captain(M)_48
+  - first:
+      213: -2106342369994642612
+    second: Elven soldier captain(M)_49
+  - first:
+      213: 4394264862205523697
+    second: Elven soldier captain(M)_50
+  - first:
+      213: -7259618827348728413
+    second: Elven soldier captain(M)_51
+  - first:
+      213: -5982534268566926629
+    second: Elven soldier captain(M)_52
+  - first:
+      213: -7746096516254200683
+    second: Elven soldier captain(M)_53
+  - first:
+      213: 4974184643689859333
+    second: Elven soldier captain(M)_54
+  - first:
+      213: -1449545164196433862
+    second: Elven soldier captain(M)_55
+  - first:
+      213: -3240618105961701037
+    second: Elven soldier captain(M)_56
+  - first:
+      213: -7748507486395415083
+    second: Elven soldier captain(M)_57
+  - first:
+      213: 3245171217953124433
+    second: Elven soldier captain(M)_58
+  - first:
+      213: 7710706584692451918
+    second: Elven soldier captain(M)_59
+  - first:
+      213: 5586906093639597979
+    second: Elven soldier captain(M)_60
+  - first:
+      213: 6628767591337433891
+    second: Elven soldier captain(M)_61
+  - first:
+      213: 4869812175217924285
+    second: Elven soldier captain(M)_62
+  - first:
+      213: 2542488555509271327
+    second: Elven soldier captain(M)_63
+  - first:
+      213: -5961711468362427270
+    second: Elven soldier captain(M)_64
+  - first:
+      213: 2013236614750493891
+    second: Elven soldier captain(M)_65
+  - first:
+      213: 8376047122524504472
+    second: Elven soldier captain(M)_66
+  - first:
+      213: 5208693429095705605
+    second: Elven soldier captain(M)_67
+  - first:
+      213: -5767304740258228270
+    second: Elven soldier captain(M)_68
+  - first:
+      213: -4848931499573226211
+    second: Elven soldier captain(M)_69
+  - first:
+      213: -1302553282398285901
+    second: Elven soldier captain(M)_70
+  - first:
+      213: -972561878509394542
+    second: Elven soldier captain(M)_71
+  - first:
+      213: -4056527553133472586
+    second: Elven soldier captain(M)_72
+  - first:
+      213: 1676090942096749148
+    second: Elven soldier captain(M)_73
+  - first:
+      213: -4446588906295440945
+    second: Elven soldier captain(M)_74
+  - first:
+      213: 1167253525957064441
+    second: Elven soldier captain(M)_75
+  - first:
+      213: 8909219089607670716
+    second: Elven soldier captain(M)_76
+  - first:
+      213: 8840072993949572251
+    second: Elven soldier captain(M)_77
+  - first:
+      213: -8490454376295325861
+    second: Elven soldier captain(M)_78
+  - first:
+      213: -5056957702831001862
+    second: Elven soldier captain(M)_79
+  - first:
+      213: -3685653389504141874
+    second: Elven soldier captain(M)_80
+  - first:
+      213: -3936266072996433187
+    second: Elven soldier captain(M)_81
+  - first:
+      213: 5109408067983329358
+    second: Elven soldier captain(M)_82
+  - first:
+      213: 3096582000499615972
+    second: Elven soldier captain(M)_83
+  - first:
+      213: -3327718389915391440
+    second: Elven soldier captain(M)_84
+  - first:
+      213: -1966831010345711437
+    second: Elven soldier captain(M)_85
+  - first:
+      213: 2459674282600082263
+    second: Elven soldier captain(M)_86
+  - first:
+      213: -7921556193478216155
+    second: Elven soldier captain(M)_87
+  - first:
+      213: -4838924197394051843
+    second: Elven soldier captain(M)_88
+  - first:
+      213: 4824497723508180213
+    second: Elven soldier captain(M)_89
+  - first:
+      213: 2299248914308825991
+    second: Elven soldier captain(M)_90
+  - first:
+      213: 7318116217986364902
+    second: Elven soldier captain(M)_91
+  - first:
+      213: -6050228705975317139
+    second: Elven soldier captain(M)_92
+  - first:
+      213: -7664978018629766012
+    second: Elven soldier captain(M)_93
+  - first:
+      213: -2545244424778838922
+    second: Elven soldier captain(M)_94
+  - first:
+      213: -8240089145932239768
+    second: Elven soldier captain(M)_95
+  - first:
+      213: 724328162900320909
+    second: Elven soldier captain(M)_96
+  - first:
+      213: 8531382718671189696
+    second: Elven soldier captain(M)_97
+  - first:
+      213: -1624696362722175035
+    second: Elven soldier captain(M)_98
+  - first:
+      213: -2157847718266238024
+    second: Elven soldier captain(M)_99
+  - first:
+      213: -1548441816257276167
+    second: Elven soldier captain(M)_100
+  - first:
+      213: 3140185768124955703
+    second: Elven soldier captain(M)_101
+  - first:
+      213: 611495349680526023
+    second: Elven soldier captain(M)_102
+  - first:
+      213: 6404289959675279455
+    second: Elven soldier captain(M)_103
+  - first:
+      213: 2947429207052176053
+    second: Elven soldier captain(M)_104
+  - first:
+      213: -3612277489881473225
+    second: Elven soldier captain(M)_105
+  - first:
+      213: -3690910645541699668
+    second: Elven soldier captain(M)_106
+  - first:
+      213: 5200656316498470887
+    second: Elven soldier captain(M)_107
+  - first:
+      213: 7211724877167374760
+    second: Elven soldier captain(M)_108
+  - first:
+      213: 5026178157427009543
+    second: Elven soldier captain(M)_109
+  - first:
+      213: -5819543252154565337
+    second: Elven soldier captain(M)_110
+  - first:
+      213: -5519288140805935889
+    second: Elven soldier captain(M)_111
+  - first:
+      213: -7895845897029274502
+    second: Elven soldier captain(M)_112
+  - first:
+      213: -98499691231451966
+    second: Elven soldier captain(M)_113
+  - first:
+      213: -8001896614629510319
+    second: Elven soldier captain(M)_114
+  - first:
+      213: -6506228136076278225
+    second: Elven soldier captain(M)_115
+  - first:
+      213: 199381116103576077
+    second: Elven soldier captain(M)_116
+  - first:
+      213: -5915416123223285245
+    second: Elven soldier captain(M)_117
+  - first:
+      213: -2702650647945770910
+    second: Elven soldier captain(M)_118
+  - first:
+      213: 5197791292960719981
+    second: Elven soldier captain(M)_119
+  - first:
+      213: 6301116640838728983
+    second: Elven soldier captain(M)_120
+  - first:
+      213: 4351353542954241020
+    second: Elven soldier captain(M)_121
+  - first:
+      213: 7367277971027873958
+    second: Elven soldier captain(M)_122
+  - first:
+      213: 9163972021912128881
+    second: Elven soldier captain(M)_123
+  - first:
+      213: 3127707548938068902
+    second: Elven soldier captain(M)_124
+  - first:
+      213: -8297437834106472249
+    second: Elven soldier captain(M)_125
+  - first:
+      213: 8046402847580265574
+    second: Elven soldier captain(M)_126
+  - first:
+      213: -5612502008005315383
+    second: Elven soldier captain(M)_127
+  - first:
+      213: 2562737401932137980
+    second: Elven soldier captain(M)_128
+  - first:
+      213: 717488601995100501
+    second: Elven soldier captain(M)_129
+  - first:
+      213: 3506659834879016599
+    second: Elven soldier captain(M)_130
+  - first:
+      213: 2169671106525226291
+    second: Elven soldier captain(M)_131
+  - first:
+      213: 8821341873411181163
+    second: Elven soldier captain(M)_132
+  - first:
+      213: 341653621232160021
+    second: Elven soldier captain(M)_133
+  - first:
+      213: -3928051473167422379
+    second: Elven soldier captain(M)_134
+  - first:
+      213: -1361331967230690745
+    second: Elven soldier captain(M)_135
+  - first:
+      213: 721243490067943121
+    second: Elven soldier captain(M)_136
+  - first:
+      213: 6740272123143197012
+    second: Elven soldier captain(M)_137
+  - first:
+      213: 21090097565304239
+    second: Elven soldier captain(M)_138
+  - first:
+      213: -8050766181348015546
+    second: Elven soldier captain(M)_139
+  - first:
+      213: -6484979522713695151
+    second: Elven soldier captain(M)_140
+  - first:
+      213: -6623687781174398062
+    second: Elven soldier captain(M)_141
+  - first:
+      213: 5644018957973796076
+    second: Elven soldier captain(M)_142
+  - first:
+      213: -333626820895711798
+    second: Elven soldier captain(M)_143
+  - first:
+      213: 5705545692204230602
+    second: Elven soldier captain(M)_144
+  - first:
+      213: 4794102150840341602
+    second: Elven soldier captain(M)_145
+  - first:
+      213: 7446521273741820507
+    second: Elven soldier captain(M)_146
+  - first:
+      213: -1401562537129733092
+    second: Elven soldier captain(M)_147
+  - first:
+      213: 6407906304968503248
+    second: Elven soldier captain(M)_148
+  - first:
+      213: -6454743779025744569
+    second: Elven soldier captain(M)_149
+  - first:
+      213: -6235674431806736890
+    second: Elven soldier captain(M)_150
+  - first:
+      213: 1606140261982936854
+    second: Elven soldier captain(M)_151
+  - first:
+      213: 5281795623659906679
+    second: Elven soldier captain(M)_152
+  - first:
+      213: -75246160621102664
+    second: Elven soldier captain(M)_153
+  - first:
+      213: -4252537839407894858
+    second: Elven soldier captain(M)_154
+  - first:
+      213: -5076759916447778792
+    second: Elven soldier captain(M)_155
+  - first:
+      213: 6858702453210572328
+    second: Elven soldier captain(M)_156
+  - first:
+      213: 5904894841381699711
+    second: Elven soldier captain(M)_157
+  - first:
+      213: -2839232977129188459
+    second: Elven soldier captain(M)_158
+  - first:
+      213: 8687485120224617661
+    second: Elven soldier captain(M)_159
+  - first:
+      213: 2433988355968406626
+    second: Elven soldier captain(M)_160
+  - first:
+      213: 4607419955572864197
+    second: Elven soldier captain(M)_161
+  - first:
+      213: -7259314727339176438
+    second: Elven soldier captain(M)_162
+  - first:
+      213: 7463201354237860014
+    second: Elven soldier captain(M)_163
+  - first:
+      213: 7267802246351846285
+    second: Elven soldier captain(M)_164
+  - first:
+      213: 909474753022556223
+    second: Elven soldier captain(M)_165
+  - first:
+      213: 4352536372074374163
+    second: Elven soldier captain(M)_166
+  - first:
+      213: -6916009052579917473
+    second: Elven soldier captain(M)_167
+  - first:
+      213: 6146508409531102820
+    second: Elven soldier captain(M)_168
+  - first:
+      213: 1749970102263476646
+    second: Elven soldier captain(M)_169
+  - first:
+      213: -1222562537184457739
+    second: Elven soldier captain(M)_170
+  - first:
+      213: 4018296182219639951
+    second: Elven soldier captain(M)_171
+  - first:
+      213: -5229580612751489028
+    second: Elven soldier captain(M)_172
+  - first:
+      213: -6921526193980119543
+    second: Elven soldier captain(M)_173
+  - first:
+      213: 6592581625722300428
+    second: Elven soldier captain(M)_174
+  - first:
+      213: -774341419292183512
+    second: Elven soldier captain(M)_175
+  - first:
+      213: 3769706024747243814
+    second: Elven soldier captain(M)_176
+  - first:
+      213: 7135870914335445022
+    second: Elven soldier captain(M)_177
+  - first:
+      213: 5973601657424798676
+    second: Elven soldier captain(M)_178
+  - first:
+      213: 4276184705870005073
+    second: Elven soldier captain(M)_179
+  - first:
+      213: 4207101826411079163
+    second: Elven soldier captain(M)_180
+  - first:
+      213: 7828165572774683539
+    second: Elven soldier captain(M)_181
+  - first:
+      213: -1779841741246882800
+    second: Elven soldier captain(M)_182
+  - first:
+      213: 5725644805961099015
+    second: Elven soldier captain(M)_183
+  - first:
+      213: -8169102945701885253
+    second: Elven soldier captain(M)_184
+  - first:
+      213: 533963423423351374
+    second: Elven soldier captain(M)_185
+  - first:
+      213: -8477759908028955252
+    second: Elven soldier captain(M)_186
+  - first:
+      213: 1611140580610744698
+    second: Elven soldier captain(M)_187
+  - first:
+      213: 1643102244352584313
+    second: Elven soldier captain(M)_188
+  - first:
+      213: 2420902409005857956
+    second: Elven soldier captain(M)_189
+  - first:
+      213: 9139240973320647453
+    second: Elven soldier captain(M)_190
+  - first:
+      213: -3177347527306487581
+    second: Elven soldier captain(M)_191
+  - first:
+      213: -9103788920011469094
+    second: Elven soldier captain(M)_192
+  - first:
+      213: 7048144049887910396
+    second: Elven soldier captain(M)_193
+  - first:
+      213: 3784423796369911692
+    second: Elven soldier captain(M)_194
+  - first:
+      213: -1235398995698407757
+    second: Elven soldier captain(M)_195
+  - first:
+      213: -4410026054355441352
+    second: Elven soldier captain(M)_196
+  - first:
+      213: 6787160648026693317
+    second: Elven soldier captain(M)_197
+  - first:
+      213: 7479171646964082499
+    second: Elven soldier captain(M)_198
+  - first:
+      213: -4116264797510575991
+    second: Elven soldier captain(M)_199
+  - first:
+      213: -9142846939369291092
+    second: Elven soldier captain(M)_200
+  - first:
+      213: -2759768887773599792
+    second: Elven soldier captain(M)_201
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2049
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3012c3b53837a3c80800000000000000
+      internalID: -8342228351741845245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 2049
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7536e92d9e5838850800000000000000
+      internalID: 6378088736594223959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 2049
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89c78a45980df520800000000000000
+      internalID: 2737353585804691855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_3
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 2049
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf5a4e461de5de30800000000000000
+      internalID: 4527785680449462216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_4
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 2049
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48cc7bd4dc8bb800800000000000000
+      internalID: 629251418791659597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2049
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e00e6fef2df2e6d0800000000000000
+      internalID: -2962527222534111000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_6
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 2049
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a12b45656a409a0800000000000000
+      internalID: -6267701891674531242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_7
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1984
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33a0f3f397bca130800000000000000
+      internalID: 3579437649933411132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_8
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1984
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e5cda69d4b39350800000000000000
+      internalID: 6022355972618215054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_9
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1984
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d0931162cdd51390800000000000000
+      internalID: -7848122948701155119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_10
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1984
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b85364fbdc3ac20800000000000000
+      internalID: 3216640780273027965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_11
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1984
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e00825054650a90800000000000000
+      internalID: -7348356920840810935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_12
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1984
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c3acaeeb64d14760800000000000000
+      internalID: 7440461619423650753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_13
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1984
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e844a5996e79d9e0800000000000000
+      internalID: -1596105600978892575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_14
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1919
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc4cfdf005aa8910800000000000000
+      internalID: 1840464821414022330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_15
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1919
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e26ee30c2690b70800000000000000
+      internalID: 8865725919284047399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_16
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1919
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bdd83db9f7dcb640800000000000000
+      internalID: 5097186345898007990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_17
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1919
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f499304df00251a70800000000000000
+      internalID: 8796972699491735887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_18
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1919
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eead223e6429640a0800000000000000
+      internalID: -6897664946115257618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_19
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1919
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da2e92a23859b820800000000000000
+      internalID: 2934473606708472529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_20
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1919
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b91313e5e35e8b0800000000000000
+      internalID: -5123620426790888558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_21
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1856
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bddedd9fcbafcff0800000000000000
+      internalID: -13603365663613518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_22
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1856
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250cbfd9dec29a1b0800000000000000
+      internalID: -5644931258862813102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_23
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1856
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0981444aa68a9a60800000000000000
+      internalID: 7681600180281510158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_24
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1856
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9fc0923fde0cff0800000000000000
+      internalID: -17752769887929922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_25
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1856
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd9b03f5769b6e80800000000000000
+      internalID: -8184282464482779653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_26
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1856
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea17c94c0240722d0800000000000000
+      internalID: -3303667262868917842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_27
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1856
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0732d3c3eb763ab0800000000000000
+      internalID: -5028695715739453682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_28
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1793
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78eaf662867aa41e0800000000000000
+      internalID: -2212772201135886713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_29
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1791
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cedc54d1389da7920800000000000000
+      internalID: 2988940459868802540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_30
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1791
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5b79ae221da4620800000000000000
+      internalID: 2759247669612754354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_31
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1791
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab14434118ad4aab0800000000000000
+      internalID: -4997629438549802566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_32
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1791
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4648a652c51a001c0800000000000000
+      internalID: -4539451007252659100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_33
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1791
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875591081171c0d60800000000000000
+      internalID: 7857680813785699704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_34
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1791
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc268d61b9d974da0800000000000000
+      internalID: -5960622292372790579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_35
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1791
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81bb85275e8035dc0800000000000000
+      internalID: -3651565091308389608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_36
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1728
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492a7a66706ac3f60800000000000000
+      internalID: 8015463987529884308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_37
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1728
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43eea523d86f0cce0800000000000000
+      internalID: -1386837598934471116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_38
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1728
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b0224b8337d7e50800000000000000
+      internalID: 6808724899031550727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_39
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1727
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f647360ba34f8c810800000000000000
+      internalID: 1785945785156990063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_40
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1727
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7713c99d11f77350800000000000000
+      internalID: 6014540936812631935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_41
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1727
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73edb9d3a79eda770800000000000000
+      internalID: 8623805572713274935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_42
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1727
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4c8658931cf95f0800000000000000
+      internalID: -747666560324680465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_43
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1727
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7380372f3a5e8e0800000000000000
+      internalID: -1664744225536198722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_44
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1663
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29bde0abf0cfa6680800000000000000
+      internalID: -8760912980619633774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_45
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1664
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5524306c7533d700800000000000000
+      internalID: 563853186657690973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_46
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1664
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4e46a0fc2d800d0800000000000000
+      internalID: -3456280927332408104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_47
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1664
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b708b3344180d40800000000000000
+      internalID: 5550708819727776577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_48
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1664
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 438eff63fe6c5b070800000000000000
+      internalID: 8121616233754781748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_49
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1664
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b6d1d36c4c4c2e0800000000000000
+      internalID: -2106342369994642612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_50
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1664
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6bdb04c909bfc30800000000000000
+      internalID: 4394264862205523697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_51
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1664
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5242fb327a04b90800000000000000
+      internalID: -7259618827348728413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_52
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1600
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda877197c4c9fca0800000000000000
+      internalID: -5982534268566926629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_53
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1600
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c07c05246508490800000000000000
+      internalID: -7746096516254200683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_54
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1600
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509465e349ad70540800000000000000
+      internalID: 4974184643689859333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_55
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1599
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a30bf2a6a5e22ebe0800000000000000
+      internalID: -1449545164196433862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_56
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1599
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 351247d80030703d0800000000000000
+      internalID: -3240618105961701037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_57
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1599
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d542f59e75c77490800000000000000
+      internalID: -7748507486395415083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_58
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1599
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150fa61770a290d20800000000000000
+      internalID: 3245171217953124433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_59
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1599
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4aebd329cee10b60800000000000000
+      internalID: 7710706584692451918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_60
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1538
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f7ad0dd7da88d40800000000000000
+      internalID: 5586906093639597979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_61
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1538
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b1a4ce00d1efb50800000000000000
+      internalID: 6628767591337433891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_62
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1537
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db89cba3f5c059340800000000000000
+      internalID: 4869812175217924285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_63
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1536
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b40acdedbb84320800000000000000
+      internalID: 2542488555509271327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_64
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1537
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7492ea810fb34da0800000000000000
+      internalID: -5961711468362427270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_65
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1538
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc5307d80470fb10800000000000000
+      internalID: 2013236614750493891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_66
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1537
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8918100da72bd3470800000000000000
+      internalID: 8376047122524504472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_67
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1536
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c2921b31ff84840800000000000000
+      internalID: 5208693429095705605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_68
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1537
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d75b7d25ea66ffa0800000000000000
+      internalID: -5767304740258228270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_69
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1472
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d155cbbed7225bcb0800000000000000
+      internalID: -4848931499573226211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_70
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1473
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf81add0b66cede0800000000000000
+      internalID: -1302553282398285901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_71
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1474
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2956c55df14c082f0800000000000000
+      internalID: -972561878509394542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_72
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1474
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b415edcea154b7c0800000000000000
+      internalID: -4056527553133472586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_73
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1473
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c523deed4dba24710800000000000000
+      internalID: 1676090942096749148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_74
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1473
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc94112e2fa8a42c0800000000000000
+      internalID: -4446588906295440945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_75
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1473
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f63e71c5eae23010800000000000000
+      internalID: 1167253525957064441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_76
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1473
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbbb1361f87e3ab70800000000000000
+      internalID: 8909219089607670716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_77
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1473
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c53e02d8f3eaa70800000000000000
+      internalID: 8840072993949572251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_78
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1407
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f9147aab8db2a80800000000000000
+      internalID: -8490454376295325861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_79
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1407
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe259e13c312d9b0800000000000000
+      internalID: -5056957702831001862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_80
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1408
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5246905cde9dcc0800000000000000
+      internalID: -3685653389504141874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_81
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1407
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd230a1acd29f59c0800000000000000
+      internalID: -3936266072996433187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_82
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1407
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4849a8219348e640800000000000000
+      internalID: 5109408067983329358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_83
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1407
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e8e5ad4ce449fa20800000000000000
+      internalID: 3096582000499615972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_84
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1408
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03aee8061c191d1d0800000000000000
+      internalID: -3327718389915391440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_85
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1408
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b80f17ed9964b4e0800000000000000
+      internalID: -1966831010345711437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_86
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1407
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75baa856ab4822220800000000000000
+      internalID: 2459674282600082263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_87
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1344
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5267f6bbc9af01290800000000000000
+      internalID: -7921556193478216155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_88
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1345
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc09478410b8dcb0800000000000000
+      internalID: -4838924197394051843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_89
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1346
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4c2654e1f04f240800000000000000
+      internalID: 4824497723508180213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_90
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1346
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7838493a4b298ef10800000000000000
+      internalID: 2299248914308825991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_91
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1345
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e53a1e5deb2f8560800000000000000
+      internalID: 7318116217986364902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_92
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1345
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d48722c05490ca0800000000000000
+      internalID: -6050228705975317139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_93
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1345
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48435645a1780a590800000000000000
+      internalID: -7664978018629766012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_94
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1345
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c83825ea97dacd0800000000000000
+      internalID: -2545244424778838922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_95
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1345
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c2823649255ad80800000000000000
+      internalID: -8240089145932239768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_96
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1281
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d822c7260a45d0a00800000000000000
+      internalID: 724328162900320909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_97
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1280
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c67d45a16f856670800000000000000
+      internalID: 8531382718671189696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_98
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1280
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c75310244be379e0800000000000000
+      internalID: -1624696362722175035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_99
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1280
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb8a59dee8cd02e0800000000000000
+      internalID: -2157847718266238024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_100
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1280
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6df924f54d28ae0800000000000000
+      internalID: -1548441816257276167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_101
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1280
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c33d5915e249b20800000000000000
+      internalID: 3140185768124955703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_102
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1216
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c2d28bd7c77c7800800000000000000
+      internalID: 611495349680526023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_103
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1215
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58bb0579cb90e850800000000000000
+      internalID: 6404289959675279455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_104
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1215
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bac4f66f3f57e820800000000000000
+      internalID: 2947429207052176053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_105
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1215
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f9979f2cc9eddc0800000000000000
+      internalID: -3612277489881473225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_106
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1215
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf77cab25047ccc0800000000000000
+      internalID: -3690910645541699668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_107
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1215
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e768c79d517c2840800000000000000
+      internalID: 5200656316498470887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_108
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1151
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1b8610191351460800000000000000
+      internalID: 7211724877167374760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_109
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1151
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 708a343876290c540800000000000000
+      internalID: 5026178157427009543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_110
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1151
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d3e44de34dc3fa0800000000000000
+      internalID: -5819543252154565337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_111
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1152
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec6c3aadac8763b0800000000000000
+      internalID: -5519288140805935889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_112
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1152
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74385a9df15c6290800000000000000
+      internalID: -7895845897029274502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_113
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1152
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c4e9ad7d0f02aef0800000000000000
+      internalID: -98499691231451966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_114
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1088
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1537b93cc6d83f090800000000000000
+      internalID: -8001896614629510319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_115
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1087
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2685815bfb35b5a0800000000000000
+      internalID: -6506228136076278225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_116
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1087
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a4648911854c200800000000000000
+      internalID: 199381116103576077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_117
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1087
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30268ac806838eda0800000000000000
+      internalID: -5915416123223285245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_118
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1087
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26886311e814e7ad0800000000000000
+      internalID: -2702650647945770910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_119
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1087
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d64ca8154a3422840800000000000000
+      internalID: 5197791292960719981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_120
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1025
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71dbe793330127750800000000000000
+      internalID: 6301116640838728983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_121
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1023
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfbcceb2efc136c30800000000000000
+      internalID: 4351353542954241020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_122
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1023
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a05da8f744dd3660800000000000000
+      internalID: 7367277971027873958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_123
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1023
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17dc0b94008fc2f70800000000000000
+      internalID: 9163972021912128881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_124
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1023
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a3e2c7c179d76b20800000000000000
+      internalID: 3127707548938068902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_125
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1023
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c87238604499dc80800000000000000
+      internalID: -8297437834106472249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_126
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1023
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c96b912c09aaf60800000000000000
+      internalID: 8046402847580265574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_127
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1023
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c43da7f8236c12b0800000000000000
+      internalID: -5612502008005315383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_128
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1023
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf5c5cec61ca09320800000000000000
+      internalID: 2562737401932137980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_129
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1023
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5514f44051805f900800000000000000
+      internalID: 717488601995100501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_130
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1023
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ef71e6a882aa030800000000000000
+      internalID: 3506659834879016599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_131
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 1023
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3356ddf30683c1e10800000000000000
+      internalID: 2169671106525226291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_132
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1023
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ac3f642b3bb6a70800000000000000
+      internalID: 8821341873411181163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_133
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 960
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51dc4c9882ccdb400800000000000000
+      internalID: 341653621232160021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_134
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 960
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ce7623ff1cc79c0800000000000000
+      internalID: -3928051473167422379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_135
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 960
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ab4d7d9c39b1de0800000000000000
+      internalID: -1361331967230690745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_136
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 959
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de0016022f520a00800000000000000
+      internalID: 721243490067943121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_137
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 959
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4511b65d8c14a8d50800000000000000
+      internalID: 6740272123143197012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_138
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 959
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa588adf45dea4000800000000000000
+      internalID: 21090097565304239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_139
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 959
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642060710dee54090800000000000000
+      internalID: -8050766181348015546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_140
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 959
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15cc7f4ab79b006a0800000000000000
+      internalID: -6484979522713695151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_141
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 959
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293310c8e0fe314a0800000000000000
+      internalID: -6623687781174398062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_142
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 959
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce43997c655935e40800000000000000
+      internalID: 5644018957973796076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_143
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 959
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acdd7fc8c28be5bf0800000000000000
+      internalID: -333626820895711798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_144
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 959
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7e799e39b2e2f40800000000000000
+      internalID: 5705545692204230602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_145
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 959
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26456c58182188240800000000000000
+      internalID: 4794102150840341602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_146
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 895
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5245c525ab575760800000000000000
+      internalID: 7446521273741820507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_147
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 896
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1413eb5c46ac8ce0800000000000000
+      internalID: -1401562537129733092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_148
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 897
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df22a575d47de850800000000000000
+      internalID: 6407906304968503248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_149
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 895
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d020f4bb42c66a0800000000000000
+      internalID: -6454743779025744569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_150
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 895
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6067c2d642f6679a0800000000000000
+      internalID: -6235674431806736890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_151
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 895
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f12fefe082a4610800000000000000
+      internalID: 1606140261982936854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_152
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 895
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7762674b225bc4940800000000000000
+      internalID: 5281795623659906679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_153
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 895
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9977df30ca4fef0800000000000000
+      internalID: -75246160621102664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_154
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 895
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be6f20bd53fbf4c0800000000000000
+      internalID: -4252537839407894858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_155
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 895
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818303af0c9bb89b0800000000000000
+      internalID: -5076759916447778792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_156
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 895
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82667bfca810f2f50800000000000000
+      internalID: 6858702453210572328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_157
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 895
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70c790a29662f150800000000000000
+      internalID: 5904894841381699711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_158
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 895
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593d3a376a40998d0800000000000000
+      internalID: -2839232977129188459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_159
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 832
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db4ea7640b5209870800000000000000
+      internalID: 8687485120224617661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_160
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 832
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2641fe0938347c120800000000000000
+      internalID: 2433988355968406626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_161
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 832
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c477f6d908d0ff30800000000000000
+      internalID: 4607419955572864197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_162
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 831
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ecf2c87bbb14b90800000000000000
+      internalID: -7259314727339176438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_163
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 831
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8df86071e929760800000000000000
+      internalID: 7463201354237860014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_164
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 831
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b7697f2ab6cd460800000000000000
+      internalID: 7267802246351846285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_165
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 831
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f387812287a1f9c00800000000000000
+      internalID: 909474753022556223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_166
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 831
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314e57905c0576c30800000000000000
+      internalID: 4352536372074374163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_167
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 831
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f519695c8666500a0800000000000000
+      internalID: -6916009052579917473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_168
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 831
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4667d0735d8cc4550800000000000000
+      internalID: 6146508409531102820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_169
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 831
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1f7f84984294810800000000000000
+      internalID: 1749970102263476646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_170
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 831
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb8b6f89d5980fe0800000000000000
+      internalID: -1222562537184457739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_171
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 831
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c828f761bd3c730800000000000000
+      internalID: 4018296182219639951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_172
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 767
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf78da4e32ccc67b0800000000000000
+      internalID: -5229580612751489028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_173
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 767
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906e040399cc1ff90800000000000000
+      internalID: -6921526193980119543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_174
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 767
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08e1f14f0e8d7b50800000000000000
+      internalID: 6592581625722300428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_175
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 767
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824b730f49cf045f0800000000000000
+      internalID: -774341419292183512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_176
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 767
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62995b028afa05430800000000000000
+      internalID: 3769706024747243814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_177
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 767
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1091040ac4b70360800000000000000
+      internalID: 7135870914335445022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_178
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 641
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d36d74de0f76e250800000000000000
+      internalID: 5973601657424798676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_179
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 640
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1530753755f085b30800000000000000
+      internalID: 4276184705870005073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_180
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 640
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf5212922d0a26a30800000000000000
+      internalID: 4207101826411079163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_181
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 640
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3936d20fc1b33ac60800000000000000
+      internalID: 7828165572774683539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_182
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 640
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c1198cd5bbc47e0800000000000000
+      internalID: -1779841741246882800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_183
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 640
+        width: 70
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7072f518d93957f40800000000000000
+      internalID: 5725644805961099015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_184
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 448
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba87d3172481ae80800000000000000
+      internalID: -8169102945701885253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_185
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 447
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a433097e4096700800000000000000
+      internalID: 533963423423351374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_186
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 447
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85c2eed742f85a80800000000000000
+      internalID: -8477759908028955252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_187
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 447
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71258662dbeb5610800000000000000
+      internalID: 1611140580610744698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_188
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 447
+        width: 62
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a684429c87dc610800000000000000
+      internalID: 1643102244352584313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_189
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 447
+        width: 67
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac7eac1ae5c89120800000000000000
+      internalID: 2420902409005857956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_190
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 255
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13f8735e3b15de70800000000000000
+      internalID: 9139240973320647453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_191
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 255
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e85eea124bc7e3d0800000000000000
+      internalID: -3177347527306487581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_192
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 255
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade44901638d8a180800000000000000
+      internalID: -9103788920011469094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_193
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 256
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf91a53bba900d160800000000000000
+      internalID: 7048144049887910396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_194
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 249
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8fe92e5469f48430800000000000000
+      internalID: 3784423796369911692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_195
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 256
+        width: 66
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6a589a82bfadee0800000000000000
+      internalID: -1235398995698407757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_196
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 64
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8392deb3ba07cc2c0800000000000000
+      internalID: -4410026054355441352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_197
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 63
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce142346a6d03e50800000000000000
+      internalID: 6787160648026693317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_198
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 63
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 347a77f8cfa5bc760800000000000000
+      internalID: 7479171646964082499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_199
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 63
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 988dfeeb9f610e6c0800000000000000
+      internalID: -4116264797510575991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_200
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 63
+        width: 61
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca2402746251e1180800000000000000
+      internalID: -9142846939369291092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven soldier captain(M)_201
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 63
+        width: 67
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7641681d453b9d0800000000000000
+      internalID: -2759768887773599792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Elven soldier captain(M)_0: -8342228351741845245
+      Elven soldier captain(M)_1: 6378088736594223959
+      Elven soldier captain(M)_10: 3216640780273027965
+      Elven soldier captain(M)_100: -1548441816257276167
+      Elven soldier captain(M)_101: 3140185768124955703
+      Elven soldier captain(M)_102: 611495349680526023
+      Elven soldier captain(M)_103: 6404289959675279455
+      Elven soldier captain(M)_104: 2947429207052176053
+      Elven soldier captain(M)_105: -3612277489881473225
+      Elven soldier captain(M)_106: -3690910645541699668
+      Elven soldier captain(M)_107: 5200656316498470887
+      Elven soldier captain(M)_108: 7211724877167374760
+      Elven soldier captain(M)_109: 5026178157427009543
+      Elven soldier captain(M)_11: -7348356920840810935
+      Elven soldier captain(M)_110: -5819543252154565337
+      Elven soldier captain(M)_111: -5519288140805935889
+      Elven soldier captain(M)_112: -7895845897029274502
+      Elven soldier captain(M)_113: -98499691231451966
+      Elven soldier captain(M)_114: -8001896614629510319
+      Elven soldier captain(M)_115: -6506228136076278225
+      Elven soldier captain(M)_116: 199381116103576077
+      Elven soldier captain(M)_117: -5915416123223285245
+      Elven soldier captain(M)_118: -2702650647945770910
+      Elven soldier captain(M)_119: 5197791292960719981
+      Elven soldier captain(M)_12: 7440461619423650753
+      Elven soldier captain(M)_120: 6301116640838728983
+      Elven soldier captain(M)_121: 4351353542954241020
+      Elven soldier captain(M)_122: 7367277971027873958
+      Elven soldier captain(M)_123: 9163972021912128881
+      Elven soldier captain(M)_124: 3127707548938068902
+      Elven soldier captain(M)_125: -8297437834106472249
+      Elven soldier captain(M)_126: 8046402847580265574
+      Elven soldier captain(M)_127: -5612502008005315383
+      Elven soldier captain(M)_128: 2562737401932137980
+      Elven soldier captain(M)_129: 717488601995100501
+      Elven soldier captain(M)_13: -1596105600978892575
+      Elven soldier captain(M)_130: 3506659834879016599
+      Elven soldier captain(M)_131: 2169671106525226291
+      Elven soldier captain(M)_132: 8821341873411181163
+      Elven soldier captain(M)_133: 341653621232160021
+      Elven soldier captain(M)_134: -3928051473167422379
+      Elven soldier captain(M)_135: -1361331967230690745
+      Elven soldier captain(M)_136: 721243490067943121
+      Elven soldier captain(M)_137: 6740272123143197012
+      Elven soldier captain(M)_138: 21090097565304239
+      Elven soldier captain(M)_139: -8050766181348015546
+      Elven soldier captain(M)_14: 1840464821414022330
+      Elven soldier captain(M)_140: -6484979522713695151
+      Elven soldier captain(M)_141: -6623687781174398062
+      Elven soldier captain(M)_142: 5644018957973796076
+      Elven soldier captain(M)_143: -333626820895711798
+      Elven soldier captain(M)_144: 5705545692204230602
+      Elven soldier captain(M)_145: 4794102150840341602
+      Elven soldier captain(M)_146: 7446521273741820507
+      Elven soldier captain(M)_147: -1401562537129733092
+      Elven soldier captain(M)_148: 6407906304968503248
+      Elven soldier captain(M)_149: -6454743779025744569
+      Elven soldier captain(M)_15: 8865725919284047399
+      Elven soldier captain(M)_150: -6235674431806736890
+      Elven soldier captain(M)_151: 1606140261982936854
+      Elven soldier captain(M)_152: 5281795623659906679
+      Elven soldier captain(M)_153: -75246160621102664
+      Elven soldier captain(M)_154: -4252537839407894858
+      Elven soldier captain(M)_155: -5076759916447778792
+      Elven soldier captain(M)_156: 6858702453210572328
+      Elven soldier captain(M)_157: 5904894841381699711
+      Elven soldier captain(M)_158: -2839232977129188459
+      Elven soldier captain(M)_159: 8687485120224617661
+      Elven soldier captain(M)_16: 5097186345898007990
+      Elven soldier captain(M)_160: 2433988355968406626
+      Elven soldier captain(M)_161: 4607419955572864197
+      Elven soldier captain(M)_162: -7259314727339176438
+      Elven soldier captain(M)_163: 7463201354237860014
+      Elven soldier captain(M)_164: 7267802246351846285
+      Elven soldier captain(M)_165: 909474753022556223
+      Elven soldier captain(M)_166: 4352536372074374163
+      Elven soldier captain(M)_167: -6916009052579917473
+      Elven soldier captain(M)_168: 6146508409531102820
+      Elven soldier captain(M)_169: 1749970102263476646
+      Elven soldier captain(M)_17: 8796972699491735887
+      Elven soldier captain(M)_170: -1222562537184457739
+      Elven soldier captain(M)_171: 4018296182219639951
+      Elven soldier captain(M)_172: -5229580612751489028
+      Elven soldier captain(M)_173: -6921526193980119543
+      Elven soldier captain(M)_174: 6592581625722300428
+      Elven soldier captain(M)_175: -774341419292183512
+      Elven soldier captain(M)_176: 3769706024747243814
+      Elven soldier captain(M)_177: 7135870914335445022
+      Elven soldier captain(M)_178: 5973601657424798676
+      Elven soldier captain(M)_179: 4276184705870005073
+      Elven soldier captain(M)_18: -6897664946115257618
+      Elven soldier captain(M)_180: 4207101826411079163
+      Elven soldier captain(M)_181: 7828165572774683539
+      Elven soldier captain(M)_182: -1779841741246882800
+      Elven soldier captain(M)_183: 5725644805961099015
+      Elven soldier captain(M)_184: -8169102945701885253
+      Elven soldier captain(M)_185: 533963423423351374
+      Elven soldier captain(M)_186: -8477759908028955252
+      Elven soldier captain(M)_187: 1611140580610744698
+      Elven soldier captain(M)_188: 1643102244352584313
+      Elven soldier captain(M)_189: 2420902409005857956
+      Elven soldier captain(M)_19: 2934473606708472529
+      Elven soldier captain(M)_190: 9139240973320647453
+      Elven soldier captain(M)_191: -3177347527306487581
+      Elven soldier captain(M)_192: -9103788920011469094
+      Elven soldier captain(M)_193: 7048144049887910396
+      Elven soldier captain(M)_194: 3784423796369911692
+      Elven soldier captain(M)_195: -1235398995698407757
+      Elven soldier captain(M)_196: -4410026054355441352
+      Elven soldier captain(M)_197: 6787160648026693317
+      Elven soldier captain(M)_198: 7479171646964082499
+      Elven soldier captain(M)_199: -4116264797510575991
+      Elven soldier captain(M)_2: 2737353585804691855
+      Elven soldier captain(M)_20: -5123620426790888558
+      Elven soldier captain(M)_200: -9142846939369291092
+      Elven soldier captain(M)_201: -2759768887773599792
+      Elven soldier captain(M)_21: -13603365663613518
+      Elven soldier captain(M)_22: -5644931258862813102
+      Elven soldier captain(M)_23: 7681600180281510158
+      Elven soldier captain(M)_24: -17752769887929922
+      Elven soldier captain(M)_25: -8184282464482779653
+      Elven soldier captain(M)_26: -3303667262868917842
+      Elven soldier captain(M)_27: -5028695715739453682
+      Elven soldier captain(M)_28: -2212772201135886713
+      Elven soldier captain(M)_29: 2988940459868802540
+      Elven soldier captain(M)_3: 4527785680449462216
+      Elven soldier captain(M)_30: 2759247669612754354
+      Elven soldier captain(M)_31: -4997629438549802566
+      Elven soldier captain(M)_32: -4539451007252659100
+      Elven soldier captain(M)_33: 7857680813785699704
+      Elven soldier captain(M)_34: -5960622292372790579
+      Elven soldier captain(M)_35: -3651565091308389608
+      Elven soldier captain(M)_36: 8015463987529884308
+      Elven soldier captain(M)_37: -1386837598934471116
+      Elven soldier captain(M)_38: 6808724899031550727
+      Elven soldier captain(M)_39: 1785945785156990063
+      Elven soldier captain(M)_4: 629251418791659597
+      Elven soldier captain(M)_40: 6014540936812631935
+      Elven soldier captain(M)_41: 8623805572713274935
+      Elven soldier captain(M)_42: -747666560324680465
+      Elven soldier captain(M)_43: -1664744225536198722
+      Elven soldier captain(M)_44: -8760912980619633774
+      Elven soldier captain(M)_45: 563853186657690973
+      Elven soldier captain(M)_46: -3456280927332408104
+      Elven soldier captain(M)_47: 5550708819727776577
+      Elven soldier captain(M)_48: 8121616233754781748
+      Elven soldier captain(M)_49: -2106342369994642612
+      Elven soldier captain(M)_5: -2962527222534111000
+      Elven soldier captain(M)_50: 4394264862205523697
+      Elven soldier captain(M)_51: -7259618827348728413
+      Elven soldier captain(M)_52: -5982534268566926629
+      Elven soldier captain(M)_53: -7746096516254200683
+      Elven soldier captain(M)_54: 4974184643689859333
+      Elven soldier captain(M)_55: -1449545164196433862
+      Elven soldier captain(M)_56: -3240618105961701037
+      Elven soldier captain(M)_57: -7748507486395415083
+      Elven soldier captain(M)_58: 3245171217953124433
+      Elven soldier captain(M)_59: 7710706584692451918
+      Elven soldier captain(M)_6: -6267701891674531242
+      Elven soldier captain(M)_60: 5586906093639597979
+      Elven soldier captain(M)_61: 6628767591337433891
+      Elven soldier captain(M)_62: 4869812175217924285
+      Elven soldier captain(M)_63: 2542488555509271327
+      Elven soldier captain(M)_64: -5961711468362427270
+      Elven soldier captain(M)_65: 2013236614750493891
+      Elven soldier captain(M)_66: 8376047122524504472
+      Elven soldier captain(M)_67: 5208693429095705605
+      Elven soldier captain(M)_68: -5767304740258228270
+      Elven soldier captain(M)_69: -4848931499573226211
+      Elven soldier captain(M)_7: 3579437649933411132
+      Elven soldier captain(M)_70: -1302553282398285901
+      Elven soldier captain(M)_71: -972561878509394542
+      Elven soldier captain(M)_72: -4056527553133472586
+      Elven soldier captain(M)_73: 1676090942096749148
+      Elven soldier captain(M)_74: -4446588906295440945
+      Elven soldier captain(M)_75: 1167253525957064441
+      Elven soldier captain(M)_76: 8909219089607670716
+      Elven soldier captain(M)_77: 8840072993949572251
+      Elven soldier captain(M)_78: -8490454376295325861
+      Elven soldier captain(M)_79: -5056957702831001862
+      Elven soldier captain(M)_8: 6022355972618215054
+      Elven soldier captain(M)_80: -3685653389504141874
+      Elven soldier captain(M)_81: -3936266072996433187
+      Elven soldier captain(M)_82: 5109408067983329358
+      Elven soldier captain(M)_83: 3096582000499615972
+      Elven soldier captain(M)_84: -3327718389915391440
+      Elven soldier captain(M)_85: -1966831010345711437
+      Elven soldier captain(M)_86: 2459674282600082263
+      Elven soldier captain(M)_87: -7921556193478216155
+      Elven soldier captain(M)_88: -4838924197394051843
+      Elven soldier captain(M)_89: 4824497723508180213
+      Elven soldier captain(M)_9: -7848122948701155119
+      Elven soldier captain(M)_90: 2299248914308825991
+      Elven soldier captain(M)_91: 7318116217986364902
+      Elven soldier captain(M)_92: -6050228705975317139
+      Elven soldier captain(M)_93: -7664978018629766012
+      Elven soldier captain(M)_94: -2545244424778838922
+      Elven soldier captain(M)_95: -8240089145932239768
+      Elven soldier captain(M)_96: 724328162900320909
+      Elven soldier captain(M)_97: 8531382718671189696
+      Elven soldier captain(M)_98: -1624696362722175035
+      Elven soldier captain(M)_99: -2157847718266238024
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

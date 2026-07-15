@@ -1,0 +1,4589 @@
+fileFormatVersion: 2
+guid: 97fdb48dc191b844284f46ef7fea025a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2121022631947667294
+    second: Light elf girl (F)_0
+  - first:
+      213: -6591484153431256918
+    second: Light elf girl (F)_1
+  - first:
+      213: 1827915526788506705
+    second: Light elf girl (F)_2
+  - first:
+      213: -6036395259970989043
+    second: Light elf girl (F)_3
+  - first:
+      213: -8602040425298122899
+    second: Light elf girl (F)_4
+  - first:
+      213: -6439915761447295236
+    second: Light elf girl (F)_5
+  - first:
+      213: -2042149858961615693
+    second: Light elf girl (F)_6
+  - first:
+      213: -8609049771434521728
+    second: Light elf girl (F)_7
+  - first:
+      213: -9178518002342642770
+    second: Light elf girl (F)_8
+  - first:
+      213: -3836644308947515164
+    second: Light elf girl (F)_9
+  - first:
+      213: -9087351031396414810
+    second: Light elf girl (F)_10
+  - first:
+      213: 522702024984496004
+    second: Light elf girl (F)_11
+  - first:
+      213: -4283381873518874405
+    second: Light elf girl (F)_12
+  - first:
+      213: -7027847809790420903
+    second: Light elf girl (F)_13
+  - first:
+      213: 4781841754612979853
+    second: Light elf girl (F)_14
+  - first:
+      213: -1103191961076433639
+    second: Light elf girl (F)_15
+  - first:
+      213: -4353142180831455854
+    second: Light elf girl (F)_16
+  - first:
+      213: 1874925510918697570
+    second: Light elf girl (F)_17
+  - first:
+      213: 2029787846731605553
+    second: Light elf girl (F)_18
+  - first:
+      213: 1067678014906752272
+    second: Light elf girl (F)_19
+  - first:
+      213: 3930620861342467563
+    second: Light elf girl (F)_20
+  - first:
+      213: -3790388527920925180
+    second: Light elf girl (F)_21
+  - first:
+      213: -5952644950650133233
+    second: Light elf girl (F)_22
+  - first:
+      213: -5718772996911994213
+    second: Light elf girl (F)_23
+  - first:
+      213: 7027445990080221638
+    second: Light elf girl (F)_24
+  - first:
+      213: -6112524134126164943
+    second: Light elf girl (F)_25
+  - first:
+      213: 88265429539089220
+    second: Light elf girl (F)_26
+  - first:
+      213: -8462074233026703517
+    second: Light elf girl (F)_27
+  - first:
+      213: -2250950528128610143
+    second: Light elf girl (F)_28
+  - first:
+      213: 1484677915659976185
+    second: Light elf girl (F)_29
+  - first:
+      213: 8928173498705881609
+    second: Light elf girl (F)_30
+  - first:
+      213: -6045283855625293507
+    second: Light elf girl (F)_31
+  - first:
+      213: -7236568794004506644
+    second: Light elf girl (F)_32
+  - first:
+      213: 107671583608036748
+    second: Light elf girl (F)_33
+  - first:
+      213: -4048327703863767327
+    second: Light elf girl (F)_34
+  - first:
+      213: 1127783968887029734
+    second: Light elf girl (F)_35
+  - first:
+      213: -6491827238658149946
+    second: Light elf girl (F)_36
+  - first:
+      213: -4630350676958236410
+    second: Light elf girl (F)_37
+  - first:
+      213: -5903260553361651345
+    second: Light elf girl (F)_38
+  - first:
+      213: -2260128291370026310
+    second: Light elf girl (F)_39
+  - first:
+      213: -3171235972731130404
+    second: Light elf girl (F)_40
+  - first:
+      213: 2639774387037677434
+    second: Light elf girl (F)_41
+  - first:
+      213: 941944592917548064
+    second: Light elf girl (F)_42
+  - first:
+      213: 1940614655055080925
+    second: Light elf girl (F)_43
+  - first:
+      213: 6588867137161887062
+    second: Light elf girl (F)_44
+  - first:
+      213: -2706689885303075834
+    second: Light elf girl (F)_45
+  - first:
+      213: -5035260259079038527
+    second: Light elf girl (F)_46
+  - first:
+      213: -986683635564456976
+    second: Light elf girl (F)_47
+  - first:
+      213: -3106035725901559896
+    second: Light elf girl (F)_48
+  - first:
+      213: 5121659872567546666
+    second: Light elf girl (F)_49
+  - first:
+      213: -8250110799671784940
+    second: Light elf girl (F)_50
+  - first:
+      213: 6676292546468248308
+    second: Light elf girl (F)_51
+  - first:
+      213: -8508430799057829359
+    second: Light elf girl (F)_52
+  - first:
+      213: -348772298856372885
+    second: Light elf girl (F)_53
+  - first:
+      213: -1559998682417254806
+    second: Light elf girl (F)_54
+  - first:
+      213: 8392288003023543218
+    second: Light elf girl (F)_55
+  - first:
+      213: -7875229634540041901
+    second: Light elf girl (F)_56
+  - first:
+      213: -5059540016456495630
+    second: Light elf girl (F)_57
+  - first:
+      213: -5078879222572291456
+    second: Light elf girl (F)_58
+  - first:
+      213: 418522450808409599
+    second: Light elf girl (F)_59
+  - first:
+      213: -1183645423714569723
+    second: Light elf girl (F)_60
+  - first:
+      213: 7018599590376022688
+    second: Light elf girl (F)_61
+  - first:
+      213: -2979170614219728235
+    second: Light elf girl (F)_62
+  - first:
+      213: -3029809434770489140
+    second: Light elf girl (F)_63
+  - first:
+      213: -3407143442674508627
+    second: Light elf girl (F)_64
+  - first:
+      213: -7945284881338998652
+    second: Light elf girl (F)_65
+  - first:
+      213: 3028257987132580548
+    second: Light elf girl (F)_66
+  - first:
+      213: -5827894892192317709
+    second: Light elf girl (F)_67
+  - first:
+      213: 3454158221621719721
+    second: Light elf girl (F)_68
+  - first:
+      213: -1625911804719083234
+    second: Light elf girl (F)_69
+  - first:
+      213: -4789611946699385157
+    second: Light elf girl (F)_70
+  - first:
+      213: 7525165355002381432
+    second: Light elf girl (F)_71
+  - first:
+      213: 1595161385511662372
+    second: Light elf girl (F)_72
+  - first:
+      213: -5321150231556895025
+    second: Light elf girl (F)_73
+  - first:
+      213: -7980767206303995065
+    second: Light elf girl (F)_74
+  - first:
+      213: 8273222984820277394
+    second: Light elf girl (F)_75
+  - first:
+      213: 1020015736251928004
+    second: Light elf girl (F)_76
+  - first:
+      213: 3676220271799752800
+    second: Light elf girl (F)_77
+  - first:
+      213: -2143126204336450111
+    second: Light elf girl (F)_78
+  - first:
+      213: 807523214923134722
+    second: Light elf girl (F)_79
+  - first:
+      213: -5601427986472920893
+    second: Light elf girl (F)_80
+  - first:
+      213: 2016350614670326544
+    second: Light elf girl (F)_81
+  - first:
+      213: 2649142211567973399
+    second: Light elf girl (F)_82
+  - first:
+      213: 3585761772398843362
+    second: Light elf girl (F)_83
+  - first:
+      213: -8249785565778879685
+    second: Light elf girl (F)_84
+  - first:
+      213: 1131630583238790927
+    second: Light elf girl (F)_85
+  - first:
+      213: 3969893859022987720
+    second: Light elf girl (F)_86
+  - first:
+      213: -1245384563014801938
+    second: Light elf girl (F)_87
+  - first:
+      213: -2229632358954170422
+    second: Light elf girl (F)_88
+  - first:
+      213: -8735103971613094649
+    second: Light elf girl (F)_89
+  - first:
+      213: 4078796757783852398
+    second: Light elf girl (F)_90
+  - first:
+      213: 5807469206409540699
+    second: Light elf girl (F)_91
+  - first:
+      213: 212530264363485395
+    second: Light elf girl (F)_92
+  - first:
+      213: 924594212492163536
+    second: Light elf girl (F)_93
+  - first:
+      213: 6756528702834222165
+    second: Light elf girl (F)_94
+  - first:
+      213: -8862035552761284162
+    second: Light elf girl (F)_95
+  - first:
+      213: 7403174799595181456
+    second: Light elf girl (F)_96
+  - first:
+      213: 5746711343817531867
+    second: Light elf girl (F)_97
+  - first:
+      213: 9113202759006488632
+    second: Light elf girl (F)_98
+  - first:
+      213: -356921821355714013
+    second: Light elf girl (F)_99
+  - first:
+      213: -3120589588880595625
+    second: Light elf girl (F)_100
+  - first:
+      213: 6317258678103560206
+    second: Light elf girl (F)_101
+  - first:
+      213: 7144059192679165212
+    second: Light elf girl (F)_102
+  - first:
+      213: -7540080666730468843
+    second: Light elf girl (F)_103
+  - first:
+      213: 4964944694944066052
+    second: Light elf girl (F)_104
+  - first:
+      213: -6331533128823754007
+    second: Light elf girl (F)_105
+  - first:
+      213: 6300620490102093422
+    second: Light elf girl (F)_106
+  - first:
+      213: -8064493863406191990
+    second: Light elf girl (F)_107
+  - first:
+      213: 3967619773507243317
+    second: Light elf girl (F)_108
+  - first:
+      213: -8523669163716962181
+    second: Light elf girl (F)_109
+  - first:
+      213: 4852611583400667109
+    second: Light elf girl (F)_110
+  - first:
+      213: -4191832849789552730
+    second: Light elf girl (F)_111
+  - first:
+      213: 7688143056765478025
+    second: Light elf girl (F)_112
+  - first:
+      213: 7454881047757008908
+    second: Light elf girl (F)_113
+  - first:
+      213: 4153026030617664043
+    second: Light elf girl (F)_114
+  - first:
+      213: 815151360833245301
+    second: Light elf girl (F)_115
+  - first:
+      213: -7959090163192780576
+    second: Light elf girl (F)_116
+  - first:
+      213: -3288325319578596315
+    second: Light elf girl (F)_117
+  - first:
+      213: 7722841414024927774
+    second: Light elf girl (F)_118
+  - first:
+      213: 9176486972772054156
+    second: Light elf girl (F)_119
+  - first:
+      213: -2556524403004364040
+    second: Light elf girl (F)_120
+  - first:
+      213: 845784380971433524
+    second: Light elf girl (F)_121
+  - first:
+      213: -1916862215119636655
+    second: Light elf girl (F)_122
+  - first:
+      213: 1680033269663104333
+    second: Light elf girl (F)_123
+  - first:
+      213: -3276357641391563337
+    second: Light elf girl (F)_124
+  - first:
+      213: 5109454059647616659
+    second: Light elf girl (F)_125
+  - first:
+      213: -6321554868017001132
+    second: Light elf girl (F)_126
+  - first:
+      213: -3930849522999768224
+    second: Light elf girl (F)_127
+  - first:
+      213: -6949333430074778672
+    second: Light elf girl (F)_128
+  - first:
+      213: 6841346634250329223
+    second: Light elf girl (F)_129
+  - first:
+      213: 3872367754759940417
+    second: Light elf girl (F)_130
+  - first:
+      213: -138250218069145540
+    second: Light elf girl (F)_131
+  - first:
+      213: 6852463026371510245
+    second: Light elf girl (F)_132
+  - first:
+      213: 2235211254262014269
+    second: Light elf girl (F)_133
+  - first:
+      213: -8783453253557821951
+    second: Light elf girl (F)_134
+  - first:
+      213: -8126613514547582451
+    second: Light elf girl (F)_135
+  - first:
+      213: 1624704379115741670
+    second: Light elf girl (F)_136
+  - first:
+      213: -5961102445550569402
+    second: Light elf girl (F)_137
+  - first:
+      213: -6490291263359814097
+    second: Light elf girl (F)_138
+  - first:
+      213: -6223170873312615233
+    second: Light elf girl (F)_139
+  - first:
+      213: 7452300263169774117
+    second: Light elf girl (F)_140
+  - first:
+      213: -6266725394558356804
+    second: Light elf girl (F)_141
+  - first:
+      213: -6090881317361082026
+    second: Light elf girl (F)_142
+  - first:
+      213: -8252787862412505529
+    second: Light elf girl (F)_143
+  - first:
+      213: -2335072984429997939
+    second: Light elf girl (F)_144
+  - first:
+      213: 5804041485399435395
+    second: Light elf girl (F)_145
+  - first:
+      213: 4922717422921729608
+    second: Light elf girl (F)_146
+  - first:
+      213: 4470311576415829038
+    second: Light elf girl (F)_147
+  - first:
+      213: 4920310534525438428
+    second: Light elf girl (F)_148
+  - first:
+      213: -5074480356385725241
+    second: Light elf girl (F)_149
+  - first:
+      213: 4441509811988450584
+    second: Light elf girl (F)_150
+  - first:
+      213: 1605358432164754704
+    second: Light elf girl (F)_151
+  - first:
+      213: 6756479032133562756
+    second: Light elf girl (F)_152
+  - first:
+      213: -6434000695391133109
+    second: Light elf girl (F)_153
+  - first:
+      213: -1319999090102713704
+    second: Light elf girl (F)_154
+  - first:
+      213: 3902434328477884528
+    second: Light elf girl (F)_155
+  - first:
+      213: -319985225855248219
+    second: Light elf girl (F)_156
+  - first:
+      213: -7782118251045902563
+    second: Light elf girl (F)_157
+  - first:
+      213: -5288326549211871188
+    second: Light elf girl (F)_158
+  - first:
+      213: -2584328935176903146
+    second: Light elf girl (F)_159
+  - first:
+      213: 3756152718510832637
+    second: Light elf girl (F)_160
+  - first:
+      213: -7856269820525633965
+    second: Light elf girl (F)_161
+  - first:
+      213: -3295835111202052074
+    second: Light elf girl (F)_162
+  - first:
+      213: 4379269004578285842
+    second: Light elf girl (F)_163
+  - first:
+      213: 5856184569630244974
+    second: Light elf girl (F)_164
+  - first:
+      213: 2581971323177188684
+    second: Light elf girl (F)_165
+  - first:
+      213: 8767687454484866520
+    second: Light elf girl (F)_166
+  - first:
+      213: -6012460110787743119
+    second: Light elf girl (F)_167
+  - first:
+      213: -8048748108903221316
+    second: Light elf girl (F)_168
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Light elf girl (F)_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1281
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e570ec998d26f6d10800000000000000
+      internalID: 2121022631947667294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1281
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa01d1ce5185684a0800000000000000
+      internalID: -6591484153431256918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1281
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15466a5ac7f0e5910800000000000000
+      internalID: 1827915526788506705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1281
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d04d3954e7a6a3ca0800000000000000
+      internalID: -6036395259970989043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_4
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1281
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d672e8a0fc96f9880800000000000000
+      internalID: -8602040425298122899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_5
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1281
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6ae7f2cb2d0a6a0800000000000000
+      internalID: -6439915761447295236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1281
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b49a76e583d8a3e0800000000000000
+      internalID: -2042149858961615693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_7
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 575
+        width: 194
+        height: 769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08bccf778d2868880800000000000000
+      internalID: -8609049771434521728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_8
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1217
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eabb6d9b18a5f9080800000000000000
+      internalID: -9178518002342642770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_9
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1217
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e8c8a3145081cac0800000000000000
+      internalID: -3836644308947515164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_10
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1217
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa4650426e33e180800000000000000
+      internalID: -9087351031396414810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_11
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1217
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487049ae8b2014700800000000000000
+      internalID: 522702024984496004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_12
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1217
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd07f8f51ee5e84c0800000000000000
+      internalID: -4283381873518874405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_13
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1217
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9585fe1f6a1187e90800000000000000
+      internalID: -7027847809790420903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_14
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1217
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8856d39db38c5240800000000000000
+      internalID: 4781841754612979853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_15
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1153
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91df8f0a1cca0b0f0800000000000000
+      internalID: -1103191961076433639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_16
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1153
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29595ce10488693c0800000000000000
+      internalID: -4353142180831455854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_17
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1153
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26270a281d2150a10800000000000000
+      internalID: 1874925510918697570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_18
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1153
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136a7d5da414b2c10800000000000000
+      internalID: 2029787846731605553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_19
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1153
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01dd20d6f7721de00800000000000000
+      internalID: 1067678014906752272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_20
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1153
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5ce0b19de5c8630800000000000000
+      internalID: 3930620861342467563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_21
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1153
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406be8857b5d56bc0800000000000000
+      internalID: -3790388527920925180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_22
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1089
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05e972b4f4f36da0800000000000000
+      internalID: -5952644950650133233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_23
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1089
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ae6f73246d2a0b0800000000000000
+      internalID: -5718772996911994213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_24
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1089
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c199fc15e0868160800000000000000
+      internalID: 7027445990080221638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_25
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1089
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13468608fa3fb2ba0800000000000000
+      internalID: -6112524134126164943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_26
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1089
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44bef95c0f4993100800000000000000
+      internalID: 88265429539089220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_27
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1089
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f057da15ca09a80800000000000000
+      internalID: -8462074233026703517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_28
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1089
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a09ae3bb6403c0e0800000000000000
+      internalID: -2250950528128610143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_29
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1024
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fdb7c8b2b2aa9410800000000000000
+      internalID: 1484677915659976185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_30
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1023
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90aab6b5e7e37eb70800000000000000
+      internalID: 8928173498705881609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_31
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1023
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d31fc03dc56da1ca0800000000000000
+      internalID: -6045283855625293507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_32
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1023
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce73fa8d50b829b90800000000000000
+      internalID: -7236568794004506644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_33
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1023
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d5c5d1cb68e7100800000000000000
+      internalID: 107671583608036748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_34
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1023
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eec3dcf66371d7c0800000000000000
+      internalID: -4048327703863767327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_35
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1023
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef34e06b81b6af00800000000000000
+      internalID: 1127783968887029734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_36
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 961
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c17398858568e5a0800000000000000
+      internalID: -6491827238658149946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_37
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 961
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6013a6a8790bdbfb0800000000000000
+      internalID: -4630350676958236410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_38
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 961
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f698d44bdc7631ea0800000000000000
+      internalID: -5903260553361651345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_39
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 961
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba341e2b4962a0e0800000000000000
+      internalID: -2260128291370026310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_40
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 961
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cddab6a4fa18df3d0800000000000000
+      internalID: -3171235972731130404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_41
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 961
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a772e82a1dc52a420800000000000000
+      internalID: 2639774387037677434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_42
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 961
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c43fadd95721d00800000000000000
+      internalID: 941944592917548064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_43
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 897
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddda9783fb27eea10800000000000000
+      internalID: 1940614655055080925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_44
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 897
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d77ce70cb507b50800000000000000
+      internalID: 6588867137161887062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_45
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 898
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c0e55d3e7ef6ad0800000000000000
+      internalID: -2706689885303075834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_46
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 898
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9d3f9e8792f1ab0800000000000000
+      internalID: -5035260259079038527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_47
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 898
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f35d7c06789e42f0800000000000000
+      internalID: -986683635564456976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_48
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 898
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a707f9b6f425e4d0800000000000000
+      internalID: -3106035725901559896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_49
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 898
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a23d2c4b48ac31740800000000000000
+      internalID: 5121659872567546666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_50
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 833
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a03fb40f7b18d80800000000000000
+      internalID: -8250110799671784940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_51
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 833
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4faf3d0d2b4f6ac50800000000000000
+      internalID: 6676292546468248308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_52
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 833
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1124a22944bfbe980800000000000000
+      internalID: -8508430799057829359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_53
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 833
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b656b2b2179e82bf0800000000000000
+      internalID: -348772298856372885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_54
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 833
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e217ca675c95ae0800000000000000
+      internalID: -1559998682417254806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_55
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 833
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb9df87975677470800000000000000
+      internalID: 8392288003023543218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_56
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 833
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3598c944f5095b290800000000000000
+      internalID: -7875229634540041901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_57
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 769
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd8c306927e8c9b0800000000000000
+      internalID: -5059540016456495630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_58
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 769
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a677191423489b0800000000000000
+      internalID: -5078879222572291456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_59
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 768
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd06fa93f3eec500800000000000000
+      internalID: 418522450808409599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_60
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 767
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 502f97322c8d29fe0800000000000000
+      internalID: -1183645423714569723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_61
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 768
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a2a01d2423176160800000000000000
+      internalID: 7018599590376022688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_62
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 769
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a96265c1cd7a6d0800000000000000
+      internalID: -2979170614219728235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_63
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 768
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0c0672f54f3f5d0800000000000000
+      internalID: -3029809434770489140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_64
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 705
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac9598371567b0d0800000000000000
+      internalID: -3407143442674508627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_65
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 705
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 480e1801f7dacb190800000000000000
+      internalID: -7945284881338998652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_66
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 706
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2e64b4898860a20800000000000000
+      internalID: 3028257987132580548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_67
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 706
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe309a19782f1fa0800000000000000
+      internalID: -5827894892192317709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_68
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 705
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2f1c50a92afef20800000000000000
+      internalID: 3454158221621719721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_69
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 705
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11da9bf3d99f69e0800000000000000
+      internalID: -1625911804719083234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_70
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 705
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb614099f41e78db0800000000000000
+      internalID: -4789611946699385157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_71
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 641
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8744ef43502ce6860800000000000000
+      internalID: 7525165355002381432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_72
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 641
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 423b7de14d6232610800000000000000
+      internalID: 1595161385511662372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_73
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 640
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce409b9e0a7726b0800000000000000
+      internalID: -5321150231556895025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_74
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 640
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74be921828e9e3190800000000000000
+      internalID: -7980767206303995065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_75
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 640
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2904fc5a87460d270800000000000000
+      internalID: 8273222984820277394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_76
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 641
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cdca9868e2d72e00800000000000000
+      internalID: 1020015736251928004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_77
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 640
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068d6b81cde840330800000000000000
+      internalID: 3676220271799752800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_78
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 577
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c5d1b962161242e0800000000000000
+      internalID: -2143126204336450111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_79
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 577
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207ff55e516e43b00800000000000000
+      internalID: 807523214923134722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_80
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 578
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c899578ceab342b0800000000000000
+      internalID: -5601427986472920893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_81
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 578
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01bb01273348bfb10800000000000000
+      internalID: 2016350614670326544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_82
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 577
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71470004ec4a3c420800000000000000
+      internalID: 2649142211567973399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_83
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 577
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e51205755f23c130800000000000000
+      internalID: 3585761772398843362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_84
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 577
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3bda96bcbfd28d80800000000000000
+      internalID: -8249785565778879685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_85
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 513
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f8ae2150c54bf00800000000000000
+      internalID: 1131630583238790927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_86
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 513
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1e11f6e65e71730800000000000000
+      internalID: 3969893859022987720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_87
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 513
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee56fb8965187bee0800000000000000
+      internalID: -1245384563014801938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_88
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 513
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac702d0ce21ce01e0800000000000000
+      internalID: -2229632358954170422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_89
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 513
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70dc5e7e73da6c680800000000000000
+      internalID: -8735103971613094649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_90
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 513
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65b8b27a0cca9830800000000000000
+      internalID: 4078796757783852398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_91
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 319
+        width: 66
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b547f045976489050800000000000000
+      internalID: 5807469206409540699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_92
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 449
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8c76f362f03f200800000000000000
+      internalID: 212530264363485395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_93
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 449
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d93afc9981d4dc00800000000000000
+      internalID: 924594212492163536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_94
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 449
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5542a2fbe0304cd50800000000000000
+      internalID: 6756528702834222165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_95
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 449
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9f7ca2e99b30580800000000000000
+      internalID: -8862035552761284162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_96
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 449
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0959efba14c5db660800000000000000
+      internalID: 7403174799595181456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_97
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 449
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd1a3f2158b60cf40800000000000000
+      internalID: 5746711343817531867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_98
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 385
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83801b020a9987e70800000000000000
+      internalID: 9113202759006488632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_99
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 385
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ad1899e75fb0bf0800000000000000
+      internalID: -356921821355714013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_100
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 385
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7556df07d4071b4d0800000000000000
+      internalID: -3120589588880595625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_101
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 385
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00dd962c496ba750800000000000000
+      internalID: 6317258678103560206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_102
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 385
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d61022cfbc42360800000000000000
+      internalID: 7144059192679165212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_103
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 385
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a6db925904c5790800000000000000
+      internalID: -7540080666730468843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_104
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 321
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ae99705e607e440800000000000000
+      internalID: 4964944694944066052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_105
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 321
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2b7dc4a20e128a0800000000000000
+      internalID: -6331533128823754007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_106
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 321
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66351124fc407750800000000000000
+      internalID: 6300620490102093422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_107
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 321
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a3b5a0f89251090800000000000000
+      internalID: -8064493863406191990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_108
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 321
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d07b3a921df0730800000000000000
+      internalID: 3967619773507243317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_109
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 321
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7813b15e08d5b980800000000000000
+      internalID: -8523669163716962181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_110
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 257
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7ea8d5680f75340800000000000000
+      internalID: 4852611583400667109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_111
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 256
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a7fa7e7b3e93d5c0800000000000000
+      internalID: -4191832849789552730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_112
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 255
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98464e86065c1ba60800000000000000
+      internalID: 7688143056765478025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_113
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 255
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c003956b0de057760800000000000000
+      internalID: 7454881047757008908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_114
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 255
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a9ae1db2382a930800000000000000
+      internalID: 4153026030617664043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_115
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 255
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57054a408dfff4b00800000000000000
+      internalID: 815151360833245301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_116
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 255
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e8a6976aa1ab8190800000000000000
+      internalID: -7959090163192780576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_117
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 255
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c489c4b858d52d0800000000000000
+      internalID: -3288325319578596315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_118
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 255
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a91a3495b0d2b60800000000000000
+      internalID: 7722841414024927774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_119
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 255
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84f31a584e695f70800000000000000
+      internalID: 9176486972772054156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_120
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 255
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8faae4bb996658cd0800000000000000
+      internalID: -2556524403004364040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_121
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 255
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e3060d964dcbb00800000000000000
+      internalID: 845784380971433524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_122
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 255
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 157fc68a8ffe565e0800000000000000
+      internalID: -1916862215119636655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_123
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 193
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d7b198b5da05710800000000000000
+      internalID: 1680033269663104333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_124
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 193
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd18b3851a0882d0800000000000000
+      internalID: -3276357641391563337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_125
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 193
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396497d656d68e640800000000000000
+      internalID: 5109454059647616659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_126
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 193
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d84bf27535548a0800000000000000
+      internalID: -6321554868017001132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_127
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 193
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06bc5147f21d279c0800000000000000
+      internalID: -3930849522999768224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_128
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 193
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db55a280120f8f90800000000000000
+      internalID: -6949333430074778672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_129
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 193
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c1ecf448851fe50800000000000000
+      internalID: 6841346634250329223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_130
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 193
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149a42ec4f96db530800000000000000
+      internalID: 3872367754759940417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_131
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 193
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c384eddb826d41ef0800000000000000
+      internalID: -138250218069145540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_132
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 193
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef3f5b01d6d81f50800000000000000
+      internalID: 6852463026371510245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_133
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 193
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d312e380bc0150f10800000000000000
+      internalID: 2235211254262014269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_134
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 193
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10edf687dc7ea1680800000000000000
+      internalID: -8783453253557821951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_135
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 193
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0aa08ea018783f80800000000000000
+      internalID: -8126613514547582451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_136
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 129
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e12736560c1c8610800000000000000
+      internalID: 1624704379115741670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_137
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 128
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648fe37b8e8e54da0800000000000000
+      internalID: -5961102445550569402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_138
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 130
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f26fd96ab7adde5a0800000000000000
+      internalID: -6490291263359814097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_139
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 129
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4e4afff0bd2a9a0800000000000000
+      internalID: -6223170873312615233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_140
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 129
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522d8c9fa93eb6760800000000000000
+      internalID: 7452300263169774117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_141
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 129
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2fd68c47e1809a0800000000000000
+      internalID: -6266725394558356804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_142
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 129
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65121a576b7d87ba0800000000000000
+      internalID: -6090881317361082026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_143
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 129
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e4f3e0a25387d80800000000000000
+      internalID: -8252787862412505529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_144
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 129
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80507e0e77289fd0800000000000000
+      internalID: -2335072984429997939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_145
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 129
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3882dd6daf81c8050800000000000000
+      internalID: 5804041485399435395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_146
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 129
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84640ea1a61015440800000000000000
+      internalID: 4922717422921729608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_147
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 129
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2cf49ba1bcb90e30800000000000000
+      internalID: 4470311576415829038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_148
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 129
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9400bbc54784440800000000000000
+      internalID: 4920310534525438428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_149
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 65
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c46ee96003d399b0800000000000000
+      internalID: -5074480356385725241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_150
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 65
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81dcbf154a963ad30800000000000000
+      internalID: 4441509811988450584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_151
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 65
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 015bb5e0df0674610800000000000000
+      internalID: 1605358432164754704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_152
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 65
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48132b2e1e5d3cd50800000000000000
+      internalID: 6756479032133562756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_153
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 65
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b426892d476d5b6a0800000000000000
+      internalID: -6434000695391133109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_154
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 65
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 892c69a32db6eade0800000000000000
+      internalID: -1319999090102713704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_155
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 0
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070e634885b382630800000000000000
+      internalID: 3902434328477884528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_156
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 65
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a85687e12f2f8bf0800000000000000
+      internalID: -319985225855248219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_157
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 65
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17235e9eac500490800000000000000
+      internalID: -7782118251045902563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_158
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 65
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2885f1b5071c96b0800000000000000
+      internalID: -5288326549211871188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_159
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 65
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 616640c968e922cd0800000000000000
+      internalID: -2584328935176903146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_160
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 65
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfbb4fc1ff8802430800000000000000
+      internalID: 3756152718510832637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_161
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 65
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e92f7f83ce8f290800000000000000
+      internalID: -7856269820525633965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_162
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 65
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 618aa8ead67d242d0800000000000000
+      internalID: -3295835111202052074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_163
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21964c115f946cc30800000000000000
+      internalID: 4379269004578285842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_164
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e604fe3b6d8554150800000000000000
+      internalID: 5856184569630244974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_165
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4db8321d3105d320800000000000000
+      internalID: 2581971323177188684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_166
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5283269451da970800000000000000
+      internalID: 8767687454484866520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_167
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 2
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1727a4672637f8ca0800000000000000
+      internalID: -6012460110787743119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light elf girl (F)_168
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7f9323d3a1d4090800000000000000
+      internalID: -8048748108903221316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Light elf girl (F)_0: 2121022631947667294
+      Light elf girl (F)_1: -6591484153431256918
+      Light elf girl (F)_10: -9087351031396414810
+      Light elf girl (F)_100: -3120589588880595625
+      Light elf girl (F)_101: 6317258678103560206
+      Light elf girl (F)_102: 7144059192679165212
+      Light elf girl (F)_103: -7540080666730468843
+      Light elf girl (F)_104: 4964944694944066052
+      Light elf girl (F)_105: -6331533128823754007
+      Light elf girl (F)_106: 6300620490102093422
+      Light elf girl (F)_107: -8064493863406191990
+      Light elf girl (F)_108: 3967619773507243317
+      Light elf girl (F)_109: -8523669163716962181
+      Light elf girl (F)_11: 522702024984496004
+      Light elf girl (F)_110: 4852611583400667109
+      Light elf girl (F)_111: -4191832849789552730
+      Light elf girl (F)_112: 7688143056765478025
+      Light elf girl (F)_113: 7454881047757008908
+      Light elf girl (F)_114: 4153026030617664043
+      Light elf girl (F)_115: 815151360833245301
+      Light elf girl (F)_116: -7959090163192780576
+      Light elf girl (F)_117: -3288325319578596315
+      Light elf girl (F)_118: 7722841414024927774
+      Light elf girl (F)_119: 9176486972772054156
+      Light elf girl (F)_12: -4283381873518874405
+      Light elf girl (F)_120: -2556524403004364040
+      Light elf girl (F)_121: 845784380971433524
+      Light elf girl (F)_122: -1916862215119636655
+      Light elf girl (F)_123: 1680033269663104333
+      Light elf girl (F)_124: -3276357641391563337
+      Light elf girl (F)_125: 5109454059647616659
+      Light elf girl (F)_126: -6321554868017001132
+      Light elf girl (F)_127: -3930849522999768224
+      Light elf girl (F)_128: -6949333430074778672
+      Light elf girl (F)_129: 6841346634250329223
+      Light elf girl (F)_13: -7027847809790420903
+      Light elf girl (F)_130: 3872367754759940417
+      Light elf girl (F)_131: -138250218069145540
+      Light elf girl (F)_132: 6852463026371510245
+      Light elf girl (F)_133: 2235211254262014269
+      Light elf girl (F)_134: -8783453253557821951
+      Light elf girl (F)_135: -8126613514547582451
+      Light elf girl (F)_136: 1624704379115741670
+      Light elf girl (F)_137: -5961102445550569402
+      Light elf girl (F)_138: -6490291263359814097
+      Light elf girl (F)_139: -6223170873312615233
+      Light elf girl (F)_14: 4781841754612979853
+      Light elf girl (F)_140: 7452300263169774117
+      Light elf girl (F)_141: -6266725394558356804
+      Light elf girl (F)_142: -6090881317361082026
+      Light elf girl (F)_143: -8252787862412505529
+      Light elf girl (F)_144: -2335072984429997939
+      Light elf girl (F)_145: 5804041485399435395
+      Light elf girl (F)_146: 4922717422921729608
+      Light elf girl (F)_147: 4470311576415829038
+      Light elf girl (F)_148: 4920310534525438428
+      Light elf girl (F)_149: -5074480356385725241
+      Light elf girl (F)_15: -1103191961076433639
+      Light elf girl (F)_150: 4441509811988450584
+      Light elf girl (F)_151: 1605358432164754704
+      Light elf girl (F)_152: 6756479032133562756
+      Light elf girl (F)_153: -6434000695391133109
+      Light elf girl (F)_154: -1319999090102713704
+      Light elf girl (F)_155: 3902434328477884528
+      Light elf girl (F)_156: -319985225855248219
+      Light elf girl (F)_157: -7782118251045902563
+      Light elf girl (F)_158: -5288326549211871188
+      Light elf girl (F)_159: -2584328935176903146
+      Light elf girl (F)_16: -4353142180831455854
+      Light elf girl (F)_160: 3756152718510832637
+      Light elf girl (F)_161: -7856269820525633965
+      Light elf girl (F)_162: -3295835111202052074
+      Light elf girl (F)_163: 4379269004578285842
+      Light elf girl (F)_164: 5856184569630244974
+      Light elf girl (F)_165: 2581971323177188684
+      Light elf girl (F)_166: 8767687454484866520
+      Light elf girl (F)_167: -6012460110787743119
+      Light elf girl (F)_168: -8048748108903221316
+      Light elf girl (F)_17: 1874925510918697570
+      Light elf girl (F)_18: 2029787846731605553
+      Light elf girl (F)_19: 1067678014906752272
+      Light elf girl (F)_2: 1827915526788506705
+      Light elf girl (F)_20: 3930620861342467563
+      Light elf girl (F)_21: -3790388527920925180
+      Light elf girl (F)_22: -5952644950650133233
+      Light elf girl (F)_23: -5718772996911994213
+      Light elf girl (F)_24: 7027445990080221638
+      Light elf girl (F)_25: -6112524134126164943
+      Light elf girl (F)_26: 88265429539089220
+      Light elf girl (F)_27: -8462074233026703517
+      Light elf girl (F)_28: -2250950528128610143
+      Light elf girl (F)_29: 1484677915659976185
+      Light elf girl (F)_3: -6036395259970989043
+      Light elf girl (F)_30: 8928173498705881609
+      Light elf girl (F)_31: -6045283855625293507
+      Light elf girl (F)_32: -7236568794004506644
+      Light elf girl (F)_33: 107671583608036748
+      Light elf girl (F)_34: -4048327703863767327
+      Light elf girl (F)_35: 1127783968887029734
+      Light elf girl (F)_36: -6491827238658149946
+      Light elf girl (F)_37: -4630350676958236410
+      Light elf girl (F)_38: -5903260553361651345
+      Light elf girl (F)_39: -2260128291370026310
+      Light elf girl (F)_4: -8602040425298122899
+      Light elf girl (F)_40: -3171235972731130404
+      Light elf girl (F)_41: 2639774387037677434
+      Light elf girl (F)_42: 941944592917548064
+      Light elf girl (F)_43: 1940614655055080925
+      Light elf girl (F)_44: 6588867137161887062
+      Light elf girl (F)_45: -2706689885303075834
+      Light elf girl (F)_46: -5035260259079038527
+      Light elf girl (F)_47: -986683635564456976
+      Light elf girl (F)_48: -3106035725901559896
+      Light elf girl (F)_49: 5121659872567546666
+      Light elf girl (F)_5: -6439915761447295236
+      Light elf girl (F)_50: -8250110799671784940
+      Light elf girl (F)_51: 6676292546468248308
+      Light elf girl (F)_52: -8508430799057829359
+      Light elf girl (F)_53: -348772298856372885
+      Light elf girl (F)_54: -1559998682417254806
+      Light elf girl (F)_55: 8392288003023543218
+      Light elf girl (F)_56: -7875229634540041901
+      Light elf girl (F)_57: -5059540016456495630
+      Light elf girl (F)_58: -5078879222572291456
+      Light elf girl (F)_59: 418522450808409599
+      Light elf girl (F)_6: -2042149858961615693
+      Light elf girl (F)_60: -1183645423714569723
+      Light elf girl (F)_61: 7018599590376022688
+      Light elf girl (F)_62: -2979170614219728235
+      Light elf girl (F)_63: -3029809434770489140
+      Light elf girl (F)_64: -3407143442674508627
+      Light elf girl (F)_65: -7945284881338998652
+      Light elf girl (F)_66: 3028257987132580548
+      Light elf girl (F)_67: -5827894892192317709
+      Light elf girl (F)_68: 3454158221621719721
+      Light elf girl (F)_69: -1625911804719083234
+      Light elf girl (F)_7: -8609049771434521728
+      Light elf girl (F)_70: -4789611946699385157
+      Light elf girl (F)_71: 7525165355002381432
+      Light elf girl (F)_72: 1595161385511662372
+      Light elf girl (F)_73: -5321150231556895025
+      Light elf girl (F)_74: -7980767206303995065
+      Light elf girl (F)_75: 8273222984820277394
+      Light elf girl (F)_76: 1020015736251928004
+      Light elf girl (F)_77: 3676220271799752800
+      Light elf girl (F)_78: -2143126204336450111
+      Light elf girl (F)_79: 807523214923134722
+      Light elf girl (F)_8: -9178518002342642770
+      Light elf girl (F)_80: -5601427986472920893
+      Light elf girl (F)_81: 2016350614670326544
+      Light elf girl (F)_82: 2649142211567973399
+      Light elf girl (F)_83: 3585761772398843362
+      Light elf girl (F)_84: -8249785565778879685
+      Light elf girl (F)_85: 1131630583238790927
+      Light elf girl (F)_86: 3969893859022987720
+      Light elf girl (F)_87: -1245384563014801938
+      Light elf girl (F)_88: -2229632358954170422
+      Light elf girl (F)_89: -8735103971613094649
+      Light elf girl (F)_9: -3836644308947515164
+      Light elf girl (F)_90: 4078796757783852398
+      Light elf girl (F)_91: 5807469206409540699
+      Light elf girl (F)_92: 212530264363485395
+      Light elf girl (F)_93: 924594212492163536
+      Light elf girl (F)_94: 6756528702834222165
+      Light elf girl (F)_95: -8862035552761284162
+      Light elf girl (F)_96: 7403174799595181456
+      Light elf girl (F)_97: 5746711343817531867
+      Light elf girl (F)_98: 9113202759006488632
+      Light elf girl (F)_99: -356921821355714013
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
