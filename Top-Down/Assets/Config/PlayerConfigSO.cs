@@ -10,6 +10,8 @@ public class PlayerConfigSO : ScriptableObject
     [Header("Health")] [SerializeField] private int _maxHealth = 3;
     [SerializeField] private float _invulnerabilityDuration = 1f;
 
+    [Header("Mana")] [SerializeField] private int _maxMana = 3;
+
     [Header("Interaction")] [SerializeField]
     private float _interactionRadius = 1.5f;
 
@@ -17,6 +19,7 @@ public class PlayerConfigSO : ScriptableObject
     public float SprintMultiplier => _sprintMultiplier;
     public float DiagonalNormalizeThreshold => _diagonalNormalizeThreshold;
     public int MaxHealth => _maxHealth;
+    public int MaxMana => _maxMana;
     public float InvulnerabilityDuration => _invulnerabilityDuration;
     public float InteractionRadius => _interactionRadius;
 }

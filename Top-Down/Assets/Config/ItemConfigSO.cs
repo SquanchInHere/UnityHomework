@@ -10,6 +10,7 @@ public class ItemConfigSO : ScriptableObject
     [SerializeField] private Sprite _icon;
 
     [Header("Values")] [SerializeField] private int _healAmount = 1;
+    [Header("Values")] [SerializeField] private int _manaAmount = 1;
     [SerializeField] private int _scoreValue = 50;
     [SerializeField] private string _keyId = "";
 
@@ -19,6 +20,7 @@ public class ItemConfigSO : ScriptableObject
     public int HealAmount => _healAmount;
     public int ScoreValue => _scoreValue;
     public string KeyId => _keyId;
+    public int ManaAmount => _manaAmount;
 }
 
 public enum ItemType
@@ -27,5 +29,6 @@ public enum ItemType
     Coin,
     Key,
     PowerUp,
-    Collectible
+    Collectible,
+    Mana,
 }

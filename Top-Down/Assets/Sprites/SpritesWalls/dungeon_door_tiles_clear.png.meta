@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 0f1c7f51cf5c8114da9f1bcdae3d0144
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1933926655423178951
+    second: dungeon_door_tiles_clear_0
+  - first:
+      213: -6538068190339372162
+    second: dungeon_door_tiles_clear_1
+  - first:
+      213: 6751858922658743600
+    second: dungeon_door_tiles_clear_2
+  - first:
+      213: 4552319038895942719
+    second: dungeon_door_tiles_clear_3
+  - first:
+      213: 8092619911664893342
+    second: dungeon_door_tiles_clear_4
+  - first:
+      213: -1455778424844072921
+    second: dungeon_door_tiles_clear_5
+  - first:
+      213: 5899483580197453534
+    second: dungeon_door_tiles_clear_6
+  - first:
+      213: -4633720449624331359
+    second: dungeon_door_tiles_clear_7
+  - first:
+      213: -4430782827617352331
+    second: dungeon_door_tiles_clear_8
+  - first:
+      213: -4666800584183019120
+    second: dungeon_door_tiles_clear_9
+  - first:
+      213: 2494365566580786014
+    second: dungeon_door_tiles_clear_10
+  - first:
+      213: -5166323556719519674
+    second: dungeon_door_tiles_clear_11
+  - first:
+      213: 687591889677254178
+    second: dungeon_door_tiles_clear_12
+  - first:
+      213: 8500360329309219006
+    second: dungeon_door_tiles_clear_13
+  - first:
+      213: -790622711281028996
+    second: dungeon_door_tiles_clear_14
+  - first:
+      213: 3337751509276700719
+    second: dungeon_door_tiles_clear_15
+  - first:
+      213: -8188347256486793385
+    second: dungeon_door_tiles_clear_16
+  - first:
+      213: 4451768719984359618
+    second: dungeon_door_tiles_clear_17
+  - first:
+      213: -1778804771147981979
+    second: dungeon_door_tiles_clear_18
+  - first:
+      213: -1496338733171797884
+    second: dungeon_door_tiles_clear_19
+  - first:
+      213: -3234185616473252655
+    second: dungeon_door_tiles_clear_20
+  - first:
+      213: -9128032274273203786
+    second: dungeon_door_tiles_clear_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dungeon_door_tiles_clear_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 972
+        width: 227
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93797d904ff4925e0800000000000000
+      internalID: -1933926655423178951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_door_tiles_clear_2
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 978
+        width: 230
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03540a2daeb63bd50800000000000000
+      internalID: 6751858922658743600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_door_tiles_clear_3
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 961
+        width: 241
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ce3a1fb061d2f30800000000000000
+      internalID: 4552319038895942719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_door_tiles_clear_5
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 971
+        width: 231
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 728cd735c390ccbe0800000000000000
+      internalID: -1455778424844072921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_door_tiles_clear_6
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 669
+        width: 254
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede3be33f0d2fd150800000000000000
+      internalID: 5899483580197453534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_door_tiles_clear_8
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 668
+        width: 257
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57587fa5e72b282c0800000000000000
+      internalID: -4430782827617352331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_door_tiles_clear_9
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 642
+        width: 258
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0998f2e28913c3fb0800000000000000
+      internalID: -4666800584183019120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_door_tiles_clear_11
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 663
+        width: 257
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6481007f8188d48b0800000000000000
+      internalID: -5166323556719519674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_door_tiles_clear_12
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 328
+        width: 232
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ef6ae3e21da8900800000000000000
+      internalID: 687591889677254178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_door_tiles_clear_14
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 312
+        width: 246
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70fcbe35d42705f0800000000000000
+      internalID: -790622711281028996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_door_tiles_clear_15
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 312
+        width: 212
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2036f24053125e20800000000000000
+      internalID: 3337751509276700719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_door_tiles_clear_17
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 315
+        width: 223
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8fcd8701cd7cd30800000000000000
+      internalID: 4451768719984359618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_door_tiles_clear_18
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 70
+        width: 220
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b54f23c7a6057e0800000000000000
+      internalID: -1778804771147981979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_door_tiles_clear_19
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 73
+        width: 218
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48013a1a9dfeb3be0800000000000000
+      internalID: -1496338733171797884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_door_tiles_clear_20
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 73
+        width: 225
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc1f68315ddd13d0800000000000000
+      internalID: -3234185616473252655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_door_tiles_clear_21
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 73
+        width: 230
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b905a94207b25180800000000000000
+      internalID: -9128032274273203786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e50c0184e89a2d14f83b76060652796d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      dungeon_door_tiles_clear_0: -1933926655423178951
+      dungeon_door_tiles_clear_1: -6538068190339372162
+      dungeon_door_tiles_clear_10: 2494365566580786014
+      dungeon_door_tiles_clear_11: -5166323556719519674
+      dungeon_door_tiles_clear_12: 687591889677254178
+      dungeon_door_tiles_clear_13: 8500360329309219006
+      dungeon_door_tiles_clear_14: -790622711281028996
+      dungeon_door_tiles_clear_15: 3337751509276700719
+      dungeon_door_tiles_clear_16: -8188347256486793385
+      dungeon_door_tiles_clear_17: 4451768719984359618
+      dungeon_door_tiles_clear_18: -1778804771147981979
+      dungeon_door_tiles_clear_19: -1496338733171797884
+      dungeon_door_tiles_clear_2: 6751858922658743600
+      dungeon_door_tiles_clear_20: -3234185616473252655
+      dungeon_door_tiles_clear_21: -9128032274273203786
+      dungeon_door_tiles_clear_3: 4552319038895942719
+      dungeon_door_tiles_clear_4: 8092619911664893342
+      dungeon_door_tiles_clear_5: -1455778424844072921
+      dungeon_door_tiles_clear_6: 5899483580197453534
+      dungeon_door_tiles_clear_7: -4633720449624331359
+      dungeon_door_tiles_clear_8: -4430782827617352331
+      dungeon_door_tiles_clear_9: -4666800584183019120
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

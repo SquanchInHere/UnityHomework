@@ -1,0 +1,1289 @@
+fileFormatVersion: 2
+guid: 328d7a122e96cd9429bf24924f0565ce
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8087357425692739619
+    second: dungeon_vegetation_160_0
+  - first:
+      213: -852685779585787433
+    second: dungeon_vegetation_160_1
+  - first:
+      213: 5666634873555530158
+    second: dungeon_vegetation_160_2
+  - first:
+      213: -8342895482087011449
+    second: dungeon_vegetation_160_3
+  - first:
+      213: -7701937397040187535
+    second: dungeon_vegetation_160_4
+  - first:
+      213: 3607504998616519341
+    second: dungeon_vegetation_160_5
+  - first:
+      213: -1807004593665420364
+    second: dungeon_vegetation_160_6
+  - first:
+      213: -3012434497477259970
+    second: dungeon_vegetation_160_7
+  - first:
+      213: 6298804982211563501
+    second: dungeon_vegetation_160_8
+  - first:
+      213: 5353149293925218784
+    second: dungeon_vegetation_160_9
+  - first:
+      213: 8819200000848019495
+    second: dungeon_vegetation_160_10
+  - first:
+      213: 8456452626840817471
+    second: dungeon_vegetation_160_11
+  - first:
+      213: -8092518155719620027
+    second: dungeon_vegetation_160_12
+  - first:
+      213: -1834507576104256942
+    second: dungeon_vegetation_160_13
+  - first:
+      213: -8199495863415880268
+    second: dungeon_vegetation_160_14
+  - first:
+      213: 5812178644976702131
+    second: dungeon_vegetation_160_15
+  - first:
+      213: 822435498152361920
+    second: dungeon_vegetation_160_16
+  - first:
+      213: 5086822351055854279
+    second: dungeon_vegetation_160_17
+  - first:
+      213: 202033223937236742
+    second: dungeon_vegetation_160_18
+  - first:
+      213: -523076823982343663
+    second: dungeon_vegetation_160_19
+  - first:
+      213: -8589405293021527891
+    second: dungeon_vegetation_160_20
+  - first:
+      213: 7429443242997117535
+    second: dungeon_vegetation_160_21
+  - first:
+      213: 6067154124515776444
+    second: dungeon_vegetation_160_22
+  - first:
+      213: -3255174951554211317
+    second: dungeon_vegetation_160_23
+  - first:
+      213: 2911599438766431802
+    second: dungeon_vegetation_160_24
+  - first:
+      213: -4214404582086236365
+    second: dungeon_vegetation_160_25
+  - first:
+      213: -2723093053734373573
+    second: dungeon_vegetation_160_26
+  - first:
+      213: -3002326012660136162
+    second: dungeon_vegetation_160_27
+  - first:
+      213: -2902565104954316791
+    second: dungeon_vegetation_160_28
+  - first:
+      213: -2568545012262329174
+    second: dungeon_vegetation_160_29
+  - first:
+      213: -1293910755366820122
+    second: dungeon_vegetation_160_30
+  - first:
+      213: -1263990339978394410
+    second: dungeon_vegetation_160_31
+  - first:
+      213: -2423957790780659481
+    second: dungeon_vegetation_160_32
+  - first:
+      213: -8235061200241896515
+    second: dungeon_vegetation_160_33
+  - first:
+      213: 5861260100264687340
+    second: dungeon_vegetation_160_34
+  - first:
+      213: -4862208962937811310
+    second: dungeon_vegetation_160_35
+  - first:
+      213: -1540994915028288359
+    second: dungeon_vegetation_160_36
+  - first:
+      213: 6021523506753526806
+    second: dungeon_vegetation_160_37
+  - first:
+      213: 6527552748324125899
+    second: dungeon_vegetation_160_38
+  - first:
+      213: 3721924982648883906
+    second: dungeon_vegetation_160_39
+  - first:
+      213: 5146407537749529380
+    second: dungeon_vegetation_160_40
+  - first:
+      213: 7607490732422077795
+    second: dungeon_vegetation_160_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dungeon_vegetation_160_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 139
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd777fd154fe3cf80800000000000000
+      internalID: -8087357425692739619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_vegetation_160_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 139
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d913ca1dc6aa24f0800000000000000
+      internalID: -852685779585787433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_vegetation_160_2
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 139
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea13e16f46ee3ae40800000000000000
+      internalID: 5666634873555530158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_vegetation_160_3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 140
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b0ef7f2c4183c80800000000000000
+      internalID: -8342895482087011449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_vegetation_160_4
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 139
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1777f177eb83d1590800000000000000
+      internalID: -7701937397040187535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_vegetation_160_5
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 138
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2dbffceae601230800000000000000
+      internalID: 3607504998616519341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_vegetation_160_6
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 138
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3d21f55ea3ce6e0800000000000000
+      internalID: -1807004593665420364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_vegetation_160_7
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 113
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d4cbcf8cea136d0800000000000000
+      internalID: -3012434497477259970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_vegetation_160_8
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 112
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def4e2242c9d96750800000000000000
+      internalID: 6298804982211563501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_vegetation_160_9
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 111
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9bb0eabe43a4a40800000000000000
+      internalID: 5353149293925218784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_vegetation_160_10
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 110
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720cba5bca7146a70800000000000000
+      internalID: 8819200000848019495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_vegetation_160_11
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 109
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f04c22cda5b5570800000000000000
+      internalID: 8456452626840817471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_vegetation_160_12
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 111
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54acee50d9991bf80800000000000000
+      internalID: -8092518155719620027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_vegetation_160_13
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 88
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25afa8444158a86e0800000000000000
+      internalID: -1834507576104256942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_vegetation_160_14
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 86
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5cfcb74f9853e80800000000000000
+      internalID: -8199495863415880268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_vegetation_160_15
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 90
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b292f0fea109a050800000000000000
+      internalID: 5812178644976702131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_vegetation_160_16
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 89
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cffa066ab0e96b00800000000000000
+      internalID: 822435498152361920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_vegetation_160_17
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 89
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca93362af5089640800000000000000
+      internalID: 5086822351055854279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_vegetation_160_18
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 89
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f1b919524cdc200800000000000000
+      internalID: 202033223937236742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_vegetation_160_19
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 61
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11afa446668adb8f0800000000000000
+      internalID: -523076823982343663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_vegetation_160_20
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 62
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da08795056d4cc880800000000000000
+      internalID: -8589405293021527891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_vegetation_160_21
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 63
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52f4c1444faa1760800000000000000
+      internalID: 7429443242997117535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_vegetation_160_22
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 65
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb71f45f78cd23450800000000000000
+      internalID: 6067154124515776444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_vegetation_160_23
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 66
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b02acd2d0ab43d2d0800000000000000
+      internalID: -3255174951554211317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_vegetation_160_24
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 67
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e56e36344186820800000000000000
+      internalID: 2911599438766431802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_vegetation_160_25
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 66
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337a8f88c5d6385c0800000000000000
+      internalID: -4214404582086236365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_vegetation_160_26
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 39
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3734d19b41a53ad0800000000000000
+      internalID: -2723093053734373573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_vegetation_160_27
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 38
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e174a7306689556d0800000000000000
+      internalID: -3002326012660136162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_vegetation_160_28
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 39
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908e0cd5a6408b7d0800000000000000
+      internalID: -2902565104954316791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_vegetation_160_29
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 40
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa4a08a8be1ba5cd0800000000000000
+      internalID: -2568545012262329174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_vegetation_160_30
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 38
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6ad4ff50b1b0ee0800000000000000
+      internalID: -1293910755366820122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_vegetation_160_31
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 39
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d400129b77657ee0800000000000000
+      internalID: -1263990339978394410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_vegetation_160_32
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 18
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e86af16b3f5c5ed0800000000000000
+      internalID: -2423957790780659481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_vegetation_160_33
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 15
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3daf7387f27bd80800000000000000
+      internalID: -8235061200241896515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_vegetation_160_34
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 14
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce67274c101675150800000000000000
+      internalID: 5861260100264687340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_vegetation_160_35
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 15
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e0f5495b6f58cb0800000000000000
+      internalID: -4862208962937811310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_vegetation_160_36
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 19
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c3e011a494d9ae0800000000000000
+      internalID: -1540994915028288359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_vegetation_160_37
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 19
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c55bad9bfb09350800000000000000
+      internalID: 6021523506753526806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_vegetation_160_38
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 19
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bccfb70e3a6869a50800000000000000
+      internalID: 6527552748324125899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_vegetation_160_39
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 17
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca40775d0fe6a330800000000000000
+      internalID: 3721924982648883906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_vegetation_160_40
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 8
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42314f48366bb6740800000000000000
+      internalID: 5146407537749529380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dungeon_vegetation_160_41
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 13
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d1812d38c339960800000000000000
+      internalID: 7607490732422077795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: af0f52dc3b04cad43907c4754d371304
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":16.0,"y":16.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      dungeon_vegetation_160_0: -8087357425692739619
+      dungeon_vegetation_160_1: -852685779585787433
+      dungeon_vegetation_160_10: 8819200000848019495
+      dungeon_vegetation_160_11: 8456452626840817471
+      dungeon_vegetation_160_12: -8092518155719620027
+      dungeon_vegetation_160_13: -1834507576104256942
+      dungeon_vegetation_160_14: -8199495863415880268
+      dungeon_vegetation_160_15: 5812178644976702131
+      dungeon_vegetation_160_16: 822435498152361920
+      dungeon_vegetation_160_17: 5086822351055854279
+      dungeon_vegetation_160_18: 202033223937236742
+      dungeon_vegetation_160_19: -523076823982343663
+      dungeon_vegetation_160_2: 5666634873555530158
+      dungeon_vegetation_160_20: -8589405293021527891
+      dungeon_vegetation_160_21: 7429443242997117535
+      dungeon_vegetation_160_22: 6067154124515776444
+      dungeon_vegetation_160_23: -3255174951554211317
+      dungeon_vegetation_160_24: 2911599438766431802
+      dungeon_vegetation_160_25: -4214404582086236365
+      dungeon_vegetation_160_26: -2723093053734373573
+      dungeon_vegetation_160_27: -3002326012660136162
+      dungeon_vegetation_160_28: -2902565104954316791
+      dungeon_vegetation_160_29: -2568545012262329174
+      dungeon_vegetation_160_3: -8342895482087011449
+      dungeon_vegetation_160_30: -1293910755366820122
+      dungeon_vegetation_160_31: -1263990339978394410
+      dungeon_vegetation_160_32: -2423957790780659481
+      dungeon_vegetation_160_33: -8235061200241896515
+      dungeon_vegetation_160_34: 5861260100264687340
+      dungeon_vegetation_160_35: -4862208962937811310
+      dungeon_vegetation_160_36: -1540994915028288359
+      dungeon_vegetation_160_37: 6021523506753526806
+      dungeon_vegetation_160_38: 6527552748324125899
+      dungeon_vegetation_160_39: 3721924982648883906
+      dungeon_vegetation_160_4: -7701937397040187535
+      dungeon_vegetation_160_40: 5146407537749529380
+      dungeon_vegetation_160_41: 7607490732422077795
+      dungeon_vegetation_160_5: 3607504998616519341
+      dungeon_vegetation_160_6: -1807004593665420364
+      dungeon_vegetation_160_7: -3012434497477259970
+      dungeon_vegetation_160_8: 6298804982211563501
+      dungeon_vegetation_160_9: 5353149293925218784
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

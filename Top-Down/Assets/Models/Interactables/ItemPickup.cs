@@ -20,6 +20,7 @@ public class ItemPickup : InteractableBase
         if (!_canInteract || _itemConfig == null) return;
 
         PlayerHealth playerHealth = interactor.GetComponent<PlayerHealth>();
+        PlayerMana playerMana = interactor.GetComponent<PlayerMana>();
         if (playerHealth == null) return;
 
         switch (_itemConfig.ItemType)
@@ -40,8 +41,13 @@ public class ItemPickup : InteractableBase
                 GameManager.Instance.CurrentScore += _itemConfig.ScoreValue;
                 break;
 
+            case ItemType.Mana:
+                playerMana.RegenMana(_itemConfig.ManaAmount);
+                break;
+
             case ItemType.PowerUp:
                 break;
+
         }
 
         AudioManager.Instance?.PlayItemPickup();

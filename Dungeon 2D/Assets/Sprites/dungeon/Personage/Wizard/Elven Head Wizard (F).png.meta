@@ -1,0 +1,4589 @@
+fileFormatVersion: 2
+guid: 2da24f053f21168468e91ef76434b819
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7367836379985785849
+    second: Elven Head Wizard (F)_0
+  - first:
+      213: -2495729985976423979
+    second: Elven Head Wizard (F)_1
+  - first:
+      213: 6715583982431209298
+    second: Elven Head Wizard (F)_2
+  - first:
+      213: 2165621150150695876
+    second: Elven Head Wizard (F)_3
+  - first:
+      213: 8815431919304894417
+    second: Elven Head Wizard (F)_4
+  - first:
+      213: 6452119790840771695
+    second: Elven Head Wizard (F)_5
+  - first:
+      213: 3113091202583066032
+    second: Elven Head Wizard (F)_6
+  - first:
+      213: -8207909982782930250
+    second: Elven Head Wizard (F)_7
+  - first:
+      213: -8492290041827549477
+    second: Elven Head Wizard (F)_8
+  - first:
+      213: 6790040744305260487
+    second: Elven Head Wizard (F)_9
+  - first:
+      213: 7374758922271294039
+    second: Elven Head Wizard (F)_10
+  - first:
+      213: 527215008832474129
+    second: Elven Head Wizard (F)_11
+  - first:
+      213: 4045488489669842544
+    second: Elven Head Wizard (F)_12
+  - first:
+      213: -977131714813907597
+    second: Elven Head Wizard (F)_13
+  - first:
+      213: 4937280806815063478
+    second: Elven Head Wizard (F)_14
+  - first:
+      213: 6744273507824340418
+    second: Elven Head Wizard (F)_15
+  - first:
+      213: 4393082356866718646
+    second: Elven Head Wizard (F)_16
+  - first:
+      213: 8254904356931444690
+    second: Elven Head Wizard (F)_17
+  - first:
+      213: -133898678675930329
+    second: Elven Head Wizard (F)_18
+  - first:
+      213: -8605776163212918595
+    second: Elven Head Wizard (F)_19
+  - first:
+      213: 8379015589200943246
+    second: Elven Head Wizard (F)_20
+  - first:
+      213: -2704514847643741260
+    second: Elven Head Wizard (F)_21
+  - first:
+      213: 5961001406290920403
+    second: Elven Head Wizard (F)_22
+  - first:
+      213: -3091034520061174126
+    second: Elven Head Wizard (F)_23
+  - first:
+      213: -8946833306919004936
+    second: Elven Head Wizard (F)_24
+  - first:
+      213: -5557792694803109872
+    second: Elven Head Wizard (F)_25
+  - first:
+      213: 4264697302786974720
+    second: Elven Head Wizard (F)_26
+  - first:
+      213: 2429397340163216139
+    second: Elven Head Wizard (F)_27
+  - first:
+      213: -1657679217076759680
+    second: Elven Head Wizard (F)_28
+  - first:
+      213: -1368979999703031882
+    second: Elven Head Wizard (F)_29
+  - first:
+      213: -8775647718872331823
+    second: Elven Head Wizard (F)_30
+  - first:
+      213: -8111318207069328926
+    second: Elven Head Wizard (F)_31
+  - first:
+      213: -2056236129538571107
+    second: Elven Head Wizard (F)_32
+  - first:
+      213: -5100993484613752790
+    second: Elven Head Wizard (F)_33
+  - first:
+      213: 8400162832370176121
+    second: Elven Head Wizard (F)_34
+  - first:
+      213: 8487596672198744019
+    second: Elven Head Wizard (F)_35
+  - first:
+      213: 8791680593941759254
+    second: Elven Head Wizard (F)_36
+  - first:
+      213: 2635673581356076915
+    second: Elven Head Wizard (F)_37
+  - first:
+      213: -7830157004536135503
+    second: Elven Head Wizard (F)_38
+  - first:
+      213: -3379554238744479982
+    second: Elven Head Wizard (F)_39
+  - first:
+      213: 5489318597609423763
+    second: Elven Head Wizard (F)_40
+  - first:
+      213: -5193937652995342527
+    second: Elven Head Wizard (F)_41
+  - first:
+      213: -7824491570671072572
+    second: Elven Head Wizard (F)_42
+  - first:
+      213: 8605772957046978722
+    second: Elven Head Wizard (F)_43
+  - first:
+      213: -1970363534523154598
+    second: Elven Head Wizard (F)_44
+  - first:
+      213: 2100030243149396728
+    second: Elven Head Wizard (F)_45
+  - first:
+      213: 6321054853268087228
+    second: Elven Head Wizard (F)_46
+  - first:
+      213: 4998117543393240737
+    second: Elven Head Wizard (F)_47
+  - first:
+      213: -5624753867051292636
+    second: Elven Head Wizard (F)_48
+  - first:
+      213: 436040640293768033
+    second: Elven Head Wizard (F)_49
+  - first:
+      213: -272086336592776890
+    second: Elven Head Wizard (F)_50
+  - first:
+      213: 3057805145519906589
+    second: Elven Head Wizard (F)_51
+  - first:
+      213: 1769400182906207864
+    second: Elven Head Wizard (F)_52
+  - first:
+      213: -1058345819928809395
+    second: Elven Head Wizard (F)_53
+  - first:
+      213: 7958933767429616549
+    second: Elven Head Wizard (F)_54
+  - first:
+      213: 1619110133565773538
+    second: Elven Head Wizard (F)_55
+  - first:
+      213: 2940101405696740584
+    second: Elven Head Wizard (F)_56
+  - first:
+      213: 4050019161854329814
+    second: Elven Head Wizard (F)_57
+  - first:
+      213: 3784901122478101870
+    second: Elven Head Wizard (F)_58
+  - first:
+      213: 240943498811536290
+    second: Elven Head Wizard (F)_59
+  - first:
+      213: -5181183250183828448
+    second: Elven Head Wizard (F)_60
+  - first:
+      213: 2323830268756164538
+    second: Elven Head Wizard (F)_61
+  - first:
+      213: -8911066545038536854
+    second: Elven Head Wizard (F)_62
+  - first:
+      213: 8953680546879813986
+    second: Elven Head Wizard (F)_63
+  - first:
+      213: -2414828679581506213
+    second: Elven Head Wizard (F)_64
+  - first:
+      213: 5758210894778845198
+    second: Elven Head Wizard (F)_65
+  - first:
+      213: -6264684261956404325
+    second: Elven Head Wizard (F)_66
+  - first:
+      213: -4601098774486430367
+    second: Elven Head Wizard (F)_67
+  - first:
+      213: 3458597841732037058
+    second: Elven Head Wizard (F)_68
+  - first:
+      213: -5562379502612288418
+    second: Elven Head Wizard (F)_69
+  - first:
+      213: -2364464380878045111
+    second: Elven Head Wizard (F)_70
+  - first:
+      213: 4535222454649552574
+    second: Elven Head Wizard (F)_71
+  - first:
+      213: -2341344998864552378
+    second: Elven Head Wizard (F)_72
+  - first:
+      213: 2354641169610116288
+    second: Elven Head Wizard (F)_73
+  - first:
+      213: 4000948251241879326
+    second: Elven Head Wizard (F)_74
+  - first:
+      213: 5817763770076439556
+    second: Elven Head Wizard (F)_75
+  - first:
+      213: 4334866936709873646
+    second: Elven Head Wizard (F)_76
+  - first:
+      213: -9163776266866407464
+    second: Elven Head Wizard (F)_77
+  - first:
+      213: 6191218619916451250
+    second: Elven Head Wizard (F)_78
+  - first:
+      213: 2996763302749188602
+    second: Elven Head Wizard (F)_79
+  - first:
+      213: 3838386143577141164
+    second: Elven Head Wizard (F)_80
+  - first:
+      213: 1544023535575984844
+    second: Elven Head Wizard (F)_81
+  - first:
+      213: -3749531951044849794
+    second: Elven Head Wizard (F)_82
+  - first:
+      213: -6310423854089227203
+    second: Elven Head Wizard (F)_83
+  - first:
+      213: 6714012292908149719
+    second: Elven Head Wizard (F)_84
+  - first:
+      213: -8701084922865093401
+    second: Elven Head Wizard (F)_85
+  - first:
+      213: -2178433377415710013
+    second: Elven Head Wizard (F)_86
+  - first:
+      213: 5485592628799496632
+    second: Elven Head Wizard (F)_87
+  - first:
+      213: -7977429782611685236
+    second: Elven Head Wizard (F)_88
+  - first:
+      213: 5604344395018656594
+    second: Elven Head Wizard (F)_89
+  - first:
+      213: -388158452090601506
+    second: Elven Head Wizard (F)_90
+  - first:
+      213: 8235767348728227398
+    second: Elven Head Wizard (F)_91
+  - first:
+      213: 3133145267379884928
+    second: Elven Head Wizard (F)_92
+  - first:
+      213: -4591885379153497612
+    second: Elven Head Wizard (F)_93
+  - first:
+      213: -26075976862889095
+    second: Elven Head Wizard (F)_94
+  - first:
+      213: 522258014869224033
+    second: Elven Head Wizard (F)_95
+  - first:
+      213: -6415784548848460190
+    second: Elven Head Wizard (F)_96
+  - first:
+      213: 5758437624047073510
+    second: Elven Head Wizard (F)_97
+  - first:
+      213: -3820125284806814290
+    second: Elven Head Wizard (F)_98
+  - first:
+      213: 2633643479745481445
+    second: Elven Head Wizard (F)_99
+  - first:
+      213: 2463991994523215870
+    second: Elven Head Wizard (F)_100
+  - first:
+      213: 4434186805332975952
+    second: Elven Head Wizard (F)_101
+  - first:
+      213: -5357766917804140088
+    second: Elven Head Wizard (F)_102
+  - first:
+      213: 1169131804189133677
+    second: Elven Head Wizard (F)_103
+  - first:
+      213: -3364225336092137181
+    second: Elven Head Wizard (F)_104
+  - first:
+      213: -7942279246988884875
+    second: Elven Head Wizard (F)_105
+  - first:
+      213: 8485386228532996737
+    second: Elven Head Wizard (F)_106
+  - first:
+      213: 5910654895871942783
+    second: Elven Head Wizard (F)_107
+  - first:
+      213: 6173036786325665141
+    second: Elven Head Wizard (F)_108
+  - first:
+      213: 2385278920354612920
+    second: Elven Head Wizard (F)_109
+  - first:
+      213: 2996194501523450760
+    second: Elven Head Wizard (F)_110
+  - first:
+      213: 1541676221857481844
+    second: Elven Head Wizard (F)_111
+  - first:
+      213: 7466875463889049827
+    second: Elven Head Wizard (F)_112
+  - first:
+      213: -8988031742061952585
+    second: Elven Head Wizard (F)_113
+  - first:
+      213: -2054373011334593965
+    second: Elven Head Wizard (F)_114
+  - first:
+      213: 5705558335876938532
+    second: Elven Head Wizard (F)_115
+  - first:
+      213: 8409680434113163417
+    second: Elven Head Wizard (F)_116
+  - first:
+      213: 2578582475959669364
+    second: Elven Head Wizard (F)_117
+  - first:
+      213: 3951833572451645607
+    second: Elven Head Wizard (F)_118
+  - first:
+      213: -1715712561685548018
+    second: Elven Head Wizard (F)_119
+  - first:
+      213: 4383528160455497547
+    second: Elven Head Wizard (F)_120
+  - first:
+      213: -8388064308313228352
+    second: Elven Head Wizard (F)_121
+  - first:
+      213: -9067482284692127220
+    second: Elven Head Wizard (F)_122
+  - first:
+      213: -1815346706581461590
+    second: Elven Head Wizard (F)_123
+  - first:
+      213: -5885740824941073063
+    second: Elven Head Wizard (F)_124
+  - first:
+      213: 1522869104034859444
+    second: Elven Head Wizard (F)_125
+  - first:
+      213: -461440660626372139
+    second: Elven Head Wizard (F)_126
+  - first:
+      213: -6842596281447949673
+    second: Elven Head Wizard (F)_127
+  - first:
+      213: -3562388223814413044
+    second: Elven Head Wizard (F)_128
+  - first:
+      213: -2023333041241134950
+    second: Elven Head Wizard (F)_129
+  - first:
+      213: -4963697778948984675
+    second: Elven Head Wizard (F)_130
+  - first:
+      213: -3853412583373587463
+    second: Elven Head Wizard (F)_131
+  - first:
+      213: 1285772279659759574
+    second: Elven Head Wizard (F)_132
+  - first:
+      213: -7379938609722054732
+    second: Elven Head Wizard (F)_133
+  - first:
+      213: 9148551530064908419
+    second: Elven Head Wizard (F)_134
+  - first:
+      213: 6909978912441407340
+    second: Elven Head Wizard (F)_135
+  - first:
+      213: 7793521459653256269
+    second: Elven Head Wizard (F)_136
+  - first:
+      213: -911879674325941248
+    second: Elven Head Wizard (F)_137
+  - first:
+      213: 289478806341111853
+    second: Elven Head Wizard (F)_138
+  - first:
+      213: -4912511005753166342
+    second: Elven Head Wizard (F)_139
+  - first:
+      213: -2425560089604265889
+    second: Elven Head Wizard (F)_140
+  - first:
+      213: -2476923284622238605
+    second: Elven Head Wizard (F)_141
+  - first:
+      213: -737507350192140241
+    second: Elven Head Wizard (F)_142
+  - first:
+      213: 772969982467770051
+    second: Elven Head Wizard (F)_143
+  - first:
+      213: 8916122880101208699
+    second: Elven Head Wizard (F)_144
+  - first:
+      213: 7982178652628279580
+    second: Elven Head Wizard (F)_145
+  - first:
+      213: 8141050027376638552
+    second: Elven Head Wizard (F)_146
+  - first:
+      213: -4985651775872613450
+    second: Elven Head Wizard (F)_147
+  - first:
+      213: 2880237866179461392
+    second: Elven Head Wizard (F)_148
+  - first:
+      213: -1372173320676483489
+    second: Elven Head Wizard (F)_149
+  - first:
+      213: -8729557159006253312
+    second: Elven Head Wizard (F)_150
+  - first:
+      213: 5615162031922887545
+    second: Elven Head Wizard (F)_151
+  - first:
+      213: 1516401609325251038
+    second: Elven Head Wizard (F)_152
+  - first:
+      213: -4895902091511205625
+    second: Elven Head Wizard (F)_153
+  - first:
+      213: 4799562867342870647
+    second: Elven Head Wizard (F)_154
+  - first:
+      213: -678122519248231401
+    second: Elven Head Wizard (F)_155
+  - first:
+      213: -4774618260554068706
+    second: Elven Head Wizard (F)_156
+  - first:
+      213: 7071282742063435333
+    second: Elven Head Wizard (F)_157
+  - first:
+      213: -443258845945664037
+    second: Elven Head Wizard (F)_158
+  - first:
+      213: 6607075158330491418
+    second: Elven Head Wizard (F)_159
+  - first:
+      213: -4464309651645764548
+    second: Elven Head Wizard (F)_160
+  - first:
+      213: 7921145920597262611
+    second: Elven Head Wizard (F)_161
+  - first:
+      213: -6473428648106290064
+    second: Elven Head Wizard (F)_162
+  - first:
+      213: 2731135646614726936
+    second: Elven Head Wizard (F)_163
+  - first:
+      213: 3820628396654144297
+    second: Elven Head Wizard (F)_164
+  - first:
+      213: -748312475134555056
+    second: Elven Head Wizard (F)_165
+  - first:
+      213: 5140683897162855665
+    second: Elven Head Wizard (F)_166
+  - first:
+      213: -8624943834810729919
+    second: Elven Head Wizard (F)_167
+  - first:
+      213: -7693800004112747177
+    second: Elven Head Wizard (F)_168
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1281
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3b040b620df3660800000000000000
+      internalID: 7367836379985785849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1281
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9a59afcc26d5dd0800000000000000
+      internalID: -2495729985976423979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1281
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2578d142d0c823d50800000000000000
+      internalID: 6715583982431209298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1281
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb1ecc46f4dd0e10800000000000000
+      internalID: 2165621150150695876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_4
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1281
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7eecbdf94b65a70800000000000000
+      internalID: 8815431919304894417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_5
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1281
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64f455d3c88a8950800000000000000
+      internalID: 6452119790840771695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1281
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b57b5374fbe33b20800000000000000
+      internalID: 3113091202583066032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_7
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 575
+        width: 194
+        height: 769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b247d7ab55a71e80800000000000000
+      internalID: -8207909982782930250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_8
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1217
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde18477333552a80800000000000000
+      internalID: -8492290041827549477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_9
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1217
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c77ebee4121b3e50800000000000000
+      internalID: 6790040744305260487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_10
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1217
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7528f1aaa28685660800000000000000
+      internalID: 7374758922271294039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_11
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1217
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11cc6b9d14b015700800000000000000
+      internalID: 527215008832474129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_12
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1217
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 076d3b1f856742830800000000000000
+      internalID: 4045488489669842544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_13
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1217
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37dafb7e1e78072f0800000000000000
+      internalID: -977131714813907597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_14
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1217
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bdd0962cbeb48440800000000000000
+      internalID: 4937280806815063478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_15
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1153
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd82fdc509789d50800000000000000
+      internalID: 6744273507824340418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_16
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1153
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb9316c02d57fc30800000000000000
+      internalID: 4393082356866718646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_17
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1153
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df19b9b6cf4f8270800000000000000
+      internalID: 8254904356931444690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_18
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1153
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72380a57cdb442ef0800000000000000
+      internalID: -133898678675930329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_19
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1153
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db08b27cc24229880800000000000000
+      internalID: -8605776163212918595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_20
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1153
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8858c1d84e384470800000000000000
+      internalID: 8379015589200943246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_21
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1153
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3dc604312a77ad0800000000000000
+      internalID: -2704514847643741260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_22
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1089
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3039f323bb9b250800000000000000
+      internalID: 5961001406290920403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_23
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1089
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e98432b707a15d0800000000000000
+      internalID: -3091034520061174126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_24
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1089
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4957c728676d380800000000000000
+      internalID: -8946833306919004936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_25
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1089
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018eff29df0ced2b0800000000000000
+      internalID: -5557792694803109872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_26
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1089
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0042f2ff99f3f2b30800000000000000
+      internalID: 4264697302786974720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_27
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1089
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0315b66204f6b120800000000000000
+      internalID: 2429397340163216139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_28
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1089
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083979ae88dbef8e0800000000000000
+      internalID: -1657679217076759680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_29
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1024
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf161581f7600de0800000000000000
+      internalID: -1368979999703031882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_30
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1023
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9c5a225e2a63680800000000000000
+      internalID: -8775647718872331823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_31
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1023
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e96977f01fce6f80800000000000000
+      internalID: -8111318207069328926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_32
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1023
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9487847228c673e0800000000000000
+      internalID: -2056236129538571107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_33
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1023
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28e304b371a539b0800000000000000
+      internalID: -5100993484613752790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_34
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1023
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9701dde079f539470800000000000000
+      internalID: 8400162832370176121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_35
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1023
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7913344300ac570800000000000000
+      internalID: 8487596672198744019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_36
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 961
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615089c7be2520a70800000000000000
+      internalID: 8791680593941759254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_37
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 961
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f4c98682bc39420800000000000000
+      internalID: 2635673581356076915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_38
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 961
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b04619b0b1b55390800000000000000
+      internalID: -7830157004536135503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_39
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 961
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 217387453596911d0800000000000000
+      internalID: -3379554238744479982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_40
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 961
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393847d4e2afd2c40800000000000000
+      internalID: 5489318597609423763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_41
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 961
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14fbfa7293d6be7b0800000000000000
+      internalID: -5193937652995342527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_42
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 961
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cacc165f52d96390800000000000000
+      internalID: -7824491570671072572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_43
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 897
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8b27ab8e8dd6770800000000000000
+      internalID: 8605772957046978722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_44
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 897
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f3d560eccd7a4e0800000000000000
+      internalID: -1970363534523154598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_45
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 898
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa3f74316ec42d10800000000000000
+      internalID: 2100030243149396728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_46
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 898
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb1adce06e5e8b750800000000000000
+      internalID: 6321054853268087228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_47
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 898
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a62a9fac61ec5540800000000000000
+      internalID: 4998117543393240737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_48
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 898
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428276db82cd0f1b0800000000000000
+      internalID: -5624753867051292636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_49
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 898
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b0850f6a02d0600800000000000000
+      internalID: 436040640293768033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_50
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 833
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641762f1bea593cf0800000000000000
+      internalID: -272086336592776890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_51
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 833
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f531334918f6a20800000000000000
+      internalID: 3057805145519906589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_52
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 833
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87eb2a7771c2e8810800000000000000
+      internalID: 1769400182906207864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_53
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 833
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40bf9985100051f0800000000000000
+      internalID: -1058345819928809395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_54
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 833
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a3f08ed710d37e60800000000000000
+      internalID: 7958933767429616549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_55
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 833
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e65c6b861c387610800000000000000
+      internalID: 1619110133565773538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_56
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 833
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec4e22b6a65dc820800000000000000
+      internalID: 2940101405696740584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_57
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 769
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d34ad348fe843830800000000000000
+      internalID: 4050019161854329814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_58
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 769
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65d843848ba68430800000000000000
+      internalID: 3784901122478101870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_59
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 768
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3f999e5d0085300800000000000000
+      internalID: 240943498811536290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_60
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 767
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02cc698f84db818b0800000000000000
+      internalID: -5181183250183828448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_61
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 768
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abff2873157ef3020800000000000000
+      internalID: 2323830268756164538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_62
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 769
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f4c1da038855480800000000000000
+      internalID: -8911066545038536854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_63
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 768
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 269b81dc40dd14c70800000000000000
+      internalID: 8953680546879813986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_64
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 705
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b556e183c1ecc7ed0800000000000000
+      internalID: -2414828679581506213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_65
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 705
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e08c31dec4649ef40800000000000000
+      internalID: 5758210894778845198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_66
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 706
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9bbb100bde5f09a0800000000000000
+      internalID: -6264684261956404325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_67
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 706
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d4042da0d9520c0800000000000000
+      internalID: -4601098774486430367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_68
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 705
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9ee51a9686fff20800000000000000
+      internalID: 3458597841732037058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_69
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 705
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c61e820557ec2b0800000000000000
+      internalID: -5562379502612288418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_70
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 705
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94043bd4c2cbf2fd0800000000000000
+      internalID: -2364464380878045111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_71
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 641
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebef2ca3bc850fe30800000000000000
+      internalID: 4535222454649552574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_72
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 641
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e7a06e02fd18fd0800000000000000
+      internalID: -2341344998864552378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_73
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 640
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc0f181bad5da020800000000000000
+      internalID: 2354641169610116288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_74
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 640
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e171eff8c39368730800000000000000
+      internalID: 4000948251241879326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_75
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 640
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4042b863359dcb050800000000000000
+      internalID: 5817763770076439556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_76
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 641
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef7d27038a882c30800000000000000
+      internalID: 4334866936709873646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_77
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 640
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d7c54c790ab3d080800000000000000
+      internalID: -9163776266866407464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_78
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 577
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd77e64880abe550800000000000000
+      internalID: 6191218619916451250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_79
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 577
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1ba48a854a69920800000000000000
+      internalID: 2996763302749188602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_80
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 578
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf62b66cdfa44530800000000000000
+      internalID: 3838386143577141164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_81
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 578
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca69da99397d6510800000000000000
+      internalID: 1544023535575984844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_82
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 577
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f8eff6e8cf6fbc0800000000000000
+      internalID: -3749531951044849794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_83
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 577
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d343cd250fedc68a0800000000000000
+      internalID: -6310423854089227203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_84
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 577
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db6568ab96fc2d50800000000000000
+      internalID: 6714012292908149719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_85
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 513
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e47e1cec598f3780800000000000000
+      internalID: -8701084922865093401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_86
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 513
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca38449266a4c1e0800000000000000
+      internalID: -2178433377415710013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_87
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 513
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b168169e6db02c40800000000000000
+      internalID: 5485592628799496632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_88
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 513
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c801fc201e97a4190800000000000000
+      internalID: -7977429782611685236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_89
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 513
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25bd900c881a6cd40800000000000000
+      internalID: 5604344395018656594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_90
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 513
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edff292c1fbfc9af0800000000000000
+      internalID: -388158452090601506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_91
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 319
+        width: 66
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646e4b9c4c25b4270800000000000000
+      internalID: 8235767348728227398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_92
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 449
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083dfd3450b2b7b20800000000000000
+      internalID: 3133145267379884928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_93
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 449
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1fe3693985640c0800000000000000
+      internalID: -4591885379153497612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_94
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 449
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b8ae5890c53aff0800000000000000
+      internalID: -26075976862889095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_95
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 449
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a7161c5ee6f3700800000000000000
+      internalID: 522258014869224033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_96
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 449
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e9272f1fd86f6a0800000000000000
+      internalID: -6415784548848460190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_97
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 449
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8f19272841aef40800000000000000
+      internalID: 5758437624047073510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_98
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 385
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea51a991b403cfac0800000000000000
+      internalID: -3820125284806814290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_99
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 385
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eac04b8ac49c8420800000000000000
+      internalID: 2633643479745481445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_100
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 385
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef766fa0aabd13220800000000000000
+      internalID: 2463991994523215870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_101
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 385
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 051a897f765698d30800000000000000
+      internalID: 4434186805332975952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_102
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 385
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9d1faff5365a5b0800000000000000
+      internalID: -5357766917804140088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_103
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 385
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b0e4c7e27993010800000000000000
+      internalID: 1169131804189133677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_104
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 321
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329ebd991eedf41d0800000000000000
+      internalID: -3364225336092137181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_105
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 321
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5744548da1b57c190800000000000000
+      internalID: -7942279246988884875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_106
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 321
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a63bd31d522c570800000000000000
+      internalID: 8485386228532996737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_107
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 321
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70ee52df4dd60250800000000000000
+      internalID: 5910654895871942783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_108
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 321
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5753c5240480ba550800000000000000
+      internalID: 6173036786325665141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_109
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 321
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6c6f15a863a1120800000000000000
+      internalID: 2385278920354612920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_110
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 257
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ba84d460f949920800000000000000
+      internalID: 2996194501523450760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_111
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 256
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4744b7a0b52256510800000000000000
+      internalID: 1541676221857481844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_112
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 255
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8df275cabaf9760800000000000000
+      internalID: 7466875463889049827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_113
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 255
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b1467050c8144380800000000000000
+      internalID: -8988031742061952585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_114
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 255
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352804771a66d73e0800000000000000
+      internalID: -2054373011334593965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_115
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 255
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42bb63fb3173e2f40800000000000000
+      internalID: 5705558335876938532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_116
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 255
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9903ed56ccf25b470800000000000000
+      internalID: 8409680434113163417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_117
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 255
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4729f979917f8c320800000000000000
+      internalID: 2578582475959669364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_118
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 255
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8717942bbb7d630800000000000000
+      internalID: 3951833572451645607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_119
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 255
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04be00f3809038e0800000000000000
+      internalID: -1715712561685548018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_120
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 255
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b471fd213ab65dc30800000000000000
+      internalID: 4383528160455497547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_121
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 255
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb7bd514fb979b80800000000000000
+      internalID: -8388064308313228352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_122
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 255
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0247c557e4d92280800000000000000
+      internalID: -9067482284692127220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_123
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 193
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa5690ad9c79ec6e0800000000000000
+      internalID: -1815346706581461590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_124
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 193
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d6f5957e5a15ea0800000000000000
+      internalID: -5885740824941073063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_125
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 193
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b94a61b161522510800000000000000
+      internalID: 1522869104034859444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_126
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 193
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9817af922a899f0800000000000000
+      internalID: -461440660626372139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_127
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 193
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ad2e68fe63a01a0800000000000000
+      internalID: -6842596281447949673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_128
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 193
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05d187e8cadf8ec0800000000000000
+      internalID: -3562388223814413044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_129
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 193
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a98e28ea15dabe3e0800000000000000
+      internalID: -2023333041241134950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_130
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 193
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90b9593b276d1bb0800000000000000
+      internalID: -4963697778948984675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_131
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 193
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb3ff2fbade58ac0800000000000000
+      internalID: -3853412583373587463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_132
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 193
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d70a27731bf7d110800000000000000
+      internalID: 1285772279659759574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_133
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 193
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7a35f5fe0359990800000000000000
+      internalID: -7379938609722054732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_134
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 193
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38010ee352f26fe70800000000000000
+      internalID: 9148551530064908419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_135
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 193
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c679281d53d25ef50800000000000000
+      internalID: 6909978912441407340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_136
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 129
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d442408c976282c60800000000000000
+      internalID: 7793521459653256269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_137
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00447ed744a5853f0800000000000000
+      internalID: -911879674325941248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_138
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 130
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2057fdc07f640400800000000000000
+      internalID: 289478806341111853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_139
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 129
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5b2e2944143dbb0800000000000000
+      internalID: -4912511005753166342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_140
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 129
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58e5cd13fda65ed0800000000000000
+      internalID: -2425560089604265889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_141
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 129
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c923c556330add0800000000000000
+      internalID: -2476923284622238605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_142
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 129
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20de84f8f8d3c5f0800000000000000
+      internalID: -737507350192140241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_143
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 129
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6080b8a142aba00800000000000000
+      internalID: 772969982467770051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_144
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 129
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b725a22158e6cbb70800000000000000
+      internalID: 8916122880101208699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_145
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 129
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c116d93713566ce60800000000000000
+      internalID: 7982178652628279580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_146
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 129
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85af774edd1daf070800000000000000
+      internalID: 8141050027376638552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_147
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 129
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b3415dff186fcab0800000000000000
+      internalID: -4985651775872613450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_148
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 129
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01181424419a8f720800000000000000
+      internalID: 2880237866179461392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_149
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 65
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e5fca82af05fce0800000000000000
+      internalID: -1372173320676483489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_150
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 65
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00fc6fad3026ad680800000000000000
+      internalID: -8729557159006253312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_151
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 65
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b360d1e101ded40800000000000000
+      internalID: 5615162031922887545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_152
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 65
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed989acba375b0510800000000000000
+      internalID: 1516401609325251038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_153
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 65
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 701f164ccf24e0cb0800000000000000
+      internalID: -4895902091511205625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_154
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 65
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7788029aff87b9240800000000000000
+      internalID: 4799562867342870647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_155
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 0
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 714240e5923d696f0800000000000000
+      internalID: -678122519248231401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_156
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 65
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1dc4913df52dbdb0800000000000000
+      internalID: -4774618260554068706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_157
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 65
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e8a0b403e322260800000000000000
+      internalID: 7071282742063435333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_158
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 65
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bddebd79d6a39d9f0800000000000000
+      internalID: -443258845945664037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_159
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 65
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a12c898c9db01bb50800000000000000
+      internalID: 6607075158330491418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_160
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 65
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c6e4656069b02c0800000000000000
+      internalID: -4464309651645764548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_161
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 65
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3110c3b2f309ded60800000000000000
+      internalID: 7921145920597262611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_162
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 65
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07499c631f2c926a0800000000000000
+      internalID: -6473428648106290064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_163
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 819a0e18661f6e520800000000000000
+      internalID: 2731135646614726936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_164
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b2751c849950530800000000000000
+      internalID: 3820628396654144297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_165
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c8c92c4c57d95f0800000000000000
+      internalID: -748312475134555056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_166
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f476f894c0675740800000000000000
+      internalID: 5140683897162855665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_167
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 2
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a3966774b0e4880800000000000000
+      internalID: -8624943834810729919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elven Head Wizard (F)_168
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755f5f5e8a12a3590800000000000000
+      internalID: -7693800004112747177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Elven Head Wizard (F)_0: 7367836379985785849
+      Elven Head Wizard (F)_1: -2495729985976423979
+      Elven Head Wizard (F)_10: 7374758922271294039
+      Elven Head Wizard (F)_100: 2463991994523215870
+      Elven Head Wizard (F)_101: 4434186805332975952
+      Elven Head Wizard (F)_102: -5357766917804140088
+      Elven Head Wizard (F)_103: 1169131804189133677
+      Elven Head Wizard (F)_104: -3364225336092137181
+      Elven Head Wizard (F)_105: -7942279246988884875
+      Elven Head Wizard (F)_106: 8485386228532996737
+      Elven Head Wizard (F)_107: 5910654895871942783
+      Elven Head Wizard (F)_108: 6173036786325665141
+      Elven Head Wizard (F)_109: 2385278920354612920
+      Elven Head Wizard (F)_11: 527215008832474129
+      Elven Head Wizard (F)_110: 2996194501523450760
+      Elven Head Wizard (F)_111: 1541676221857481844
+      Elven Head Wizard (F)_112: 7466875463889049827
+      Elven Head Wizard (F)_113: -8988031742061952585
+      Elven Head Wizard (F)_114: -2054373011334593965
+      Elven Head Wizard (F)_115: 5705558335876938532
+      Elven Head Wizard (F)_116: 8409680434113163417
+      Elven Head Wizard (F)_117: 2578582475959669364
+      Elven Head Wizard (F)_118: 3951833572451645607
+      Elven Head Wizard (F)_119: -1715712561685548018
+      Elven Head Wizard (F)_12: 4045488489669842544
+      Elven Head Wizard (F)_120: 4383528160455497547
+      Elven Head Wizard (F)_121: -8388064308313228352
+      Elven Head Wizard (F)_122: -9067482284692127220
+      Elven Head Wizard (F)_123: -1815346706581461590
+      Elven Head Wizard (F)_124: -5885740824941073063
+      Elven Head Wizard (F)_125: 1522869104034859444
+      Elven Head Wizard (F)_126: -461440660626372139
+      Elven Head Wizard (F)_127: -6842596281447949673
+      Elven Head Wizard (F)_128: -3562388223814413044
+      Elven Head Wizard (F)_129: -2023333041241134950
+      Elven Head Wizard (F)_13: -977131714813907597
+      Elven Head Wizard (F)_130: -4963697778948984675
+      Elven Head Wizard (F)_131: -3853412583373587463
+      Elven Head Wizard (F)_132: 1285772279659759574
+      Elven Head Wizard (F)_133: -7379938609722054732
+      Elven Head Wizard (F)_134: 9148551530064908419
+      Elven Head Wizard (F)_135: 6909978912441407340
+      Elven Head Wizard (F)_136: 7793521459653256269
+      Elven Head Wizard (F)_137: -911879674325941248
+      Elven Head Wizard (F)_138: 289478806341111853
+      Elven Head Wizard (F)_139: -4912511005753166342
+      Elven Head Wizard (F)_14: 4937280806815063478
+      Elven Head Wizard (F)_140: -2425560089604265889
+      Elven Head Wizard (F)_141: -2476923284622238605
+      Elven Head Wizard (F)_142: -737507350192140241
+      Elven Head Wizard (F)_143: 772969982467770051
+      Elven Head Wizard (F)_144: 8916122880101208699
+      Elven Head Wizard (F)_145: 7982178652628279580
+      Elven Head Wizard (F)_146: 8141050027376638552
+      Elven Head Wizard (F)_147: -4985651775872613450
+      Elven Head Wizard (F)_148: 2880237866179461392
+      Elven Head Wizard (F)_149: -1372173320676483489
+      Elven Head Wizard (F)_15: 6744273507824340418
+      Elven Head Wizard (F)_150: -8729557159006253312
+      Elven Head Wizard (F)_151: 5615162031922887545
+      Elven Head Wizard (F)_152: 1516401609325251038
+      Elven Head Wizard (F)_153: -4895902091511205625
+      Elven Head Wizard (F)_154: 4799562867342870647
+      Elven Head Wizard (F)_155: -678122519248231401
+      Elven Head Wizard (F)_156: -4774618260554068706
+      Elven Head Wizard (F)_157: 7071282742063435333
+      Elven Head Wizard (F)_158: -443258845945664037
+      Elven Head Wizard (F)_159: 6607075158330491418
+      Elven Head Wizard (F)_16: 4393082356866718646
+      Elven Head Wizard (F)_160: -4464309651645764548
+      Elven Head Wizard (F)_161: 7921145920597262611
+      Elven Head Wizard (F)_162: -6473428648106290064
+      Elven Head Wizard (F)_163: 2731135646614726936
+      Elven Head Wizard (F)_164: 3820628396654144297
+      Elven Head Wizard (F)_165: -748312475134555056
+      Elven Head Wizard (F)_166: 5140683897162855665
+      Elven Head Wizard (F)_167: -8624943834810729919
+      Elven Head Wizard (F)_168: -7693800004112747177
+      Elven Head Wizard (F)_17: 8254904356931444690
+      Elven Head Wizard (F)_18: -133898678675930329
+      Elven Head Wizard (F)_19: -8605776163212918595
+      Elven Head Wizard (F)_2: 6715583982431209298
+      Elven Head Wizard (F)_20: 8379015589200943246
+      Elven Head Wizard (F)_21: -2704514847643741260
+      Elven Head Wizard (F)_22: 5961001406290920403
+      Elven Head Wizard (F)_23: -3091034520061174126
+      Elven Head Wizard (F)_24: -8946833306919004936
+      Elven Head Wizard (F)_25: -5557792694803109872
+      Elven Head Wizard (F)_26: 4264697302786974720
+      Elven Head Wizard (F)_27: 2429397340163216139
+      Elven Head Wizard (F)_28: -1657679217076759680
+      Elven Head Wizard (F)_29: -1368979999703031882
+      Elven Head Wizard (F)_3: 2165621150150695876
+      Elven Head Wizard (F)_30: -8775647718872331823
+      Elven Head Wizard (F)_31: -8111318207069328926
+      Elven Head Wizard (F)_32: -2056236129538571107
+      Elven Head Wizard (F)_33: -5100993484613752790
+      Elven Head Wizard (F)_34: 8400162832370176121
+      Elven Head Wizard (F)_35: 8487596672198744019
+      Elven Head Wizard (F)_36: 8791680593941759254
+      Elven Head Wizard (F)_37: 2635673581356076915
+      Elven Head Wizard (F)_38: -7830157004536135503
+      Elven Head Wizard (F)_39: -3379554238744479982
+      Elven Head Wizard (F)_4: 8815431919304894417
+      Elven Head Wizard (F)_40: 5489318597609423763
+      Elven Head Wizard (F)_41: -5193937652995342527
+      Elven Head Wizard (F)_42: -7824491570671072572
+      Elven Head Wizard (F)_43: 8605772957046978722
+      Elven Head Wizard (F)_44: -1970363534523154598
+      Elven Head Wizard (F)_45: 2100030243149396728
+      Elven Head Wizard (F)_46: 6321054853268087228
+      Elven Head Wizard (F)_47: 4998117543393240737
+      Elven Head Wizard (F)_48: -5624753867051292636
+      Elven Head Wizard (F)_49: 436040640293768033
+      Elven Head Wizard (F)_5: 6452119790840771695
+      Elven Head Wizard (F)_50: -272086336592776890
+      Elven Head Wizard (F)_51: 3057805145519906589
+      Elven Head Wizard (F)_52: 1769400182906207864
+      Elven Head Wizard (F)_53: -1058345819928809395
+      Elven Head Wizard (F)_54: 7958933767429616549
+      Elven Head Wizard (F)_55: 1619110133565773538
+      Elven Head Wizard (F)_56: 2940101405696740584
+      Elven Head Wizard (F)_57: 4050019161854329814
+      Elven Head Wizard (F)_58: 3784901122478101870
+      Elven Head Wizard (F)_59: 240943498811536290
+      Elven Head Wizard (F)_6: 3113091202583066032
+      Elven Head Wizard (F)_60: -5181183250183828448
+      Elven Head Wizard (F)_61: 2323830268756164538
+      Elven Head Wizard (F)_62: -8911066545038536854
+      Elven Head Wizard (F)_63: 8953680546879813986
+      Elven Head Wizard (F)_64: -2414828679581506213
+      Elven Head Wizard (F)_65: 5758210894778845198
+      Elven Head Wizard (F)_66: -6264684261956404325
+      Elven Head Wizard (F)_67: -4601098774486430367
+      Elven Head Wizard (F)_68: 3458597841732037058
+      Elven Head Wizard (F)_69: -5562379502612288418
+      Elven Head Wizard (F)_7: -8207909982782930250
+      Elven Head Wizard (F)_70: -2364464380878045111
+      Elven Head Wizard (F)_71: 4535222454649552574
+      Elven Head Wizard (F)_72: -2341344998864552378
+      Elven Head Wizard (F)_73: 2354641169610116288
+      Elven Head Wizard (F)_74: 4000948251241879326
+      Elven Head Wizard (F)_75: 5817763770076439556
+      Elven Head Wizard (F)_76: 4334866936709873646
+      Elven Head Wizard (F)_77: -9163776266866407464
+      Elven Head Wizard (F)_78: 6191218619916451250
+      Elven Head Wizard (F)_79: 2996763302749188602
+      Elven Head Wizard (F)_8: -8492290041827549477
+      Elven Head Wizard (F)_80: 3838386143577141164
+      Elven Head Wizard (F)_81: 1544023535575984844
+      Elven Head Wizard (F)_82: -3749531951044849794
+      Elven Head Wizard (F)_83: -6310423854089227203
+      Elven Head Wizard (F)_84: 6714012292908149719
+      Elven Head Wizard (F)_85: -8701084922865093401
+      Elven Head Wizard (F)_86: -2178433377415710013
+      Elven Head Wizard (F)_87: 5485592628799496632
+      Elven Head Wizard (F)_88: -7977429782611685236
+      Elven Head Wizard (F)_89: 5604344395018656594
+      Elven Head Wizard (F)_9: 6790040744305260487
+      Elven Head Wizard (F)_90: -388158452090601506
+      Elven Head Wizard (F)_91: 8235767348728227398
+      Elven Head Wizard (F)_92: 3133145267379884928
+      Elven Head Wizard (F)_93: -4591885379153497612
+      Elven Head Wizard (F)_94: -26075976862889095
+      Elven Head Wizard (F)_95: 522258014869224033
+      Elven Head Wizard (F)_96: -6415784548848460190
+      Elven Head Wizard (F)_97: 5758437624047073510
+      Elven Head Wizard (F)_98: -3820125284806814290
+      Elven Head Wizard (F)_99: 2633643479745481445
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

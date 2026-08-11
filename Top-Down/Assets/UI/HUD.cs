@@ -5,11 +5,13 @@ public class HUD : MonoBehaviour
 {
     [Header("References")]
     [SerializeField] private TextMeshProUGUI _healthText;
+    [SerializeField] private TextMeshProUGUI _manaText;
     [SerializeField] private TextMeshProUGUI _scoreText;
     [SerializeField] private TextMeshProUGUI _itemsText;
     [SerializeField] private GameObject _hudPanel;
 
     private PlayerHealth _playerHealth;
+    private PlayerMana _playerMana;
 
     private void Start()
     {
@@ -21,6 +23,13 @@ public class HUD : MonoBehaviour
             {
                 _playerHealth.OnHealthChanged += UpdateHealthDisplay;
                 UpdateHealthDisplay(_playerHealth.CurrentHealth, _playerHealth.MaxHealth);
+            }
+
+            _playerMana = player.GetComponent<PlayerMana>();
+            if (_playerMana != null)
+            {
+                _playerMana.OnManaChanged += UpdateManaDisplay;
+                 UpdateManaDisplay(_playerMana.CurrentMana, _playerMana.MaxMana);
             }
         }
 
@@ -37,6 +46,15 @@ public class HUD : MonoBehaviour
         if (_healthText != null)
         {
             _healthText.text = $"HP: {current}/{max}";
+        }
+    }
+
+
+    private void UpdateManaDisplay(int current, int max)
+    {
+        if (_healthText != null)
+        {
+            _manaText.text = $"Mana: {current}/{max}";
         }
     }
 

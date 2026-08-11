@@ -1,0 +1,4537 @@
+fileFormatVersion: 2
+guid: 864c2a5afa6268843a9eee1098400813
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3750848781000935371
+    second: Light Elf King_0
+  - first:
+      213: 1498847912448866213
+    second: Light Elf King_1
+  - first:
+      213: 1473872320355791551
+    second: Light Elf King_2
+  - first:
+      213: -56652592818082614
+    second: Light Elf King_3
+  - first:
+      213: 5268788153573070610
+    second: Light Elf King_4
+  - first:
+      213: -374875024494721312
+    second: Light Elf King_5
+  - first:
+      213: 8604475365321905416
+    second: Light Elf King_6
+  - first:
+      213: -2286568328929126421
+    second: Light Elf King_7
+  - first:
+      213: 1286834725980894777
+    second: Light Elf King_8
+  - first:
+      213: 4104324783351287722
+    second: Light Elf King_9
+  - first:
+      213: 8219044159583197822
+    second: Light Elf King_10
+  - first:
+      213: -1768886690332697222
+    second: Light Elf King_11
+  - first:
+      213: -8018619953736984520
+    second: Light Elf King_12
+  - first:
+      213: -362928564643737650
+    second: Light Elf King_13
+  - first:
+      213: -7373627481292999472
+    second: Light Elf King_14
+  - first:
+      213: 9176221197461730861
+    second: Light Elf King_15
+  - first:
+      213: -5709037634215041158
+    second: Light Elf King_16
+  - first:
+      213: -8091904760303317736
+    second: Light Elf King_17
+  - first:
+      213: 6260334018323260390
+    second: Light Elf King_18
+  - first:
+      213: 1793406413896459801
+    second: Light Elf King_19
+  - first:
+      213: -4563523197006238872
+    second: Light Elf King_20
+  - first:
+      213: -3046170474150202532
+    second: Light Elf King_21
+  - first:
+      213: -3666006623513575164
+    second: Light Elf King_22
+  - first:
+      213: -4435480221521557987
+    second: Light Elf King_23
+  - first:
+      213: 7921011732664502953
+    second: Light Elf King_24
+  - first:
+      213: 8877805980539381437
+    second: Light Elf King_25
+  - first:
+      213: -1172583892721226399
+    second: Light Elf King_26
+  - first:
+      213: 5288966000254829488
+    second: Light Elf King_27
+  - first:
+      213: 2590481312617971390
+    second: Light Elf King_28
+  - first:
+      213: -8713511238773379337
+    second: Light Elf King_29
+  - first:
+      213: -84830358692203584
+    second: Light Elf King_30
+  - first:
+      213: -28598219034475066
+    second: Light Elf King_31
+  - first:
+      213: 2328877140204935682
+    second: Light Elf King_32
+  - first:
+      213: -3371787931448988039
+    second: Light Elf King_33
+  - first:
+      213: 1553830824371499598
+    second: Light Elf King_34
+  - first:
+      213: 2608898555600126181
+    second: Light Elf King_35
+  - first:
+      213: -5394823766142607267
+    second: Light Elf King_36
+  - first:
+      213: 3569059950105152574
+    second: Light Elf King_37
+  - first:
+      213: 816170260771514390
+    second: Light Elf King_38
+  - first:
+      213: -8202798711816852087
+    second: Light Elf King_39
+  - first:
+      213: -2919829447412568516
+    second: Light Elf King_40
+  - first:
+      213: 1252228311972653169
+    second: Light Elf King_41
+  - first:
+      213: -1730411606171857890
+    second: Light Elf King_42
+  - first:
+      213: -2910896865744223070
+    second: Light Elf King_43
+  - first:
+      213: 119574074884827803
+    second: Light Elf King_44
+  - first:
+      213: -7597956863390465715
+    second: Light Elf King_45
+  - first:
+      213: -2416245880378904901
+    second: Light Elf King_46
+  - first:
+      213: -6205848349589226630
+    second: Light Elf King_47
+  - first:
+      213: 3774757776675079859
+    second: Light Elf King_48
+  - first:
+      213: 1483165630266528706
+    second: Light Elf King_49
+  - first:
+      213: 5416481380702226601
+    second: Light Elf King_50
+  - first:
+      213: -727660361791012501
+    second: Light Elf King_51
+  - first:
+      213: 1109256713687353205
+    second: Light Elf King_52
+  - first:
+      213: 2229537796231540583
+    second: Light Elf King_53
+  - first:
+      213: 5893119737219053544
+    second: Light Elf King_54
+  - first:
+      213: -7925825403779627618
+    second: Light Elf King_55
+  - first:
+      213: -8419288290125515301
+    second: Light Elf King_56
+  - first:
+      213: -2737343618142255506
+    second: Light Elf King_57
+  - first:
+      213: -4890606806674502768
+    second: Light Elf King_58
+  - first:
+      213: 6501470550180601663
+    second: Light Elf King_59
+  - first:
+      213: 5106381046084647065
+    second: Light Elf King_60
+  - first:
+      213: -6957302564021266912
+    second: Light Elf King_61
+  - first:
+      213: -3248650178199188596
+    second: Light Elf King_62
+  - first:
+      213: -896762402453469197
+    second: Light Elf King_63
+  - first:
+      213: 8879395504180787352
+    second: Light Elf King_64
+  - first:
+      213: -8560161230803032425
+    second: Light Elf King_65
+  - first:
+      213: 985199771620372064
+    second: Light Elf King_66
+  - first:
+      213: 3730243563661050558
+    second: Light Elf King_67
+  - first:
+      213: -1890259387348444705
+    second: Light Elf King_68
+  - first:
+      213: 8805341677612402888
+    second: Light Elf King_69
+  - first:
+      213: -4417595653992237056
+    second: Light Elf King_70
+  - first:
+      213: 5899340504396465824
+    second: Light Elf King_71
+  - first:
+      213: -967158237013418355
+    second: Light Elf King_72
+  - first:
+      213: 7489678471502620099
+    second: Light Elf King_73
+  - first:
+      213: 339037762082373593
+    second: Light Elf King_74
+  - first:
+      213: 3487712173968194253
+    second: Light Elf King_75
+  - first:
+      213: -762516963968375497
+    second: Light Elf King_76
+  - first:
+      213: 2219193565121984151
+    second: Light Elf King_77
+  - first:
+      213: 6677788047186919867
+    second: Light Elf King_78
+  - first:
+      213: 438167335164369077
+    second: Light Elf King_79
+  - first:
+      213: 7355785496059694167
+    second: Light Elf King_80
+  - first:
+      213: -5163542127286349951
+    second: Light Elf King_81
+  - first:
+      213: 3629071516769033167
+    second: Light Elf King_82
+  - first:
+      213: -82167508719556802
+    second: Light Elf King_83
+  - first:
+      213: -4661756315489828486
+    second: Light Elf King_84
+  - first:
+      213: 8403021665050404929
+    second: Light Elf King_85
+  - first:
+      213: 8581164968390288501
+    second: Light Elf King_86
+  - first:
+      213: 2909782999736593558
+    second: Light Elf King_87
+  - first:
+      213: -386243501094120957
+    second: Light Elf King_88
+  - first:
+      213: 7886493750462702239
+    second: Light Elf King_89
+  - first:
+      213: 2968663905008255684
+    second: Light Elf King_90
+  - first:
+      213: -1109032052922621115
+    second: Light Elf King_91
+  - first:
+      213: 8939746600476391589
+    second: Light Elf King_92
+  - first:
+      213: -8841037351497801555
+    second: Light Elf King_93
+  - first:
+      213: 5411992886825184397
+    second: Light Elf King_94
+  - first:
+      213: 8342803063501721967
+    second: Light Elf King_95
+  - first:
+      213: 624991809707207810
+    second: Light Elf King_96
+  - first:
+      213: -5913200959597157379
+    second: Light Elf King_97
+  - first:
+      213: 3142657421894553812
+    second: Light Elf King_98
+  - first:
+      213: -6481697900340528480
+    second: Light Elf King_99
+  - first:
+      213: 7925760747031151490
+    second: Light Elf King_100
+  - first:
+      213: -6251094274775783361
+    second: Light Elf King_101
+  - first:
+      213: 5539083962811463637
+    second: Light Elf King_102
+  - first:
+      213: 3958788789863981519
+    second: Light Elf King_103
+  - first:
+      213: -1602153123977901284
+    second: Light Elf King_104
+  - first:
+      213: 8711652190028506271
+    second: Light Elf King_105
+  - first:
+      213: 1111645051884811834
+    second: Light Elf King_106
+  - first:
+      213: 6250619113933954725
+    second: Light Elf King_107
+  - first:
+      213: 3349309492584042880
+    second: Light Elf King_108
+  - first:
+      213: -1860322156661352789
+    second: Light Elf King_109
+  - first:
+      213: -3914480616963751421
+    second: Light Elf King_110
+  - first:
+      213: 9138069944043036816
+    second: Light Elf King_111
+  - first:
+      213: -35758627974418975
+    second: Light Elf King_112
+  - first:
+      213: -2325027460188126139
+    second: Light Elf King_113
+  - first:
+      213: -8140520994789519335
+    second: Light Elf King_114
+  - first:
+      213: 4141673016919819420
+    second: Light Elf King_115
+  - first:
+      213: 5115328524154019334
+    second: Light Elf King_116
+  - first:
+      213: -6583198512632721277
+    second: Light Elf King_117
+  - first:
+      213: -444548160690258193
+    second: Light Elf King_118
+  - first:
+      213: 2068356071142374919
+    second: Light Elf King_119
+  - first:
+      213: -3443735297497075837
+    second: Light Elf King_120
+  - first:
+      213: 2499384282186703883
+    second: Light Elf King_121
+  - first:
+      213: -4859090790749069955
+    second: Light Elf King_122
+  - first:
+      213: 35499501217026171
+    second: Light Elf King_123
+  - first:
+      213: -2683691597666528883
+    second: Light Elf King_124
+  - first:
+      213: -3358516787757011514
+    second: Light Elf King_125
+  - first:
+      213: -225518069856275831
+    second: Light Elf King_126
+  - first:
+      213: -6716075776137059894
+    second: Light Elf King_127
+  - first:
+      213: -4031851473229755449
+    second: Light Elf King_128
+  - first:
+      213: 4883072503660894965
+    second: Light Elf King_129
+  - first:
+      213: 7488844368452865092
+    second: Light Elf King_130
+  - first:
+      213: 7864845632033399133
+    second: Light Elf King_131
+  - first:
+      213: 7848563603182685254
+    second: Light Elf King_132
+  - first:
+      213: -5223200414240119410
+    second: Light Elf King_133
+  - first:
+      213: -1336867452439377264
+    second: Light Elf King_134
+  - first:
+      213: 5076447008042051633
+    second: Light Elf King_135
+  - first:
+      213: -7999362049318879881
+    second: Light Elf King_136
+  - first:
+      213: 8478215293877698302
+    second: Light Elf King_137
+  - first:
+      213: 6458149129855903511
+    second: Light Elf King_138
+  - first:
+      213: -981038791562770250
+    second: Light Elf King_139
+  - first:
+      213: -5491770544894880603
+    second: Light Elf King_140
+  - first:
+      213: 8248052238950456475
+    second: Light Elf King_141
+  - first:
+      213: -8044619357597765550
+    second: Light Elf King_142
+  - first:
+      213: -4824222465552276117
+    second: Light Elf King_143
+  - first:
+      213: 4410069205144292427
+    second: Light Elf King_144
+  - first:
+      213: -4277491905975486009
+    second: Light Elf King_145
+  - first:
+      213: 5545026480457200025
+    second: Light Elf King_146
+  - first:
+      213: 3050069844684613633
+    second: Light Elf King_147
+  - first:
+      213: 8695082940283565370
+    second: Light Elf King_148
+  - first:
+      213: 6838701641089184818
+    second: Light Elf King_149
+  - first:
+      213: 4141771392635545967
+    second: Light Elf King_150
+  - first:
+      213: 5054574460163182664
+    second: Light Elf King_151
+  - first:
+      213: -190711683370807238
+    second: Light Elf King_152
+  - first:
+      213: -5330773293892173881
+    second: Light Elf King_153
+  - first:
+      213: 4828435382950227005
+    second: Light Elf King_154
+  - first:
+      213: 9015302148720124936
+    second: Light Elf King_155
+  - first:
+      213: 1174858632030104200
+    second: Light Elf King_156
+  - first:
+      213: 3331347833532075872
+    second: Light Elf King_157
+  - first:
+      213: 3027697371293803677
+    second: Light Elf King_158
+  - first:
+      213: -8127681494400215623
+    second: Light Elf King_159
+  - first:
+      213: -4554973564892396101
+    second: Light Elf King_160
+  - first:
+      213: -5669080048852825109
+    second: Light Elf King_161
+  - first:
+      213: 1933267606968049122
+    second: Light Elf King_162
+  - first:
+      213: -1546850484060907336
+    second: Light Elf King_163
+  - first:
+      213: -8666219223721600666
+    second: Light Elf King_164
+  - first:
+      213: -439193455805811704
+    second: Light Elf King_165
+  - first:
+      213: -4553236686683067863
+    second: Light Elf King_166
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Light Elf King_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1281
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc784cde711bd0430800000000000000
+      internalID: 3750848781000935371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1217
+        width: 23
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7b9d13c3afcc410800000000000000
+      internalID: 1498847912448866213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1281
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb27613011f347410800000000000000
+      internalID: 1473872320355791551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_3
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1217
+        width: 25
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc297954cab63ff0800000000000000
+      internalID: -56652592818082614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1281
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 217528219ee7e1940800000000000000
+      internalID: 5268788153573070610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_5
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1217
+        width: 23
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e683d1c62d2ccaf0800000000000000
+      internalID: -374875024494721312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_6
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1281
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8059c9c91cc396770800000000000000
+      internalID: 8604475365321905416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_7
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1217
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be75587383a7440e0800000000000000
+      internalID: -2286568328929126421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_8
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1281
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9367ab68d51cbd110800000000000000
+      internalID: 1286834725980894777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_9
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1217
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf4c7215ad75f830800000000000000
+      internalID: 4104324783351287722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_10
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1281
+        width: 50
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a9435ed19ef0270800000000000000
+      internalID: 8219044159583197822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_11
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1217
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d9dc65de6a377e0800000000000000
+      internalID: -1768886690332697222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_12
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1281
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 838d5a4f2a328b090800000000000000
+      internalID: -8018619953736984520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_13
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1217
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf4191b46e96faf0800000000000000
+      internalID: -362928564643737650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_14
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1153
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4f8777fdc9ba990800000000000000
+      internalID: -7373627481292999472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1153
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26bd17bf8c785f70800000000000000
+      internalID: 9176221197461730861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_16
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1153
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a77a64bf48c65c0b0800000000000000
+      internalID: -5709037634215041158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_17
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1153
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d04d54e77c3bf80800000000000000
+      internalID: -8091904760303317736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_18
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1153
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e3a379fe9c21e650800000000000000
+      internalID: 6260334018323260390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_19
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1153
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916a43ea1a573e810800000000000000
+      internalID: 1793406413896459801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_20
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1153
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b2036b4db1ba0c0800000000000000
+      internalID: -4563523197006238872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_21
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1180
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c537ef2d714d9b5d0800000000000000
+      internalID: -3046170474150202532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_22
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1089
+        width: 23
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4018e35366abf1dc0800000000000000
+      internalID: -3666006623513575164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_23
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1089
+        width: 25
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d16cfeb1d320272c0800000000000000
+      internalID: -4435480221521557987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_24
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1089
+        width: 23
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa4b2b14361ded60800000000000000
+      internalID: 7921011732664502953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_25
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1089
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db663eea08d443b70800000000000000
+      internalID: 8877805980539381437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_26
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1089
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16da10589252abfe0800000000000000
+      internalID: -1172583892721226399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_27
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1089
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b3ce4a1e8e266940800000000000000
+      internalID: 5288966000254829488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_28
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1089
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebeb1e3670d33f320800000000000000
+      internalID: 2590481312617971390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_29
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1025
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fee98ac1b3631780800000000000000
+      internalID: -8713511238773379337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_30
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 961
+        width: 23
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c37bfbfc3f92def0800000000000000
+      internalID: -84830358692203584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1023
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c5cd3142166a9ff0800000000000000
+      internalID: -28598219034475066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_32
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 961
+        width: 27
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a517b8b65d15020800000000000000
+      internalID: 2328877140204935682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_33
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1023
+        width: 29
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ea808adb00531d0800000000000000
+      internalID: -3371787931448988039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_34
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 961
+        width: 29
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4237b7f6e0509510800000000000000
+      internalID: 1553830824371499598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_35
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1023
+        width: 28
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0439de96ba43420800000000000000
+      internalID: 2608898555600126181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_36
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 961
+        width: 27
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d502c312e5cb125b0800000000000000
+      internalID: -5394823766142607267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_37
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 961
+        width: 29
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c471c6d19d78130800000000000000
+      internalID: 3569059950105152574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_38
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1023
+        width: 29
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6182685278e935b00800000000000000
+      internalID: 816170260771514390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_39
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 961
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98def1a280ec92e80800000000000000
+      internalID: -8202798711816852087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_40
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1023
+        width: 29
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3eaf36669eaa77d0800000000000000
+      internalID: -2919829447412568516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_41
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 961
+        width: 29
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17821d0e30fc06110800000000000000
+      internalID: 1252228311972653169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_42
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1023
+        width: 29
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1cc9e2ffc75cf7e0800000000000000
+      internalID: -1730411606171857890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_43
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1023
+        width: 28
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a4848329ba6a97d0800000000000000
+      internalID: -2910896865744223070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_44
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 961
+        width: 27
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a2bd1dcffc8a100800000000000000
+      internalID: 119574074884827803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_45
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 897
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d41ceda0d72ae8690800000000000000
+      internalID: -7597956863390465715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_46
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 898
+        width: 33
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbea3027c25c77ed0800000000000000
+      internalID: -2416245880378904901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_47
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 898
+        width: 31
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b3ac85ec560e9a0800000000000000
+      internalID: -6205848349589226630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_48
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 898
+        width: 31
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b68cd7c232a26430800000000000000
+      internalID: 3774757776675079859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_49
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 898
+        width: 31
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3da175843459410800000000000000
+      internalID: 1483165630266528706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_50
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 898
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a806453e153b2b40800000000000000
+      internalID: 5416481380702226601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_51
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 898
+        width: 31
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b61805a91c4d6e5f0800000000000000
+      internalID: -727660361791012501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_52
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 898
+        width: 31
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5774d00aa1fd46f00800000000000000
+      internalID: 1109256713687353205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_53
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 833
+        width: 23
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f20b520d8e0fe10800000000000000
+      internalID: 2229537796231540583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_54
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 833
+        width: 27
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e7f8cb8d2198c150800000000000000
+      internalID: 5893119737219053544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_55
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 833
+        width: 29
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e95c2ffb9cfc10290800000000000000
+      internalID: -7925825403779627618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_56
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 833
+        width: 27
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5767d48eda82b80800000000000000
+      internalID: -8419288290125515301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_57
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 833
+        width: 29
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66c27c7b70030ad0800000000000000
+      internalID: -2737343618142255506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_58
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 833
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b0f085503112cb0800000000000000
+      internalID: -4890606806674502768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_59
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 833
+        width: 29
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f9d25e40dd93a50800000000000000
+      internalID: 6501470550180601663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_60
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 833
+        width: 27
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998b9a3b1828dd640800000000000000
+      internalID: 5106381046084647065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_61
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 770
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026199ced22b27f90800000000000000
+      internalID: -6957302564021266912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_62
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 770
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b8de000e97ae2d0800000000000000
+      internalID: -3248650178199188596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_63
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 769
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7c5d1a85f0e83f0800000000000000
+      internalID: -896762402453469197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_64
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 768
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89875ee7a23f93b70800000000000000
+      internalID: 8879395504180787352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_65
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 769
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7962ae9d6b2343980800000000000000
+      internalID: -8560161230803032425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_66
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 770
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e6a34f8f12cad00800000000000000
+      internalID: 985199771620372064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_67
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 769
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb244b9e1cc74c330800000000000000
+      internalID: 3730243563661050558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_68
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 768
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd99fbb2a1374c5e0800000000000000
+      internalID: -1890259387348444705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_69
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 769
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c887046a9bd23a70800000000000000
+      internalID: 8805341677612402888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_70
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 705
+        width: 23
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 008bb7a782c81b2c0800000000000000
+      internalID: -4417595653992237056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_71
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 705
+        width: 27
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a600a5ceeaaed150800000000000000
+      internalID: 5899340504396465824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_72
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 706
+        width: 24
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ed83925b6f392f0800000000000000
+      internalID: -967158237013418355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_73
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 706
+        width: 25
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c5edc743eea0f760800000000000000
+      internalID: 7489678471502620099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_74
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 705
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dffc5e5c0184b400800000000000000
+      internalID: 339037762082373593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_75
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 705
+        width: 30
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcafd285eb7d66030800000000000000
+      internalID: 3487712173968194253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_76
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 705
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735a47b7cdefa65f0800000000000000
+      internalID: -762516963968375497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_77
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 705
+        width: 25
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 796bde82ac82cce10800000000000000
+      internalID: 2219193565121984151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_78
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 705
+        width: 24
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb10de539d44cac50800000000000000
+      internalID: 6677788047186919867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_79
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 641
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8d6acaedea41600800000000000000
+      internalID: 438167335164369077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_80
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 577
+        width: 23
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ccb90afeff41660800000000000000
+      internalID: 7355785496059694167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_81
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 641
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f0558fac96758b0800000000000000
+      internalID: -5163542127286349951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_82
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 640
+        width: 33
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb918d115d0d5230800000000000000
+      internalID: 3629071516769033167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_83
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 578
+        width: 24
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3721be06151cdef0800000000000000
+      internalID: -82167508719556802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_84
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 640
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a718bc1845d1e4fb0800000000000000
+      internalID: -4661756315489828486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_85
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 578
+        width: 25
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148ad39eea78d9470800000000000000
+      internalID: 8403021665050404929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_86
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 640
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574ede3e21c661770800000000000000
+      internalID: 8581164968390288501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_87
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 577
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c25c8b830a16820800000000000000
+      internalID: 2909782999736593558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_88
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 641
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3025b780599c3aaf0800000000000000
+      internalID: -386243501094120957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_89
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 640
+        width: 33
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92eaa71844727d60800000000000000
+      internalID: 7886493750462702239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_90
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 577
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c28a8bc710d23920800000000000000
+      internalID: 2968663905008255684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_91
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 640
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5436609493deb90f0800000000000000
+      internalID: -1109032052922621115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_92
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 577
+        width: 25
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8b6671b2c501c70800000000000000
+      internalID: 8939746600476391589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_93
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 640
+        width: 33
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da06302ee535e4580800000000000000
+      internalID: -8841037351497801555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_94
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 577
+        width: 24
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ce72a4bd24b1b40800000000000000
+      internalID: 5411992886825184397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_95
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 577
+        width: 27
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f619f072f2797c370800000000000000
+      internalID: 8342803063501721967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_96
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 577
+        width: 30
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c60255dba6ca800800000000000000
+      internalID: 624991809707207810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_97
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 513
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df366b58e0710fda0800000000000000
+      internalID: -5913200959597157379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_98
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 449
+        width: 23
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d015c25646fc9b20800000000000000
+      internalID: 3142657421894553812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_99
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 512
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aabec4e9126c06a0800000000000000
+      internalID: -6481697900340528480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_100
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 512
+        width: 29
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283c68d2865fdfd60800000000000000
+      internalID: 7925760747031151490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_101
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 449
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38e28670e6af39a0800000000000000
+      internalID: -6251094274775783361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_102
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 449
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7b0705487cedc40800000000000000
+      internalID: 5539083962811463637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_103
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 512
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc124a80e6170f630800000000000000
+      internalID: 3958788789863981519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_104
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 449
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1bc389e83204c9e0800000000000000
+      internalID: -1602153123977901284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_105
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 512
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f942761b28106e870800000000000000
+      internalID: 8711652190028506271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_106
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 449
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a363ae1f84b5d6f00800000000000000
+      internalID: 1111645051884811834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_107
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 512
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aedc4887f8aeb650800000000000000
+      internalID: 6250619113933954725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_108
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 385
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081d054fc332b7e20800000000000000
+      internalID: 3349309492584042880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_109
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 449
+        width: 27
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6596cdadece26e0800000000000000
+      internalID: -1860322156661352789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_110
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 385
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30249b16e98fca9c0800000000000000
+      internalID: -3914480616963751421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_111
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 385
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090eb53d232f0de70800000000000000
+      internalID: 9138069944043036816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_112
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 385
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1edede1a7b5f08ff0800000000000000
+      internalID: -35758627974418975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_113
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 321
+        width: 23
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 544457ee7d7dbbfd0800000000000000
+      internalID: -2325027460188126139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_114
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 385
+        width: 29
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91016fa194f070f80800000000000000
+      internalID: -8140520994789519335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_115
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 321
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9483555aad2a7930800000000000000
+      internalID: 4141673016919819420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_116
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 385
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e9f97c03c4df640800000000000000
+      internalID: 5115328524154019334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_117
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 321
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38095a005d7c3a4a0800000000000000
+      internalID: -6583198512632721277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_118
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 321
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feef08c9dc5a4d9f0800000000000000
+      internalID: -444548160690258193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_119
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 321
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70eb67953e644bc10800000000000000
+      internalID: 2068356071142374919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_120
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 321
+        width: 27
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f663c1ef46530d0800000000000000
+      internalID: -3443735297497075837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_121
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 257
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04eee823c89fa220800000000000000
+      internalID: 2499384282186703883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_122
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 193
+        width: 23
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d970e9baa019cb0800000000000000
+      internalID: -4859090790749069955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_123
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 193
+        width: 30
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b709eb7bb9e1e7000800000000000000
+      internalID: 35499501217026171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_124
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 193
+        width: 34
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d81d262f5bc91cad0800000000000000
+      internalID: -2683691597666528883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_125
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 193
+        width: 37
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cdae8596c62461d0800000000000000
+      internalID: -3358516787757011514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_126
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 193
+        width: 37
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982f8c3a28ccedcf0800000000000000
+      internalID: -225518069856275831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_127
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 193
+        width: 35
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1aeb63aa4bbc2a0800000000000000
+      internalID: -6716075776137059894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_128
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 193
+        width: 36
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb410f527cfb08c0800000000000000
+      internalID: -4031851473229755449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_129
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 193
+        width: 38
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa5f29029824c340800000000000000
+      internalID: 4883072503660894965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_130
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 193
+        width: 40
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c41d78648bde760800000000000000
+      internalID: 7488844368452865092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_131
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 193
+        width: 37
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5122aebe6b852d60800000000000000
+      internalID: 7864845632033399133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_132
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 193
+        width: 36
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c83cc7303bbec60800000000000000
+      internalID: 7848563603182685254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_133
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 193
+        width: 33
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e856b8e95e67387b0800000000000000
+      internalID: -5223200414240119410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_134
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 193
+        width: 36
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ac191922e727de0800000000000000
+      internalID: -1336867452439377264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_135
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 129
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 138e07b58a9237640800000000000000
+      internalID: 5076447008042051633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_136
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 130
+        width: 31
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d7b9c399e8cf090800000000000000
+      internalID: -7999362049318879881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_137
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 130
+        width: 29
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe3dd8e3eba8a570800000000000000
+      internalID: 8478215293877698302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_138
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 129
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7172f87ba64ff9950800000000000000
+      internalID: 6458149129855903511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_139
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 129
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b8c506ba66a262f0800000000000000
+      internalID: -981038791562770250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_140
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 129
+        width: 29
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4569b39cf49c3b0800000000000000
+      internalID: -5491770544894880603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_141
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 129
+        width: 29
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9cd18fafc7f67270800000000000000
+      internalID: 8248052238950456475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_142
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 129
+        width: 29
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25077250155cb5090800000000000000
+      internalID: -8044619357597765550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_143
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 129
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b652c473a3bec0db0800000000000000
+      internalID: -4824222465552276117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_144
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 129
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4cc3879396b33d30800000000000000
+      internalID: 4410069205144292427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_145
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 129
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9f8be46cb43a4c0800000000000000
+      internalID: -4277491905975486009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_146
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 129
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99139c58434e3fc40800000000000000
+      internalID: 5545026480457200025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_147
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 129
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108ae802d56045a20800000000000000
+      internalID: 3050069844684613633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_148
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a35392c9dd32ba870800000000000000
+      internalID: 8695082940283565370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_149
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 65
+        width: 23
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234700ad8e2f7ee50800000000000000
+      internalID: 6838701641089184818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_150
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 65
+        width: 27
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f69aae633278a7930800000000000000
+      internalID: 4141771392635545967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_151
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 65
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840d9c4f0b4752640800000000000000
+      internalID: 5054574460163182664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_152
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 65
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a309a220cb47a5df0800000000000000
+      internalID: -190711683370807238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_153
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 65
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cffa6fcee94506b0800000000000000
+      internalID: -5330773293892173881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_154
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 65
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3cecad066c020340800000000000000
+      internalID: 4828435382950227005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_155
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 65
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80467450a89cc1d70800000000000000
+      internalID: 9015302148720124936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_156
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 65
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88aa47f73bfed4010800000000000000
+      internalID: 1174858632030104200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_157
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 65
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f42f054335b3e20800000000000000
+      internalID: 3331347833532075872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_158
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 65
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94e95fb7ba840a20800000000000000
+      internalID: 3027697371293803677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_159
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 65
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b552ce3ebca43f80800000000000000
+      internalID: -8127681494400215623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_160
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 65
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb54b4f0dab79c0c0800000000000000
+      internalID: -4554973564892396101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_161
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 65
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb8fdc4bb16351b0800000000000000
+      internalID: -5669080048852825109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_162
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1
+        width: 34
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed991945a854da10800000000000000
+      internalID: 1933267606968049122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_163
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b898e82eab788ae0800000000000000
+      internalID: -1546850484060907336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_164
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 2
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 669996818876bb780800000000000000
+      internalID: -8666219223721600666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_165
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 2
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 804b40ff0eba7e9f0800000000000000
+      internalID: -439193455805811704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Light Elf King_166
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 0
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92aaaf78b57afc0c0800000000000000
+      internalID: -4553236686683067863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Light Elf King_0: 3750848781000935371
+      Light Elf King_1: 1498847912448866213
+      Light Elf King_10: 8219044159583197822
+      Light Elf King_100: 7925760747031151490
+      Light Elf King_101: -6251094274775783361
+      Light Elf King_102: 5539083962811463637
+      Light Elf King_103: 3958788789863981519
+      Light Elf King_104: -1602153123977901284
+      Light Elf King_105: 8711652190028506271
+      Light Elf King_106: 1111645051884811834
+      Light Elf King_107: 6250619113933954725
+      Light Elf King_108: 3349309492584042880
+      Light Elf King_109: -1860322156661352789
+      Light Elf King_11: -1768886690332697222
+      Light Elf King_110: -3914480616963751421
+      Light Elf King_111: 9138069944043036816
+      Light Elf King_112: -35758627974418975
+      Light Elf King_113: -2325027460188126139
+      Light Elf King_114: -8140520994789519335
+      Light Elf King_115: 4141673016919819420
+      Light Elf King_116: 5115328524154019334
+      Light Elf King_117: -6583198512632721277
+      Light Elf King_118: -444548160690258193
+      Light Elf King_119: 2068356071142374919
+      Light Elf King_12: -8018619953736984520
+      Light Elf King_120: -3443735297497075837
+      Light Elf King_121: 2499384282186703883
+      Light Elf King_122: -4859090790749069955
+      Light Elf King_123: 35499501217026171
+      Light Elf King_124: -2683691597666528883
+      Light Elf King_125: -3358516787757011514
+      Light Elf King_126: -225518069856275831
+      Light Elf King_127: -6716075776137059894
+      Light Elf King_128: -4031851473229755449
+      Light Elf King_129: 4883072503660894965
+      Light Elf King_13: -362928564643737650
+      Light Elf King_130: 7488844368452865092
+      Light Elf King_131: 7864845632033399133
+      Light Elf King_132: 7848563603182685254
+      Light Elf King_133: -5223200414240119410
+      Light Elf King_134: -1336867452439377264
+      Light Elf King_135: 5076447008042051633
+      Light Elf King_136: -7999362049318879881
+      Light Elf King_137: 8478215293877698302
+      Light Elf King_138: 6458149129855903511
+      Light Elf King_139: -981038791562770250
+      Light Elf King_14: -7373627481292999472
+      Light Elf King_140: -5491770544894880603
+      Light Elf King_141: 8248052238950456475
+      Light Elf King_142: -8044619357597765550
+      Light Elf King_143: -4824222465552276117
+      Light Elf King_144: 4410069205144292427
+      Light Elf King_145: -4277491905975486009
+      Light Elf King_146: 5545026480457200025
+      Light Elf King_147: 3050069844684613633
+      Light Elf King_148: 8695082940283565370
+      Light Elf King_149: 6838701641089184818
+      Light Elf King_15: 9176221197461730861
+      Light Elf King_150: 4141771392635545967
+      Light Elf King_151: 5054574460163182664
+      Light Elf King_152: -190711683370807238
+      Light Elf King_153: -5330773293892173881
+      Light Elf King_154: 4828435382950227005
+      Light Elf King_155: 9015302148720124936
+      Light Elf King_156: 1174858632030104200
+      Light Elf King_157: 3331347833532075872
+      Light Elf King_158: 3027697371293803677
+      Light Elf King_159: -8127681494400215623
+      Light Elf King_16: -5709037634215041158
+      Light Elf King_160: -4554973564892396101
+      Light Elf King_161: -5669080048852825109
+      Light Elf King_162: 1933267606968049122
+      Light Elf King_163: -1546850484060907336
+      Light Elf King_164: -8666219223721600666
+      Light Elf King_165: -439193455805811704
+      Light Elf King_166: -4553236686683067863
+      Light Elf King_17: -8091904760303317736
+      Light Elf King_18: 6260334018323260390
+      Light Elf King_19: 1793406413896459801
+      Light Elf King_2: 1473872320355791551
+      Light Elf King_20: -4563523197006238872
+      Light Elf King_21: -3046170474150202532
+      Light Elf King_22: -3666006623513575164
+      Light Elf King_23: -4435480221521557987
+      Light Elf King_24: 7921011732664502953
+      Light Elf King_25: 8877805980539381437
+      Light Elf King_26: -1172583892721226399
+      Light Elf King_27: 5288966000254829488
+      Light Elf King_28: 2590481312617971390
+      Light Elf King_29: -8713511238773379337
+      Light Elf King_3: -56652592818082614
+      Light Elf King_30: -84830358692203584
+      Light Elf King_31: -28598219034475066
+      Light Elf King_32: 2328877140204935682
+      Light Elf King_33: -3371787931448988039
+      Light Elf King_34: 1553830824371499598
+      Light Elf King_35: 2608898555600126181
+      Light Elf King_36: -5394823766142607267
+      Light Elf King_37: 3569059950105152574
+      Light Elf King_38: 816170260771514390
+      Light Elf King_39: -8202798711816852087
+      Light Elf King_4: 5268788153573070610
+      Light Elf King_40: -2919829447412568516
+      Light Elf King_41: 1252228311972653169
+      Light Elf King_42: -1730411606171857890
+      Light Elf King_43: -2910896865744223070
+      Light Elf King_44: 119574074884827803
+      Light Elf King_45: -7597956863390465715
+      Light Elf King_46: -2416245880378904901
+      Light Elf King_47: -6205848349589226630
+      Light Elf King_48: 3774757776675079859
+      Light Elf King_49: 1483165630266528706
+      Light Elf King_5: -374875024494721312
+      Light Elf King_50: 5416481380702226601
+      Light Elf King_51: -727660361791012501
+      Light Elf King_52: 1109256713687353205
+      Light Elf King_53: 2229537796231540583
+      Light Elf King_54: 5893119737219053544
+      Light Elf King_55: -7925825403779627618
+      Light Elf King_56: -8419288290125515301
+      Light Elf King_57: -2737343618142255506
+      Light Elf King_58: -4890606806674502768
+      Light Elf King_59: 6501470550180601663
+      Light Elf King_6: 8604475365321905416
+      Light Elf King_60: 5106381046084647065
+      Light Elf King_61: -6957302564021266912
+      Light Elf King_62: -3248650178199188596
+      Light Elf King_63: -896762402453469197
+      Light Elf King_64: 8879395504180787352
+      Light Elf King_65: -8560161230803032425
+      Light Elf King_66: 985199771620372064
+      Light Elf King_67: 3730243563661050558
+      Light Elf King_68: -1890259387348444705
+      Light Elf King_69: 8805341677612402888
+      Light Elf King_7: -2286568328929126421
+      Light Elf King_70: -4417595653992237056
+      Light Elf King_71: 5899340504396465824
+      Light Elf King_72: -967158237013418355
+      Light Elf King_73: 7489678471502620099
+      Light Elf King_74: 339037762082373593
+      Light Elf King_75: 3487712173968194253
+      Light Elf King_76: -762516963968375497
+      Light Elf King_77: 2219193565121984151
+      Light Elf King_78: 6677788047186919867
+      Light Elf King_79: 438167335164369077
+      Light Elf King_8: 1286834725980894777
+      Light Elf King_80: 7355785496059694167
+      Light Elf King_81: -5163542127286349951
+      Light Elf King_82: 3629071516769033167
+      Light Elf King_83: -82167508719556802
+      Light Elf King_84: -4661756315489828486
+      Light Elf King_85: 8403021665050404929
+      Light Elf King_86: 8581164968390288501
+      Light Elf King_87: 2909782999736593558
+      Light Elf King_88: -386243501094120957
+      Light Elf King_89: 7886493750462702239
+      Light Elf King_9: 4104324783351287722
+      Light Elf King_90: 2968663905008255684
+      Light Elf King_91: -1109032052922621115
+      Light Elf King_92: 8939746600476391589
+      Light Elf King_93: -8841037351497801555
+      Light Elf King_94: 5411992886825184397
+      Light Elf King_95: 8342803063501721967
+      Light Elf King_96: 624991809707207810
+      Light Elf King_97: -5913200959597157379
+      Light Elf King_98: 3142657421894553812
+      Light Elf King_99: -6481697900340528480
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
